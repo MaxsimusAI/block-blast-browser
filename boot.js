@@ -140,23 +140,19 @@
       };
       const UI = require('UI').UI;
       const prefabs = require('PrefabConfig').PrefabConfig;
-      const markReady = view => {
-        if (window.runtimeTest.ready) return;
-        window.runtimeTest.ready = true;
-        window.dispatchEvent(new CustomEvent('blockblast-ready', { detail: { view } }));
-      };
       UI.addEventListener('open', config => {
         if ([prefabs.ClassMain, prefabs.ClassGame, prefabs.HomePage, prefabs.ChapterMain, prefabs.ChapterGame, prefabs.Board].includes(config)) {
-          requestAnimationFrame(() => markReady(config.url));
+          window.BlockBlastReadiness.request(config.url, config === prefabs.HomePage ? 'home' : 'gameplay');
         }
       });
       // Initial-launch traits can instantiate the gameplay prefab directly,
-      // bypassing UI.open. Its visible score label is the final ready signal.
+      // bypassing UI.open. A score label only nominates the gameplay screen;
+      // readiness.js also waits for actual board/piece textures.
       const readyPoll = setInterval(() => {
         if (window.runtimeTest.ready) { clearInterval(readyPoll); return; }
         const scene = cc.director.getScene();
         if (scene?.getComponentsInChildren(cc.Label).some(label => label.node.activeInHierarchy && label.node.name === 'currentNum')) {
-          markReady('gameplay');
+          window.BlockBlastReadiness.request('gameplay');
           clearInterval(readyPoll);
         }
       }, 100);

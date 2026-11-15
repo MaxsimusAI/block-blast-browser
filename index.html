@@ -14,10 +14,11 @@
 <link rel="icon" type="image/jpeg" href="shell/icon.jpg">
 <link rel="apple-touch-icon" sizes="512x512" href="shell/icon.jpg">
 <link rel="manifest" href="manifest.webmanifest">
-<link rel="stylesheet" href="shell.css">
+<link rel="stylesheet" href="shell.312cfb552731.css">
 <style>
 html,body{width:100%;height:100%;padding:0;margin:0;overflow:hidden;background:#1d294b;color:#fff;font:16px system-ui;touch-action:none}#GameCanvas{display:block}#status{position:fixed;left:0;bottom:0;padding:8px;max-height:30vh;max-width:100%;overflow:auto;font:12px monospace;background:#000a;white-space:pre-wrap;z-index:10;pointer-events:none}
 </style>
+<link rel="preload" as="fetch" href="startup-pack.812e038440d0771d3e6e.json" crossorigin data-startup-pack>
 </head>
 <body>
 <canvas id="GameCanvas" tabindex="0"></canvas>
@@ -37,12 +38,14 @@ html,body{width:100%;height:100%;padding:0;margin:0;overflow:hidden;background:#
 <dialog id="local-information"><h1>Block Blast — браузерная версия</h1><p>Локальный перенос предоставленной игры версии 11.0.0. Приветственный экран воспроизводит внешний вид Android-приложения. Нажатие кнопки продолжения сохраняет только отметку о просмотре этого экрана в вашем браузере.</p><p>Прогресс и настройки хранятся на этом устройстве. Эта сборка не создаёт аккаунт и не подключает оплату, рекламные SDK или аналитику оригинального приложения.</p><form method="dialog"><button>Закрыть</button></form></dialog>
 <div id="status">Loading web engine…</div>
 <script>window.CC_DEBUG=new URLSearchParams(location.search).get('debug')==='1';window.CC_DEV=window.CC_DEBUG;</script>
-<script src="shell.js"></script>
+<script src="shell.5f12d17a18cb.js"></script>
 <script src="cocos2d-web.js"></script>
 <script src="src/settings.ca6e3.js"></script>
 <script src="main.js"></script>
 <script src="local-bundles.js"></script>
+<script src="startup-cache.85f331ef68f9.js"></script>
 <script src="mini-adapter.js"></script>
-<script src="boot.js"></script>
+<script src="readiness.3d441c2f12be.js"></script>
+<script src="boot.c7c7b1c80595.js"></script>
 </body>
 </html>

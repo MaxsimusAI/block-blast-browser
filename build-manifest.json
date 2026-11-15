@@ -295828,9 +295828,14 @@
       "sha256": "43cd2a997860a16dd9523a2ebe2cf797d9469321cb86a216820eeb1394ca0cfa"
     },
     {
+      "path": "boot.c7c7b1c80595.js",
+      "bytes": 8702,
+      "sha256": "c7c7b1c8059551b168b34e12b2c4103d197c68d82e2b7c857d03e07f09cce419"
+    },
+    {
       "path": "boot.js",
-      "bytes": 8784,
-      "sha256": "7531580b7d61b9bfe2aa12086e89005d58737264e7830b79d0070d66e54cc9fb"
+      "bytes": 8702,
+      "sha256": "c7c7b1c8059551b168b34e12b2c4103d197c68d82e2b7c857d03e07f09cce419"
     },
     {
       "path": "chapters/AccompaniedbyLoneliness138Travel/file/data/config.json",
@@ -303014,8 +303019,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 3794,
-      "sha256": "0672bd63c79fdc65ac382d03726ea1bfebc42d54a463005a8f92818e30ea0c2d"
+      "bytes": 4045,
+      "sha256": "5f96694e47a62104dd81d1711f39c350441629f4c9ff77c1c91717a8ca82bae7"
     },
     {
       "path": "level-catalog.json",
@@ -303083,14 +303088,34 @@
       "sha256": "7d22785b68138de5fcb9206b3f59f493ca41740c86b234a7d15628a41298c795"
     },
     {
+      "path": "readiness.3d441c2f12be.js",
+      "bytes": 6665,
+      "sha256": "3d441c2f12be2d81ce87f2ac5d4d90e96fa5df6f836bff819aaccc9bc36208c8"
+    },
+    {
+      "path": "readiness.js",
+      "bytes": 6665,
+      "sha256": "3d441c2f12be2d81ce87f2ac5d4d90e96fa5df6f836bff819aaccc9bc36208c8"
+    },
+    {
+      "path": "shell.312cfb552731.css",
+      "bytes": 2848,
+      "sha256": "312cfb5527312cf54f2496fcc28491d886dcfa1637747c6416ba0bdcf0338297"
+    },
+    {
+      "path": "shell.5f12d17a18cb.js",
+      "bytes": 4214,
+      "sha256": "5f12d17a18cb66a3c6e25430148fbc2f3ecde70588e25086f47c623b6c89bc79"
+    },
+    {
       "path": "shell.css",
-      "bytes": 2655,
-      "sha256": "5e67792744541447cc4c9fd3b01688a7187efd5a2cc1fdeb86d2efff930c4761"
+      "bytes": 2848,
+      "sha256": "312cfb5527312cf54f2496fcc28491d886dcfa1637747c6416ba0bdcf0338297"
     },
     {
       "path": "shell.js",
-      "bytes": 3913,
-      "sha256": "595faa7e4d276409c0d4b794d885d9e85d7e7fd6dd28651505623b66647501d1"
+      "bytes": 4214,
+      "sha256": "5f12d17a18cb66a3c6e25430148fbc2f3ecde70588e25086f47c623b6c89bc79"
     },
     {
       "path": "shell/icon.jpg",
@@ -303201,6 +303226,30 @@
       "path": "src/settings.ca6e3.js",
       "bytes": 333963,
       "sha256": "deda896db501e476efeb680869ce2c993020beae34b4d2db0fe97a7c4efbf836"
+    },
+    {
+      "path": "startup-cache.85f331ef68f9.js",
+      "bytes": 4434,
+      "sha256": "85f331ef68f9579481168a5440b30a47cc8cd195fe688d19b50f12078d2a72e0"
+    },
+    {
+      "path": "startup-cache.js",
+      "bytes": 4434,
+      "sha256": "85f331ef68f9579481168a5440b30a47cc8cd195fe688d19b50f12078d2a72e0"
+    },
+    {
+      "path": "startup-pack.812e038440d0771d3e6e.json",
+      "bytes": 5882619,
+      "sha256": "812e038440d0771d3e6e0cae5853a7dd1ce74367ceed966050fbcda8dd9721d7"
     }
-  ]
+  ],
+  "startupPack": {
+    "filename": "startup-pack.812e038440d0771d3e6e.json",
+    "sha256": "812e038440d0771d3e6e0cae5853a7dd1ce74367ceed966050fbcda8dd9721d7",
+    "bytes": 5882619,
+    "rawBytes": 5090859,
+    "fileCount": 768,
+    "bundleCount": 110,
+    "jsonCount": 658
+  }
 }

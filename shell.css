@@ -2,6 +2,8 @@ html,body{overscroll-behavior:none;-webkit-user-select:none;user-select:none}
 button{-webkit-tap-highlight-color:transparent}
 #launch-screen{position:fixed;inset:0;z-index:40;display:grid;place-items:center;background:#1662c5 url('shell/loading-bg.png') center/100% 100% no-repeat;transition:opacity .18s}
 #launch-screen img{width:min(74vw,360px);height:auto;transform:translateY(-10vh)}
+#launch-status{position:absolute;top:60%;left:5%;width:90%;margin:0;text-align:center;color:#fff;font:600 17px/1.4 system-ui;text-shadow:0 2px 6px #082a6b}
+#launch-status[hidden]{display:none}
 #launch-recovery{position:absolute;box-sizing:border-box;bottom:max(5vh,env(safe-area-inset-bottom));left:50%;transform:translateX(-50%);width:min(90vw,420px);max-height:45%;overflow:auto;padding:18px 20px;border-radius:16px;background:#1b316ee8;text-align:center;box-shadow:0 8px 28px #09245466;touch-action:pan-y}
 #launch-recovery[hidden]{display:none}
 #launch-recovery h2{margin:0 0 8px;font:700 20px/1.25 system-ui}

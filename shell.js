@@ -7,6 +7,12 @@
   let hasOpened = false;
   let startupError = false;
   const launch = document.getElementById('launch-screen');
+  const loadingStatus = document.createElement('p');
+  loadingStatus.id = 'launch-status';
+  loadingStatus.setAttribute('role', 'status');
+  loadingStatus.setAttribute('aria-live', 'polite');
+  loadingStatus.textContent = 'Загружаем игру…';
+  launch.append(loadingStatus);
   const recovery = document.createElement('section');
   recovery.id = 'launch-recovery';
   recovery.hidden = true;
@@ -28,7 +34,15 @@
       ? 'Проверьте подключение к интернету и попробуйте снова. Сохранённый прогресс останется в этом браузере.'
       : 'Первый запуск может занять больше времени. Можно подождать или повторить загрузку.';
     recovery.hidden = false;
+    loadingStatus.hidden = true;
   }
+  window.addEventListener('blockblast-loading', event => {
+    if (hasOpened) return;
+    const detail = event.detail || {};
+    loadingStatus.textContent = detail.total > 0
+      ? `Загружаем фигуры… ${detail.loaded} / ${detail.total}`
+      : 'Подготавливаем игровое поле…';
+  });
   // A slow connection is not a failed launch: keep loading and allow a later
   // ready event to dismiss this message without any extra user action.
   const slowLoadTimer = setTimeout(() => showRecovery(), 45000);
@@ -54,14 +68,6 @@
     if (!seen && !debug) welcome.hidden = false;
   }
   window.addEventListener('blockblast-ready', ready, { once: true });
-  const readyCheck = setInterval(() => {
-    if (hasOpened) { clearInterval(readyCheck); return; }
-    const scene = window.cc?.director?.getScene();
-    if (scene?.getComponentsInChildren(cc.Label).some(label => label.node.activeInHierarchy && label.node.name === 'currentNum')) {
-      ready();
-      clearInterval(readyCheck);
-    }
-  }, 150);
   window.addEventListener('pointerdown', () => {
     const audio = window.cc?.sys?.__audioSupport?.context;
     if (audio?.state === 'suspended') audio.resume().catch(() => {});
