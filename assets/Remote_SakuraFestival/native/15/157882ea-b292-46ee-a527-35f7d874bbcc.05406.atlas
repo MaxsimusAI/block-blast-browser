@@ -1,0 +1,83 @@
+
+result_Bestscore.png
+size: 621,281
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+DPJL_1
+  rotate: false
+  xy: 4, 106
+  size: 230, 171
+  orig: 238, 180
+  offset: 4, 4
+  index: -1
+DPJL_10
+  rotate: true
+  xy: 427, 31
+  size: 101, 100
+  orig: 111, 109
+  offset: 5, 5
+  index: -1
+DPJL_11
+  rotate: true
+  xy: 323, 9
+  size: 82, 100
+  orig: 92, 109
+  offset: 6, 5
+  index: -1
+DPJL_12
+  rotate: true
+  xy: 196, 18
+  size: 73, 123
+  orig: 84, 132
+  offset: 5, 5
+  index: -1
+DPJL_13
+  rotate: false
+  xy: 385, 136
+  size: 105, 141
+  orig: 115, 149
+  offset: 6, 4
+  index: -1
+DPJL_14
+  rotate: false
+  xy: 531, 35
+  size: 86, 100
+  orig: 96, 109
+  offset: 4, 5
+  index: -1
+DPJL_15
+  rotate: false
+  xy: 90, 7
+  size: 102, 95
+  orig: 111, 105
+  offset: 4, 5
+  index: -1
+DPJL_16
+  rotate: false
+  xy: 4, 4
+  size: 82, 98
+  orig: 92, 107
+  offset: 4, 5
+  index: -1
+DPJL_17
+  rotate: false
+  xy: 238, 134
+  size: 143, 143
+  orig: 153, 152
+  offset: 5, 5
+  index: -1
+DPJL_19
+  rotate: false
+  xy: 238, 95
+  size: 127, 35
+  orig: 127, 35
+  offset: 0, 0
+  index: -1
+DPJL_9
+  rotate: false
+  xy: 494, 139
+  size: 104, 138
+  orig: 112, 146
+  offset: 4, 4
+  index: -1

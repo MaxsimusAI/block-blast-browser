@@ -1,0 +1,153 @@
+
+gameplay_clear_unbelievable_026.png
+size: 959,263
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
++300
+  rotate: false
+  xy: 432, 168
+  size: 234, 91
+  orig: 238, 95
+  offset: 2, 2
+  index: -1
+A1
+  rotate: true
+  xy: 533, 93
+  size: 71, 67
+  orig: 77, 69
+  offset: 5, 1
+  index: -1
+B1
+  rotate: true
+  xy: 501, 12
+  size: 73, 95
+  orig: 75, 97
+  offset: 1, 1
+  index: -1
+B2
+  rotate: true
+  xy: 402, 5
+  size: 71, 95
+  orig: 73, 97
+  offset: 1, 1
+  index: -1
+E1
+  rotate: false
+  xy: 670, 192
+  size: 65, 67
+  orig: 67, 69
+  offset: 1, 1
+  index: -1
+E2
+  rotate: false
+  xy: 739, 192
+  size: 65, 67
+  orig: 67, 69
+  offset: 1, 1
+  index: -1
+E3
+  rotate: false
+  xy: 697, 23
+  size: 65, 67
+  orig: 67, 69
+  offset: 1, 1
+  index: -1
+I1
+  rotate: true
+  xy: 432, 125
+  size: 39, 94
+  orig: 41, 96
+  offset: 1, 1
+  index: -1
+L1
+  rotate: true
+  xy: 304, 14
+  size: 41, 94
+  orig: 44, 96
+  offset: 2, 1
+  index: -1
+L2
+  rotate: true
+  xy: 399, 80
+  size: 40, 94
+  orig: 42, 96
+  offset: 1, 1
+  index: -1
+N1
+  rotate: true
+  xy: 604, 96
+  size: 68, 66
+  orig: 70, 68
+  offset: 1, 1
+  index: -1
+U1
+  rotate: true
+  xy: 600, 4
+  size: 85, 93
+  orig: 87, 95
+  offset: 1, 1
+  index: -1
+V1
+  rotate: true
+  xy: 766, 24
+  size: 66, 65
+  orig: 68, 67
+  offset: 1, 1
+  index: -1
+block_01
+  rotate: false
+  xy: 497, 89
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+guangyun2
+  rotate: true
+  xy: 674, 94
+  size: 94, 92
+  orig: 100, 99
+  offset: 2, 4
+  index: -1
+ia_1000000094
+  rotate: false
+  xy: 4, 124
+  size: 424, 135
+  orig: 512, 139
+  offset: 16, 4
+  index: -1
+ia_100000016
+  rotate: false
+  xy: 4, 4
+  size: 192, 51
+  orig: 192, 51
+  offset: 0, 0
+  index: -1
+ia_1400000083
+  rotate: false
+  xy: 808, 139
+  size: 124, 120
+  orig: 128, 128
+  offset: 2, 4
+  index: -1
+ia_3200000058
+  rotate: false
+  xy: 835, 15
+  size: 120, 120
+  orig: 128, 128
+  offset: 4, 4
+  index: -1
+unbelievable
+  rotate: false
+  xy: 4, 59
+  size: 391, 61
+  orig: 393, 64
+  offset: 1, 1
+  index: -1
+x1
+  rotate: true
+  xy: 200, 13
+  size: 42, 100
+  orig: 45, 102
+  offset: 1, 1
+  index: -1

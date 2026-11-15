@@ -1,0 +1,97 @@
+
+gameplay_word_079.png
+size: 982,507
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+JLWZ_13
+  rotate: false
+  xy: 567, 274
+  size: 387, 114
+  orig: 389, 116
+  offset: 1, 1
+  index: -1
+JLWZ_14
+  rotate: false
+  xy: 172, 4
+  size: 80, 79
+  orig: 91, 95
+  offset: 6, 7
+  index: -1
+JLWZ_15
+  rotate: false
+  xy: 4, 94
+  size: 566, 97
+  orig: 566, 98
+  offset: 0, 0
+  index: -1
+JLWZ_16
+  rotate: false
+  xy: 4, 195
+  size: 559, 308
+  orig: 563, 312
+  offset: 2, 2
+  index: -1
+JLWZ_18
+  rotate: false
+  xy: 4, 87
+  size: 467, 3
+  orig: 467, 3
+  offset: 0, 0
+  index: -1
+JLWZ_2
+  rotate: false
+  xy: 574, 44
+  size: 268, 112
+  orig: 272, 118
+  offset: 2, 3
+  index: -1
+JLWZ_3
+  rotate: false
+  xy: 866, 191
+  size: 80, 79
+  orig: 91, 95
+  offset: 6, 7
+  index: -1
+JLWZ_4
+  rotate: false
+  xy: 4, 4
+  size: 80, 79
+  orig: 91, 95
+  offset: 6, 7
+  index: -1
+JLWZ_5
+  rotate: false
+  xy: 574, 160
+  size: 288, 110
+  orig: 294, 116
+  offset: 3, 3
+  index: -1
+JLWZ_52
+  rotate: false
+  xy: 256, 4
+  size: 80, 79
+  orig: 91, 95
+  offset: 6, 7
+  index: -1
+JLWZ_53
+  rotate: false
+  xy: 340, 4
+  size: 80, 79
+  orig: 91, 95
+  offset: 6, 7
+  index: -1
+JLWZ_6
+  rotate: false
+  xy: 88, 4
+  size: 80, 79
+  orig: 91, 95
+  offset: 6, 7
+  index: -1
+JLWZ_7
+  rotate: false
+  xy: 567, 392
+  size: 411, 111
+  orig: 416, 116
+  offset: 2, 3
+  index: -1

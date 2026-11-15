@@ -1,0 +1,41 @@
+
+gameplay_lockOn.png
+size: 397,242
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+dp
+  rotate: false
+  xy: 330, 73
+  size: 57, 57
+  orig: 64, 64
+  offset: 4, 3
+  index: -1
+lock_a
+  rotate: false
+  xy: 242, 21
+  size: 84, 109
+  orig: 84, 109
+  offset: 0, 0
+  index: -1
+lock_b
+  rotate: true
+  xy: 242, 134
+  size: 104, 125
+  orig: 104, 125
+  offset: 0, 0
+  index: -1
+rim
+  rotate: false
+  xy: 4, 4
+  size: 234, 234
+  orig: 256, 256
+  offset: 11, 11
+  index: -1
+star_box_1
+  rotate: false
+  xy: 371, 216
+  size: 22, 22
+  orig: 28, 28
+  offset: 3, 3
+  index: -1

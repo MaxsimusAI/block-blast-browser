@@ -1,0 +1,13 @@
+
+result_efx_xin.png
+size: 64,64
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+lizi2
+  rotate: false
+  xy: 4, 4
+  size: 31, 31
+  orig: 33, 33
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,27 @@
+
+gameplay_Stamina_jiajian.png
+size: 225,95
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BlockFlow_icon_Hrt_glow
+  rotate: false
+  xy: 2, 3
+  size: 96, 90
+  orig: 99, 94
+  offset: 1, 2
+  index: -1
+BlockFlow_icon_Hrt_glow01
+  rotate: true
+  xy: 100, 2
+  size: 91, 86
+  orig: 99, 94
+  offset: 4, 4
+  index: -1
+suiupian_der
+  rotate: true
+  xy: 188, 57
+  size: 36, 35
+  orig: 38, 41
+  offset: 1, 3
+  index: -1

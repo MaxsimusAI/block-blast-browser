@@ -1,0 +1,14 @@
+{
+  "name": "G3_FChangeSkin",
+  "version": 7,
+  "createTime": "2026-02-28 15:58:03",
+  "buildTime": "2026-03-04T20:48:05.000+08:00",
+  "dependencies": [
+    {
+      "atomFeatureName": "G3_FBase"
+    },
+    {
+      "atomFeatureName": "G3_FHome"
+    }
+  ]
+}

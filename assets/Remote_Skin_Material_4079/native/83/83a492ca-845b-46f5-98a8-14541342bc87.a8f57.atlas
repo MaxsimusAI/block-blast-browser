@@ -1,0 +1,48 @@
+
+gameplay_eliminate_079_a.png
+size: 196,272
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+daoju_1
+  rotate: true
+  xy: 4, 243
+  size: 25, 147
+  orig: 25, 147
+  offset: 0, 0
+  index: -1
+daoju_2
+  rotate: false
+  xy: 155, 122
+  size: 37, 146
+  orig: 37, 146
+  offset: 0, 0
+  index: -1
+daoju_3
+  rotate: true
+  xy: 4, 195
+  size: 44, 146
+  orig: 44, 146
+  offset: 0, 0
+  index: -1
+daoju_4
+  rotate: true
+  xy: 4, 4
+  size: 122, 123
+  orig: 122, 123
+  offset: 0, 0
+  index: -1
+daoju_5
+  rotate: false
+  xy: 131, 36
+  size: 57, 82
+  orig: 57, 82
+  offset: 0, 0
+  index: -1
+daoju_6
+  rotate: true
+  xy: 4, 130
+  size: 61, 133
+  orig: 61, 133
+  offset: 0, 0
+  index: -1

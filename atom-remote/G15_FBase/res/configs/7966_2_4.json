@@ -1,0 +1,325 @@
+{
+    "singles": [
+        {
+            "id": "121",
+            "name": "hsai_raw_image_1776324039_d95a1642d4_r2c1",
+            "url": "remote://res/configs/out/hsai_raw_image_1776324039_d95a1642d4_r2c1.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "122",
+            "name": "run_06_v02",
+            "url": "remote://res/configs/out/run_06_v02.ast2.json",
+            "isLock": true,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "123",
+            "name": "run_03_v01",
+            "url": "remote://res/configs/out/run_03_v01.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 1
+        },
+        {
+            "id": "124",
+            "name": "hsai_raw_image_1776170839_6ad38c3004_r1c1",
+            "url": "remote://res/configs/out/hsai_raw_image_1776170839_6ad38c3004_r1c1.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "125",
+            "name": "hsai_raw_image_1776164941_dc9a81545d_r1c0",
+            "url": "remote://res/configs/out/hsai_raw_image_1776164941_dc9a81545d_r1c0.ast2.json",
+            "isLock": true,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "126",
+            "name": "hsai_raw_image_1775621281_31c5ce0bbc_r2c0",
+            "url": "remote://res/configs/out/hsai_raw_image_1775621281_31c5ce0bbc_r2c0.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "127",
+            "name": "generated70",
+            "url": "remote://res/configs/out/generated70.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "128",
+            "name": "hsai_raw_image_generate_1774337538_3723d38010_r1c1__center_dominant_60x60_40c_auto_qfirst",
+            "url": "remote://res/configs/out/hsai_raw_image_generate_1774337538_3723d38010_r1c1__center_dominant_60x60_40c_auto_qfirst.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 1
+        },
+        {
+            "id": "129",
+            "name": "t25v2_10_v03__nearest_32x32_40c_auto_bg-white40_qfirst",
+            "url": "remote://res/configs/out/t25v2_10_v03__nearest_32x32_40c_auto_bg-white40_qfirst.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "130",
+            "name": "generated59",
+            "url": "remote://res/configs/out/generated59.ast2.json",
+            "isLock": true,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "131",
+            "name": "hsai_raw_image_generate_1773888920_49f49f433b_r0c0",
+            "url": "remote://res/configs/out/hsai_raw_image_generate_1773888920_49f49f433b_r0c0.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "132",
+            "name": "generated56",
+            "url": "remote://res/configs/out/generated56.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "133",
+            "name": "generated32",
+            "url": "remote://res/configs/out/generated32.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "134",
+            "name": "dailylifev4t_06_v01",
+            "url": "remote://res/configs/out/dailylifev4t_06_v01.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "135",
+            "name": "t25_01_v01__block_dominant_32x32_31c_auto_bg-auto20_qfirst",
+            "url": "remote://res/configs/out/t25_01_v01__block_dominant_32x32_31c_auto_bg-auto20_qfirst.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "136",
+            "name": "hsai_raw_image_generate_1773888920_49f49f433b_r0c1",
+            "url": "remote://res/configs/out/hsai_raw_image_generate_1773888920_49f49f433b_r0c1.ast2.json",
+            "isLock": true,
+            "updateTime": "2026-06-25",
+            "starType": 1
+        },
+        {
+            "id": "137",
+            "name": "hsai_raw_image_1775620722_53c9f53641_r3c0",
+            "url": "remote://res/configs/out/hsai_raw_image_1775620722_53c9f53641_r3c0.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "138",
+            "name": "hsai_raw_image_1775620722_c4c7232336_r3c3",
+            "url": "remote://res/configs/out/hsai_raw_image_1775620722_c4c7232336_r3c3.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "139",
+            "name": "hsai_raw_image_1775620722_185e97c056_r3c1",
+            "url": "remote://res/configs/out/hsai_raw_image_1775620722_185e97c056_r3c1.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "140",
+            "name": "r2026_01_v01",
+            "url": "remote://res/configs/out/r2026_01_v01.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 1
+        },
+        {
+            "id": "141",
+            "name": "dailylifev5_07_v01",
+            "url": "remote://res/configs/out/dailylifev5_07_v01.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "142",
+            "name": "hsai_raw_image_generate_1774419637_9eaa144df3_r1c1",
+            "url": "remote://res/configs/out/hsai_raw_image_generate_1774419637_9eaa144df3_r1c1.ast2.json",
+            "isLock": true,
+            "updateTime": "2026-06-25",
+            "starType": 1
+        },
+        {
+            "id": "143",
+            "name": "t25_14_v02__center_dominant_28x28_29c_auto_bg-auto20_qfirst",
+            "url": "remote://res/configs/out/t25_14_v02__center_dominant_28x28_29c_auto_bg-auto20_qfirst.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "144",
+            "name": "run_03_v03",
+            "url": "remote://res/configs/out/run_03_v03.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "145",
+            "name": "dailylifev5_08_v01",
+            "url": "remote://res/configs/out/dailylifev5_08_v01.ast2.json",
+            "isLock": true,
+            "updateTime": "2026-06-25",
+            "starType": 1
+        },
+        {
+            "id": "146",
+            "name": "seasports_10_v02",
+            "url": "remote://res/configs/out/seasports_10_v02.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "147",
+            "name": "t25_06_v01__block_dominant_25x25_20c_auto_bg-auto20",
+            "url": "remote://res/configs/out/t25_06_v01__block_dominant_25x25_20c_auto_bg-auto20.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "148",
+            "name": "t25_08_v03__edge_dominant_40x40_20c_auto_bg-auto20",
+            "url": "remote://res/configs/out/t25_08_v03__edge_dominant_40x40_20c_auto_bg-auto20.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 1
+        },
+        {
+            "id": "149",
+            "name": "choker_04_v01",
+            "url": "remote://res/configs/out/choker_04_v01.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "150",
+            "name": "r2026_22_v02",
+            "url": "remote://res/configs/out/r2026_22_v02.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "151",
+            "name": "dailylifev5_10_v03",
+            "url": "remote://res/configs/out/dailylifev5_10_v03.ast2.json",
+            "isLock": true,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "152",
+            "name": "hsai_raw_image_1776319333_222ef88f28_r1c1__block_dominant_60x60_50c_auto_bg-auto40",
+            "url": "remote://res/configs/out/hsai_raw_image_1776319333_222ef88f28_r1c1__block_dominant_60x60_50c_auto_bg-auto40.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 1
+        },
+        {
+            "id": "153",
+            "name": "choker_06_v01",
+            "url": "remote://res/configs/out/choker_06_v01.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 1
+        },
+        {
+            "id": "154",
+            "name": "hsai_raw_image_generate_1773890427_396442fecc_r3c3__block_dominant_25x25_28c_auto_bg-white20_qfirst",
+            "url": "remote://res/configs/out/hsai_raw_image_generate_1773890427_396442fecc_r3c3__block_dominant_25x25_28c_auto_bg-white20_qfirst.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "155",
+            "name": "hsai_raw_image_1776320466_982d8d563c_r0c2__nearest_30x30_30c_auto_bg-auto40",
+            "url": "remote://res/configs/out/hsai_raw_image_1776320466_982d8d563c_r0c2__nearest_30x30_30c_auto_bg-auto40.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "156",
+            "name": "run_01_v02",
+            "url": "remote://res/configs/out/run_01_v02.ast2.json",
+            "isLock": true,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "157",
+            "name": "top10_h03_pink_vespa_scooter_v03__nearest_90x90_50c_auto_bg-white20_qfirst",
+            "url": "remote://res/configs/out/top10_h03_pink_vespa_scooter_v03__nearest_90x90_50c_auto_bg-white20_qfirst.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 1
+        },
+        {
+            "id": "158",
+            "name": "muebles_04_v03",
+            "url": "remote://res/configs/out/muebles_04_v03.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "159",
+            "name": "sea_04_v03",
+            "url": "remote://res/configs/out/sea_04_v03.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "160",
+            "name": "t25v2_02_v02__block_dominant_30x30_30c_auto_bg-white40_qfirst",
+            "url": "remote://res/configs/out/t25v2_02_v02__block_dominant_30x30_30c_auto_bg-white40_qfirst.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        }
+    ],
+    "starType": 0
+}

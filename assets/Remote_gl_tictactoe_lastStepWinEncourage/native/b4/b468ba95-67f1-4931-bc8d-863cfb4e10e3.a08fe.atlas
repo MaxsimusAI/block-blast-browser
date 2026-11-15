@@ -1,0 +1,34 @@
+
+gameplay_xsjl.png
+size: 404,259
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef/glow
+  rotate: false
+  xy: 275, 2
+  size: 126, 126
+  orig: 128, 128
+  offset: 1, 1
+  index: -1
+ef/sss7
+  rotate: false
+  xy: 334, 189
+  size: 68, 68
+  orig: 74, 74
+  offset: 3, 3
+  index: -1
+last
+  rotate: false
+  xy: 2, 10
+  size: 271, 118
+  orig: 278, 121
+  offset: 2, 1
+  index: -1
+shot
+  rotate: false
+  xy: 2, 130
+  size: 330, 127
+  orig: 338, 131
+  offset: 6, 2
+  index: -1

@@ -1,0 +1,97 @@
+
+gameplay_box_jilici.png
+size: 590,250
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DPJL_4
+  rotate: false
+  xy: 2, 10
+  size: 238, 238
+  orig: 278, 278
+  offset: 20, 20
+  index: -1
+DPJL_5
+  rotate: false
+  xy: 501, 40
+  size: 85, 85
+  orig: 93, 93
+  offset: 4, 4
+  index: -1
+Excellent_glow
+  rotate: false
+  xy: 242, 2
+  size: 176, 38
+  orig: 176, 38
+  offset: 0, 0
+  index: -1
+Great_glow
+  rotate: true
+  xy: 364, 101
+  size: 147, 57
+  orig: 200, 80
+  offset: 26, 13
+  index: -1
+Wonderful_glow
+  rotate: true
+  xy: 242, 42
+  size: 206, 39
+  orig: 206, 39
+  offset: 0, 0
+  index: -1
+combo_shuZi_guang_1
+  rotate: true
+  xy: 420, 10
+  size: 89, 79
+  orig: 100, 86
+  offset: 11, 6
+  index: -1
+gameplay_tex_Excellent
+  rotate: true
+  xy: 324, 72
+  size: 176, 38
+  orig: 176, 38
+  offset: 0, 0
+  index: -1
+gameplay_tex_Good
+  rotate: true
+  xy: 466, 127
+  size: 121, 41
+  orig: 121, 41
+  offset: 0, 0
+  index: -1
+gameplay_tex_Great
+  rotate: true
+  xy: 423, 117
+  size: 131, 41
+  orig: 131, 41
+  offset: 0, 0
+  index: -1
+gameplay_tex_Wonderful
+  rotate: true
+  xy: 283, 42
+  size: 206, 39
+  orig: 206, 39
+  offset: 0, 0
+  index: -1
+lizi_xc
+  rotate: false
+  xy: 501, 4
+  size: 34, 34
+  orig: 38, 38
+  offset: 2, 2
+  index: -1
+sekuai01
+  rotate: false
+  xy: 364, 44
+  size: 53, 55
+  orig: 61, 61
+  offset: 4, 3
+  index: -1
+xingxing_io
+  rotate: true
+  xy: 509, 168
+  size: 80, 79
+  orig: 91, 95
+  offset: 6, 7
+  index: -1

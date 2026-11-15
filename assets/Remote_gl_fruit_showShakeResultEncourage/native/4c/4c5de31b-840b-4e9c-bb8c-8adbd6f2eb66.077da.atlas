@@ -1,0 +1,244 @@
+
+glfruit_gameplay_moveWord.png
+size: 839,839
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+EpicMove_1
+  rotate: false
+  xy: 4, 650
+  size: 745, 185
+  orig: 752, 190
+  offset: 3, 1
+  index: -1
+EpicMove_10
+  rotate: true
+  xy: 129, 18
+  size: 49, 114
+  orig: 50, 115
+  offset: 1, 1
+  index: -1
+EpicMove_2
+  rotate: false
+  xy: 260, 203
+  size: 92, 120
+  orig: 93, 121
+  offset: 1, 1
+  index: -1
+EpicMove_3
+  rotate: false
+  xy: 260, 80
+  size: 86, 119
+  orig: 88, 120
+  offset: 1, 1
+  index: -1
+EpicMove_4
+  rotate: true
+  xy: 4, 25
+  size: 42, 121
+  orig: 44, 121
+  offset: 1, 0
+  index: -1
+EpicMove_5
+  rotate: false
+  xy: 753, 654
+  size: 79, 88
+  orig: 81, 89
+  offset: 1, 1
+  index: -1
+EpicMove_6
+  rotate: false
+  xy: 631, 362
+  size: 125, 114
+  orig: 126, 114
+  offset: 1, 0
+  index: -1
+EpicMove_7
+  rotate: false
+  xy: 350, 80
+  size: 86, 88
+  orig: 86, 89
+  offset: 0, 1
+  index: -1
+EpicMove_8
+  rotate: true
+  xy: 440, 50
+  size: 85, 90
+  orig: 86, 91
+  offset: 0, 1
+  index: -1
+EpicMove_9
+  rotate: false
+  xy: 753, 746
+  size: 81, 89
+  orig: 82, 90
+  offset: 1, 1
+  index: -1
+NiceMove_1
+  rotate: false
+  xy: 4, 327
+  size: 623, 149
+  orig: 629, 153
+  offset: 3, 1
+  index: -1
+NiceMove_10
+  rotate: false
+  xy: 534, 45
+  size: 45, 90
+  orig: 47, 91
+  offset: 1, 1
+  index: -1
+NiceMove_2
+  rotate: true
+  xy: 631, 171
+  size: 93, 100
+  orig: 95, 101
+  offset: 1, 1
+  index: -1
+NiceMove_3
+  rotate: false
+  xy: 586, 227
+  size: 41, 96
+  orig: 43, 97
+  offset: 1, 0
+  index: -1
+NiceMove_4
+  rotate: true
+  xy: 736, 203
+  size: 66, 70
+  orig: 67, 71
+  offset: 1, 1
+  index: -1
+NiceMove_5
+  rotate: false
+  xy: 770, 579
+  size: 65, 71
+  orig: 67, 71
+  offset: 1, 0
+  index: -1
+NiceMove_6
+  rotate: false
+  xy: 631, 268
+  size: 101, 90
+  orig: 102, 91
+  offset: 0, 1
+  index: -1
+NiceMove_7
+  rotate: false
+  xy: 735, 129
+  size: 70, 70
+  orig: 71, 71
+  offset: 0, 1
+  index: -1
+NiceMove_8
+  rotate: true
+  xy: 657, 17
+  size: 69, 73
+  orig: 71, 74
+  offset: 1, 1
+  index: -1
+NiceMove_9
+  rotate: false
+  xy: 343, 4
+  size: 67, 72
+  orig: 68, 72
+  offset: 0, 0
+  index: -1
+SmartMove_1
+  rotate: false
+  xy: 4, 480
+  size: 762, 166
+  orig: 770, 170
+  offset: 4, 1
+  index: -1
+SmartMove_10
+  rotate: false
+  xy: 583, 64
+  size: 70, 78
+  orig: 71, 78
+  offset: 1, 0
+  index: -1
+SmartMove_11
+  rotate: true
+  xy: 356, 172
+  size: 46, 98
+  orig: 48, 99
+  offset: 1, 1
+  index: -1
+SmartMove_2
+  rotate: true
+  xy: 736, 273
+  size: 85, 99
+  orig: 85, 99
+  offset: 0, 0
+  index: -1
+SmartMove_3
+  rotate: false
+  xy: 468, 237
+  size: 114, 86
+  orig: 115, 87
+  offset: 1, 1
+  index: -1
+SmartMove_4
+  rotate: false
+  xy: 760, 399
+  size: 71, 77
+  orig: 72, 78
+  offset: 0, 1
+  index: -1
+SmartMove_5
+  rotate: false
+  xy: 566, 146
+  size: 47, 77
+  orig: 48, 77
+  offset: 1, 0
+  index: -1
+SmartMove_6
+  rotate: false
+  xy: 770, 484
+  size: 50, 91
+  orig: 52, 92
+  offset: 1, 1
+  index: -1
+SmartMove_7
+  rotate: false
+  xy: 356, 222
+  size: 108, 101
+  orig: 110, 102
+  offset: 1, 1
+  index: -1
+SmartMove_8
+  rotate: false
+  xy: 657, 90
+  size: 73, 77
+  orig: 74, 77
+  offset: 0, 0
+  index: -1
+SmartMove_9
+  rotate: true
+  xy: 260, 4
+  size: 72, 79
+  orig: 74, 80
+  offset: 1, 1
+  index: -1
+glow1
+  rotate: false
+  xy: 468, 139
+  size: 94, 94
+  orig: 100, 100
+  offset: 3, 3
+  index: -1
+glow2
+  rotate: false
+  xy: 4, 71
+  size: 252, 252
+  orig: 256, 256
+  offset: 2, 2
+  index: -1
+star
+  rotate: false
+  xy: 734, 87
+  size: 38, 38
+  orig: 40, 40
+  offset: 1, 1
+  index: -1

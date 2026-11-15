@@ -1,0 +1,13 @@
+
+gameplay_score_efx.png
+size: 35,35
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+star
+  rotate: false
+  xy: 2, 2
+  size: 31, 31
+  orig: 36, 36
+  offset: 3, 2
+  index: -1

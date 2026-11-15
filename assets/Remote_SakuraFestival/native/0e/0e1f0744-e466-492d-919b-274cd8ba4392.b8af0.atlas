@@ -1,0 +1,83 @@
+
+gameplay_newhighscore.png
+size: 819,500
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+9_5
+  rotate: false
+  xy: 703, 173
+  size: 97, 93
+  orig: 99, 95
+  offset: 1, 1
+  index: -1
+9_6
+  rotate: false
+  xy: 703, 268
+  size: 113, 111
+  orig: 119, 117
+  offset: 3, 3
+  index: -1
+NEWHIGH
+  rotate: true
+  xy: 597, 2
+  size: 496, 104
+  orig: 497, 105
+  offset: 0, 1
+  index: -1
+SCORE
+  rotate: false
+  xy: 2, 8
+  size: 499, 150
+  orig: 499, 151
+  offset: 0, 0
+  index: -1
+gameplay_img_new_light
+  rotate: false
+  xy: 2, 160
+  size: 593, 338
+  orig: 603, 347
+  offset: 5, 5
+  index: -1
+gameplay_img_yinghua
+  rotate: false
+  xy: 703, 381
+  size: 114, 117
+  orig: 114, 117
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 503, 47
+  size: 11, 111
+  orig: 11, 111
+  offset: 0, 0
+  index: -1
+line2
+  rotate: false
+  xy: 703, 60
+  size: 11, 111
+  orig: 11, 111
+  offset: 0, 0
+  index: -1
+par
+  rotate: false
+  xy: 716, 150
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+par2
+  rotate: false
+  xy: 516, 107
+  size: 59, 51
+  orig: 61, 53
+  offset: 1, 1
+  index: -1
+par3
+  rotate: false
+  xy: 516, 84
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1

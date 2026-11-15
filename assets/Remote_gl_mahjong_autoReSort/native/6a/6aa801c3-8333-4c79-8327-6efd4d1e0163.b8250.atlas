@@ -1,0 +1,153 @@
+
+gameplay_cs.png
+size: 1160,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef/glow
+  rotate: false
+  xy: 787, 175
+  size: 62, 62
+  orig: 64, 64
+  offset: 1, 1
+  index: -1
+ef/xl1
+  rotate: false
+  xy: 686, 180
+  size: 50, 50
+  orig: 56, 56
+  offset: 3, 3
+  index: -1
+f/d1
+  rotate: false
+  xy: 936, 430
+  size: 44, 44
+  orig: 48, 48
+  offset: 2, 2
+  index: -1
+f/d2
+  rotate: false
+  xy: 1129, 291
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+f/d4
+  rotate: false
+  xy: 1129, 313
+  size: 29, 29
+  orig: 33, 33
+  offset: 2, 2
+  index: -1
+f/d6
+  rotate: false
+  xy: 936, 476
+  size: 45, 45
+  orig: 49, 49
+  offset: 2, 2
+  index: -1
+gameplay_txt_shadow
+  rotate: false
+  xy: 2, 171
+  size: 682, 350
+  orig: 688, 355
+  offset: 3, 2
+  index: -1
+mf/a
+  rotate: false
+  xy: 829, 416
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+mf/c
+  rotate: true
+  xy: 787, 239
+  size: 80, 106
+  orig: 80, 106
+  offset: 0, 0
+  index: -1
+mf/do
+  rotate: true
+  xy: 985, 70
+  size: 133, 145
+  orig: 134, 145
+  offset: 1, 0
+  index: -1
+mf/e
+  rotate: true
+  xy: 793, 321
+  size: 93, 106
+  orig: 94, 106
+  offset: 1, 0
+  index: -1
+mf/f
+  rotate: true
+  xy: 985, 2
+  size: 66, 145
+  orig: 66, 145
+  offset: 0, 0
+  index: -1
+mf/h
+  rotate: true
+  xy: 686, 429
+  size: 92, 141
+  orig: 94, 141
+  offset: 1, 0
+  index: -1
+mf/m
+  rotate: true
+  xy: 985, 205
+  size: 137, 142
+  orig: 138, 142
+  offset: 0, 0
+  index: -1
+mf/matches
+  rotate: false
+  xy: 2, 10
+  size: 656, 159
+  orig: 656, 159
+  offset: 0, 0
+  index: -1
+mf/of
+  rotate: true
+  xy: 985, 344
+  size: 177, 165
+  orig: 177, 165
+  offset: 0, 0
+  index: -1
+mf/out
+  rotate: false
+  xy: 660, 4
+  size: 323, 165
+  orig: 323, 165
+  offset: 0, 0
+  index: -1
+mf/s
+  rotate: false
+  xy: 895, 178
+  size: 60, 104
+  orig: 61, 104
+  offset: 1, 0
+  index: -1
+mf/t
+  rotate: false
+  xy: 901, 284
+  size: 71, 130
+  orig: 71, 130
+  offset: 0, 0
+  index: -1
+mf/u
+  rotate: true
+  xy: 686, 232
+  size: 95, 99
+  orig: 95, 99
+  offset: 0, 0
+  index: -1
+mf/xo
+  rotate: true
+  xy: 686, 329
+  size: 98, 105
+  orig: 100, 105
+  offset: 1, 0
+  index: -1

@@ -1,0 +1,293 @@
+
+gameplay_clear_unbelievable_summer_xin.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+300
+  rotate: true
+  xy: 448, 674
+  size: 226, 84
+  orig: 228, 86
+  offset: 1, 1
+  index: -1
+COMBO_kfg
+  rotate: false
+  xy: 2, 455
+  size: 444, 445
+  orig: 446, 447
+  offset: 1, 1
+  index: -1
+Unbelievable_2
+  rotate: true
+  xy: 448, 247
+  size: 418, 75
+  orig: 426, 77
+  offset: 4, 1
+  index: -1
+caihong
+  rotate: true
+  xy: 91, 109
+  size: 344, 119
+  orig: 344, 119
+  offset: 0, 0
+  index: -1
+effects_rainbow
+  rotate: false
+  xy: 581, 501
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+glow_ring_01
+  rotate: false
+  xy: 212, 31
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guangYun
+  rotate: false
+  xy: 212, 233
+  size: 220, 220
+  orig: 249, 249
+  offset: 15, 14
+  index: -1
+hua_1
+  rotate: false
+  xy: 534, 853
+  size: 46, 47
+  orig: 55, 55
+  offset: 4, 4
+  index: -1
+hua_2
+  rotate: true
+  xy: 525, 601
+  size: 71, 54
+  orig: 80, 80
+  offset: 4, 13
+  index: -1
+hua_3
+  rotate: false
+  xy: 747, 513
+  size: 74, 73
+  orig: 80, 80
+  offset: 3, 4
+  index: -1
+hua_4
+  rotate: false
+  xy: 534, 804
+  size: 46, 47
+  orig: 60, 60
+  offset: 7, 7
+  index: -1
+huaban_1
+  rotate: true
+  xy: 717, 368
+  size: 25, 34
+  orig: 35, 45
+  offset: 5, 6
+  index: -1
+huaban_2
+  rotate: true
+  xy: 742, 395
+  size: 25, 34
+  orig: 35, 45
+  offset: 4, 6
+  index: -1
+huaban_3
+  rotate: false
+  xy: 606, 336
+  size: 25, 37
+  orig: 35, 45
+  offset: 5, 4
+  index: -1
+huaban_4
+  rotate: true
+  xy: 606, 309
+  size: 25, 37
+  orig: 35, 45
+  offset: 5, 4
+  index: -1
+huaban_5
+  rotate: false
+  xy: 191, 71
+  size: 18, 36
+  orig: 40, 45
+  offset: 11, 5
+  index: -1
+huaban_6
+  rotate: false
+  xy: 615, 270
+  size: 25, 37
+  orig: 35, 45
+  offset: 5, 4
+  index: -1
+huaban_7
+  rotate: true
+  xy: 704, 395
+  size: 25, 36
+  orig: 40, 45
+  offset: 7, 5
+  index: -1
+kuai_glow
+  rotate: false
+  xy: 577, 375
+  size: 125, 124
+  orig: 134, 134
+  offset: 5, 5
+  index: -1
+kuang
+  rotate: false
+  xy: 584, 667
+  size: 330, 330
+  orig: 338, 338
+  offset: 4, 4
+  index: -1
+kuang_guang
+  rotate: false
+  xy: 434, 31
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+mb_29
+  rotate: false
+  xy: 91, 9
+  size: 98, 98
+  orig: 100, 100
+  offset: 1, 1
+  index: -1
+suihua_1
+  rotate: false
+  xy: 534, 674
+  size: 34, 32
+  orig: 80, 80
+  offset: 23, 24
+  index: -1
+suihua_2
+  rotate: false
+  xy: 525, 413
+  size: 40, 40
+  orig: 80, 80
+  offset: 20, 20
+  index: -1
+suihua_3
+  rotate: false
+  xy: 525, 333
+  size: 35, 36
+  orig: 80, 80
+  offset: 22, 22
+  index: -1
+suihua_5
+  rotate: false
+  xy: 585, 266
+  size: 28, 28
+  orig: 80, 80
+  offset: 26, 26
+  index: -1
+suihua_6
+  rotate: false
+  xy: 553, 264
+  size: 30, 30
+  orig: 80, 80
+  offset: 25, 26
+  index: -1
+suihua_7
+  rotate: false
+  xy: 525, 297
+  size: 34, 34
+  orig: 80, 80
+  offset: 23, 23
+  index: -1
+txt
+  rotate: false
+  xy: 2, 902
+  size: 580, 95
+  orig: 590, 100
+  offset: 5, 3
+  index: -1
+x_01
+  rotate: false
+  xy: 2, 2
+  size: 77, 79
+  orig: 91, 91
+  offset: 7, 6
+  index: -1
+x_02
+  rotate: true
+  xy: 704, 422
+  size: 77, 78
+  orig: 91, 91
+  offset: 7, 6
+  index: -1
+x_03
+  rotate: true
+  xy: 650, 196
+  size: 69, 71
+  orig: 87, 85
+  offset: 11, 7
+  index: -1
+x_04
+  rotate: true
+  xy: 747, 588
+  size: 77, 78
+  orig: 92, 91
+  offset: 8, 7
+  index: -1
+xing
+  rotate: false
+  xy: 525, 371
+  size: 40, 40
+  orig: 50, 50
+  offset: 5, 5
+  index: -1
+yezi_1
+  rotate: true
+  xy: 525, 540
+  size: 59, 51
+  orig: 70, 60
+  offset: 5, 5
+  index: -1
+yezi_2
+  rotate: false
+  xy: 525, 455
+  size: 50, 83
+  orig: 60, 90
+  offset: 4, 4
+  index: -1
+yezi_3
+  rotate: true
+  xy: 534, 708
+  size: 94, 41
+  orig: 100, 50
+  offset: 3, 5
+  index: -1
+yezi_4
+  rotate: false
+  xy: 650, 267
+  size: 65, 106
+  orig: 70, 110
+  offset: 3, 2
+  index: -1
+yezi_5
+  rotate: true
+  xy: 567, 296
+  size: 77, 37
+  orig: 80, 40
+  offset: 1, 2
+  index: -1
+yezi_7
+  rotate: true
+  xy: 525, 253
+  size: 42, 26
+  orig: 50, 30
+  offset: 4, 2
+  index: -1
+yz
+  rotate: true
+  xy: 2, 83
+  size: 370, 87
+  orig: 372, 89
+  offset: 1, 1
+  index: -1

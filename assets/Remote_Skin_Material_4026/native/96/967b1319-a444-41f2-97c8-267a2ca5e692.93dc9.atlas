@@ -1,0 +1,90 @@
+
+gameplay_comboTips_026.png
+size: 886,394
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baidian_002
+  rotate: false
+  xy: 684, 68
+  size: 34, 34
+  orig: 57, 55
+  offset: 11, 10
+  index: -1
+xin_11
+  rotate: true
+  xy: 701, 147
+  size: 209, 183
+  orig: 225, 199
+  offset: 8, 8
+  index: -1
+xin_3
+  rotate: false
+  xy: 178, 2
+  size: 172, 143
+  orig: 178, 150
+  offset: 3, 4
+  index: -1
+xin_3b
+  rotate: false
+  xy: 352, 2
+  size: 172, 143
+  orig: 178, 150
+  offset: 3, 4
+  index: -1
+xin_3c
+  rotate: false
+  xy: 2, 6
+  size: 174, 146
+  orig: 180, 151
+  offset: 3, 3
+  index: -1
+xin_3c_1
+  rotate: true
+  xy: 497, 147
+  size: 242, 202
+  orig: 250, 211
+  offset: 4, 5
+  index: -1
+xin_6
+  rotate: false
+  xy: 684, 104
+  size: 46, 41
+  orig: 48, 43
+  offset: 1, 1
+  index: -1
+xin_15
+  rotate: false
+  xy: 684, 104
+  size: 46, 41
+  orig: 48, 43
+  offset: 1, 1
+  index: -1
+xin_66
+  rotate: false
+  xy: 684, 40
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+xin_7
+  rotate: false
+  xy: 2, 154
+  size: 286, 238
+  orig: 290, 241
+  offset: 2, 2
+  index: -1
+xin_72
+  rotate: false
+  xy: 526, 15
+  size: 156, 130
+  orig: 157, 131
+  offset: 1, 0
+  index: -1
+xin_8
+  rotate: true
+  xy: 290, 147
+  size: 245, 205
+  orig: 245, 205
+  offset: 0, 0
+  index: -1

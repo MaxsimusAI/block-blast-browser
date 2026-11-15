@@ -1,0 +1,62 @@
+
+gameplay_ready_eliminate_035.png
+size: 510,114
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+bai_1
+  rotate: false
+  xy: 334, 4
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+bai_8
+  rotate: true
+  xy: 444, 16
+  size: 18, 43
+  orig: 20, 43
+  offset: 1, 0
+  index: -1
+blue_10
+  rotate: false
+  xy: 444, 38
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+blue_4
+  rotate: false
+  xy: 4, 4
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+orange_1
+  rotate: false
+  xy: 224, 4
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+orange_11
+  rotate: false
+  xy: 476, 57
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+xq_1
+  rotate: false
+  xy: 114, 4
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+xq_29
+  rotate: false
+  xy: 444, 78
+  size: 30, 32
+  orig: 32, 32
+  offset: 1, 0
+  index: -1

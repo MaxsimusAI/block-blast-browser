@@ -1,0 +1,27 @@
+
+gameplay_eliminate_dk.png
+size: 352,236
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+Glow_fk
+  rotate: false
+  xy: 228, 112
+  size: 120, 120
+  orig: 122, 122
+  offset: 1, 1
+  index: -1
+baifk
+  rotate: false
+  xy: 228, 4
+  size: 106, 104
+  orig: 106, 104
+  offset: 0, 0
+  index: -1
+kuang3
+  rotate: false
+  xy: 4, 12
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1

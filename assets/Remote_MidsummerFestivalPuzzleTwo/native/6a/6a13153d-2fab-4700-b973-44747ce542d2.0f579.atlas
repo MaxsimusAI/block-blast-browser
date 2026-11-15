@@ -1,0 +1,41 @@
+
+gameplay_midsummer02_puzzle.png
+size: 128,128
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+hua_2
+  rotate: false
+  xy: 52, 4
+  size: 44, 44
+  orig: 80, 80
+  offset: 18, 18
+  index: -1
+hua_4
+  rotate: false
+  xy: 30, 55
+  size: 29, 28
+  orig: 80, 80
+  offset: 25, 26
+  index: -1
+hua_5
+  rotate: true
+  xy: 4, 13
+  size: 38, 44
+  orig: 80, 80
+  offset: 20, 18
+  index: -1
+hua_6
+  rotate: true
+  xy: 63, 52
+  size: 31, 32
+  orig: 80, 80
+  offset: 24, 24
+  index: -1
+hua_7
+  rotate: false
+  xy: 4, 61
+  size: 22, 22
+  orig: 80, 80
+  offset: 29, 29
+  index: -1

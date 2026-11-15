@@ -1,0 +1,125 @@
+
+gameplay_eliminate_4036.png
+size: 667,267
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+Gems_6
+  rotate: false
+  xy: 477, 39
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+glow_01
+  rotate: true
+  xy: 216, 5
+  size: 93, 96
+  orig: 100, 100
+  offset: 0, 2
+  index: -1
+glow_03
+  rotate: true
+  xy: 587, 51
+  size: 94, 17
+  orig: 100, 19
+  offset: 3, 1
+  index: -1
+glow_04
+  rotate: true
+  xy: 610, 169
+  size: 94, 42
+  orig: 100, 46
+  offset: 3, 2
+  index: -1
+glow_fra
+  rotate: true
+  xy: 478, 149
+  size: 114, 128
+  orig: 114, 128
+  offset: 0, 0
+  index: -1
+glow_line_2
+  rotate: false
+  xy: 4, 13
+  size: 208, 85
+  orig: 208, 85
+  offset: 0, 0
+  index: -1
+green_par_3
+  rotate: false
+  xy: 316, 48
+  size: 72, 50
+  orig: 72, 50
+  offset: 0, 0
+  index: -1
+green_par_4
+  rotate: false
+  xy: 608, 80
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+green_par_6
+  rotate: false
+  xy: 608, 80
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+green_par_7
+  rotate: false
+  xy: 404, 11
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+green_par_8
+  rotate: false
+  xy: 610, 117
+  size: 53, 48
+  orig: 55, 51
+  offset: 1, 1
+  index: -1
+green_par_9
+  rotate: false
+  xy: 392, 48
+  size: 71, 50
+  orig: 71, 50
+  offset: 0, 0
+  index: -1
+new_1
+  rotate: false
+  xy: 4, 184
+  size: 470, 79
+  orig: 473, 87
+  offset: 0, 4
+  index: -1
+new_2
+  rotate: false
+  xy: 4, 102
+  size: 469, 78
+  orig: 475, 87
+  offset: 1, 5
+  index: -1
+par_8
+  rotate: false
+  xy: 316, 4
+  size: 40, 40
+  orig: 50, 50
+  offset: 5, 5
+  index: -1
+par_9
+  rotate: false
+  xy: 360, 4
+  size: 40, 40
+  orig: 50, 50
+  offset: 5, 5
+  index: -1
+star_glow_2
+  rotate: false
+  xy: 608, 54
+  size: 22, 22
+  orig: 24, 24
+  offset: 1, 1
+  index: -1

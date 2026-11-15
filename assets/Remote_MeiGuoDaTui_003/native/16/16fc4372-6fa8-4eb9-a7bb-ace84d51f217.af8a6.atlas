@@ -1,0 +1,90 @@
+
+gameplay_eliminate_goldcup.png
+size: 1024,256
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+glow_01
+  rotate: false
+  xy: 4, 38
+  size: 93, 96
+  orig: 100, 100
+  offset: 0, 2
+  index: -1
+glow_02
+  rotate: false
+  xy: 4, 138
+  size: 481, 95
+  orig: 502, 106
+  offset: 9, 5
+  index: -1
+glow_03
+  rotate: false
+  xy: 4, 4
+  size: 94, 17
+  orig: 100, 19
+  offset: 3, 1
+  index: -1
+glow_04
+  rotate: false
+  xy: 217, 10
+  size: 94, 42
+  orig: 100, 46
+  offset: 3, 2
+  index: -1
+glow_fra
+  rotate: false
+  xy: 102, 12
+  size: 111, 122
+  orig: 111, 122
+  offset: 0, 0
+  index: -1
+glow_line_2
+  rotate: true
+  xy: 489, 25
+  size: 208, 85
+  orig: 208, 85
+  offset: 0, 0
+  index: -1
+star_glow_1
+  rotate: false
+  xy: 315, 14
+  size: 57, 57
+  orig: 64, 64
+  offset: 3, 3
+  index: -1
+star_glow_2
+  rotate: false
+  xy: 411, 96
+  size: 38, 38
+  orig: 42, 42
+  offset: 2, 2
+  index: -1
+x1
+  rotate: false
+  xy: 298, 75
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+xing_yellow
+  rotate: false
+  xy: 217, 56
+  size: 77, 78
+  orig: 91, 91
+  offset: 7, 6
+  index: -1
+xingxing1
+  rotate: true
+  xy: 360, 86
+  size: 48, 47
+  orig: 50, 49
+  offset: 1, 1
+  index: -1
+xingxing2
+  rotate: false
+  xy: 376, 36
+  size: 45, 46
+  orig: 50, 51
+  offset: 3, 2
+  index: -1

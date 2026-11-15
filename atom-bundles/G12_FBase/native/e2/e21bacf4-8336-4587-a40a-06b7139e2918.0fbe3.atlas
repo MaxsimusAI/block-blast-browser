@@ -1,0 +1,111 @@
+
+overview_reviveTips.png
+size: 993,468
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+bg_under01
+  rotate: false
+  xy: 4, 4
+  size: 723, 460
+  orig: 723, 460
+  offset: 0, 0
+  index: -1
+box_1
+  rotate: true
+  xy: 731, 95
+  size: 82, 91
+  orig: 82, 91
+  offset: 0, 0
+  index: -1
+box_2
+  rotate: true
+  xy: 731, 268
+  size: 84, 92
+  orig: 84, 92
+  offset: 0, 0
+  index: -1
+box_3
+  rotate: true
+  xy: 827, 187
+  size: 83, 92
+  orig: 83, 92
+  offset: 0, 0
+  index: -1
+box_4
+  rotate: true
+  xy: 731, 181
+  size: 83, 92
+  orig: 83, 92
+  offset: 0, 0
+  index: -1
+box_5
+  rotate: true
+  xy: 827, 102
+  size: 81, 92
+  orig: 81, 92
+  offset: 0, 0
+  index: -1
+box_a
+  rotate: false
+  xy: 731, 11
+  size: 76, 80
+  orig: 76, 80
+  offset: 0, 0
+  index: -1
+box_b
+  rotate: false
+  xy: 811, 11
+  size: 76, 80
+  orig: 76, 80
+  offset: 0, 0
+  index: -1
+gameplay_img_009
+  rotate: false
+  xy: 846, 373
+  size: 102, 91
+  orig: 102, 91
+  offset: 0, 0
+  index: -1
+gameplay_img_box_Shadow
+  rotate: false
+  xy: 731, 356
+  size: 111, 108
+  orig: 111, 108
+  offset: 0, 0
+  index: -1
+num_c
+  rotate: true
+  xy: 952, 382
+  size: 82, 37
+  orig: 82, 37
+  offset: 0, 0
+  index: -1
+num_d
+  rotate: true
+  xy: 952, 296
+  size: 82, 36
+  orig: 82, 36
+  offset: 0, 0
+  index: -1
+num_e
+  rotate: true
+  xy: 948, 210
+  size: 82, 36
+  orig: 82, 36
+  offset: 0, 0
+  index: -1
+outside_a
+  rotate: false
+  xy: 891, 22
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+red_1
+  rotate: true
+  xy: 846, 274
+  size: 95, 98
+  orig: 95, 98
+  offset: 0, 0
+  index: -1

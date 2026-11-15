@@ -1,0 +1,13 @@
+
+onet_gameplay_line.png
+size: 194,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+card
+  rotate: false
+  xy: 2, 2
+  size: 190, 200
+  orig: 200, 200
+  offset: 4, 0
+  index: -1

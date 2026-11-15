@@ -1,0 +1,97 @@
+
+gameplay_allClear.png
+size: 956,865
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AllClear
+  rotate: false
+  xy: 2, 773
+  size: 586, 90
+  orig: 726, 112
+  offset: 70, 11
+  index: -1
+balloon_a
+  rotate: true
+  xy: 771, 124
+  size: 183, 165
+  orig: 189, 171
+  offset: 3, 3
+  index: -1
+balloon_b
+  rotate: false
+  xy: 584, 141
+  size: 185, 166
+  orig: 305, 297
+  offset: 60, 66
+  index: -1
+balloon_c
+  rotate: true
+  xy: 418, 582
+  size: 189, 170
+  orig: 375, 339
+  offset: 93, 85
+  index: -1
+heart_bg_mohu
+  rotate: true
+  xy: 2, 348
+  size: 423, 374
+  orig: 447, 400
+  offset: 12, 13
+  index: -1
+heart_high_light_circle
+  rotate: true
+  xy: 2, 2
+  size: 344, 580
+  orig: 692, 591
+  offset: 2, 9
+  index: -1
+heart_keli
+  rotate: false
+  xy: 590, 309
+  size: 364, 554
+  orig: 726, 555
+  offset: 0, 0
+  index: -1
+heart_kuosan_circle
+  rotate: false
+  xy: 378, 360
+  size: 179, 150
+  orig: 181, 152
+  offset: 1, 1
+  index: -1
+light_add_b
+  rotate: false
+  xy: 584, 25
+  size: 114, 114
+  orig: 130, 130
+  offset: 8, 8
+  index: -1
+light_par_star_a
+  rotate: false
+  xy: 700, 16
+  size: 108, 106
+  orig: 175, 175
+  offset: 33, 35
+  index: -1
+par_heart
+  rotate: true
+  xy: 810, 42
+  size: 80, 73
+  orig: 85, 78
+  offset: 3, 3
+  index: -1
+pop
+  rotate: false
+  xy: 418, 522
+  size: 58, 58
+  orig: 60, 60
+  offset: 1, 1
+  index: -1
+title_high_light
+  rotate: true
+  xy: 378, 512
+  size: 259, 38
+  orig: 286, 42
+  offset: 13, 2
+  index: -1

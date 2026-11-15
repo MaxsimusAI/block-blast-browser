@@ -1,0 +1,1 @@
+{"name":"G3_FWinSettlement","version":8,"atomEngineVersion":"4.8.20","buildTime":"2026-04-16T17:18:02.000+08:00","dependencies":[{"atomFeatureName":"G3_FBase"},{"atomFeatureName":"G3_FHome"}],"size":{"scatter":45395,"hspkg":48384}}

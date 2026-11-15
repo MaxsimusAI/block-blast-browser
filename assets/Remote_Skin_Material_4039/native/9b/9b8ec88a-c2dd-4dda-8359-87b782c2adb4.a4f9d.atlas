@@ -1,0 +1,76 @@
+
+gameplay_eliminate_4039.png
+size: 233,708
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+game_cube_1
+  rotate: false
+  xy: 57, 596
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+game_cube_2
+  rotate: false
+  xy: 4, 484
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+game_cube_3
+  rotate: false
+  xy: 116, 484
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+game_cube_4
+  rotate: false
+  xy: 4, 372
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+game_cube_5
+  rotate: false
+  xy: 116, 372
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+game_cube_6
+  rotate: false
+  xy: 4, 260
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+game_cube_7
+  rotate: false
+  xy: 116, 260
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+par
+  rotate: false
+  xy: 4, 655
+  size: 49, 49
+  orig: 53, 53
+  offset: 2, 2
+  index: -1
+tx/tw2
+  rotate: false
+  xy: 4, 4
+  size: 225, 128
+  orig: 225, 128
+  offset: 0, 0
+  index: -1
+xin
+  rotate: false
+  xy: 4, 136
+  size: 220, 120
+  orig: 220, 120
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,1 @@
+{"paths":{"0":["audio/bomb",0]},"types":["cc.AudioClip"],"uuids":["32GuOHMGJAL7ucFvQkxiR+"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"Remote_gl_fruit_addBombAudio","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":true,"versions":{"import":[0,"6b24b"],"native":[0,"af770"]}}

@@ -1,0 +1,20 @@
+
+gameplay_rush.png
+size: 958,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guidao_glow01
+  rotate: false
+  xy: 2, 57
+  size: 954, 965
+  orig: 957, 968
+  offset: 1, 2
+  index: -1
+xing_gd01
+  rotate: false
+  xy: 2, 2
+  size: 53, 53
+  orig: 61, 61
+  offset: 4, 4
+  index: -1

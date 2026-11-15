@@ -1,0 +1,104 @@
+
+gameplay_combotips_sunmer_xin.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cailizi_1
+  rotate: false
+  xy: 190, 304
+  size: 6, 7
+  orig: 10, 10
+  offset: 2, 2
+  index: -1
+huanggy
+  rotate: false
+  xy: 2, 31
+  size: 98, 98
+  orig: 100, 100
+  offset: 1, 1
+  index: -1
+liz_1
+  rotate: true
+  xy: 473, 482
+  size: 25, 37
+  orig: 35, 45
+  offset: 5, 4
+  index: -1
+tips_01
+  rotate: true
+  xy: 350, 15
+  size: 144, 140
+  orig: 160, 160
+  offset: 8, 10
+  index: -1
+tips_01_1
+  rotate: false
+  xy: 198, 161
+  size: 168, 167
+  orig: 171, 171
+  offset: 1, 2
+  index: -1
+tips_02
+  rotate: false
+  xy: 190, 2
+  size: 158, 157
+  orig: 170, 170
+  offset: 6, 7
+  index: -1
+tips_02_2
+  rotate: false
+  xy: 2, 131
+  size: 186, 180
+  orig: 186, 180
+  offset: 0, 0
+  index: -1
+tips_03
+  rotate: false
+  xy: 198, 330
+  size: 176, 177
+  orig: 200, 200
+  offset: 12, 12
+  index: -1
+tips_03_1
+  rotate: false
+  xy: 2, 313
+  size: 194, 194
+  orig: 200, 200
+  offset: 3, 3
+  index: -1
+xiaolz_2
+  rotate: false
+  xy: 376, 460
+  size: 47, 47
+  orig: 66, 66
+  offset: 9, 9
+  index: -1
+xiaolz_4
+  rotate: false
+  xy: 102, 76
+  size: 54, 53
+  orig: 70, 70
+  offset: 8, 8
+  index: -1
+xiaolz_6
+  rotate: false
+  xy: 376, 363
+  size: 46, 46
+  orig: 65, 65
+  offset: 9, 9
+  index: -1
+xiaolz_8
+  rotate: false
+  xy: 376, 411
+  size: 47, 47
+  orig: 66, 66
+  offset: 9, 10
+  index: -1
+xing
+  rotate: false
+  xy: 425, 461
+  size: 46, 46
+  orig: 60, 60
+  offset: 7, 7
+  index: -1

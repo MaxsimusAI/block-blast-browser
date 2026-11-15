@@ -1,0 +1,244 @@
+
+gameplay_besttime.png
+size: 929,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effects_01
+  rotate: false
+  xy: 461, 8
+  size: 49, 51
+  orig: 57, 57
+  offset: 4, 3
+  index: -1
+effects_02
+  rotate: false
+  xy: 512, 23
+  size: 36, 36
+  orig: 42, 42
+  offset: 3, 3
+  index: -1
+gameplay_tips_words
+  rotate: false
+  xy: 2, 408
+  size: 455, 113
+  orig: 464, 122
+  offset: 4, 5
+  index: -1
+gameplay_tips_words_arrow
+  rotate: false
+  xy: 370, 3
+  size: 89, 56
+  orig: 90, 56
+  offset: 1, 0
+  index: -1
+sg/sg_000
+  rotate: false
+  xy: 749, 240
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+sg/sg_001
+  rotate: false
+  xy: 749, 240
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+sg/sg_002
+  rotate: false
+  xy: 749, 240
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+sg/sg_026
+  rotate: false
+  xy: 749, 240
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+sg/sg_027
+  rotate: false
+  xy: 749, 240
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+sg/sg_028
+  rotate: false
+  xy: 749, 240
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+sg/sg_029
+  rotate: false
+  xy: 749, 240
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+sg/sg_003
+  rotate: false
+  xy: 340, 321
+  size: 2, 7
+  orig: 950, 150
+  offset: 257, 55
+  index: -1
+sg/sg_004
+  rotate: false
+  xy: 314, 140
+  size: 12, 67
+  orig: 950, 150
+  offset: 256, 53
+  index: -1
+sg/sg_005
+  rotate: true
+  xy: 290, 2
+  size: 57, 78
+  orig: 950, 150
+  offset: 256, 53
+  index: -1
+sg/sg_006
+  rotate: true
+  xy: 848, 154
+  size: 87, 79
+  orig: 950, 150
+  offset: 256, 53
+  index: -1
+sg/sg_007
+  rotate: false
+  xy: 615, 240
+  size: 132, 79
+  orig: 950, 150
+  offset: 256, 53
+  index: -1
+sg/sg_008
+  rotate: false
+  xy: 589, 139
+  size: 166, 99
+  orig: 950, 150
+  offset: 256, 33
+  index: -1
+sg/sg_009
+  rotate: false
+  xy: 739, 321
+  size: 183, 99
+  orig: 950, 150
+  offset: 256, 33
+  index: -1
+sg/sg_010
+  rotate: false
+  xy: 555, 38
+  size: 213, 99
+  orig: 950, 150
+  offset: 256, 33
+  index: -1
+sg/sg_011
+  rotate: false
+  xy: 330, 140
+  size: 257, 99
+  orig: 950, 150
+  offset: 256, 33
+  index: -1
+sg/sg_012
+  rotate: false
+  xy: 459, 321
+  size: 278, 99
+  orig: 950, 150
+  offset: 256, 33
+  index: -1
+sg/sg_013
+  rotate: false
+  xy: 459, 422
+  size: 324, 99
+  orig: 950, 150
+  offset: 257, 33
+  index: -1
+sg/sg_014
+  rotate: false
+  xy: 2, 308
+  size: 336, 98
+  orig: 950, 150
+  offset: 275, 33
+  index: -1
+sg/sg_015
+  rotate: false
+  xy: 2, 209
+  size: 326, 97
+  orig: 950, 150
+  offset: 322, 33
+  index: -1
+sg/sg_016
+  rotate: false
+  xy: 2, 30
+  size: 286, 97
+  orig: 950, 150
+  offset: 383, 33
+  index: -1
+sg/sg_017
+  rotate: false
+  xy: 2, 129
+  size: 310, 78
+  orig: 950, 150
+  offset: 384, 52
+  index: -1
+sg/sg_018
+  rotate: false
+  xy: 340, 241
+  size: 273, 78
+  orig: 950, 150
+  offset: 421, 52
+  index: -1
+sg/sg_019
+  rotate: false
+  xy: 314, 61
+  size: 239, 77
+  orig: 950, 150
+  offset: 455, 52
+  index: -1
+sg/sg_020
+  rotate: true
+  xy: 770, 23
+  size: 218, 76
+  orig: 950, 150
+  offset: 476, 52
+  index: -1
+sg/sg_021
+  rotate: false
+  xy: 749, 243
+  size: 173, 76
+  orig: 950, 150
+  offset: 521, 52
+  index: -1
+sg/sg_022
+  rotate: false
+  xy: 785, 445
+  size: 141, 76
+  orig: 950, 150
+  offset: 553, 52
+  index: -1
+sg/sg_023
+  rotate: false
+  xy: 340, 330
+  size: 117, 76
+  orig: 950, 150
+  offset: 577, 52
+  index: -1
+sg/sg_024
+  rotate: false
+  xy: 848, 98
+  size: 74, 54
+  orig: 950, 150
+  offset: 620, 54
+  index: -1
+sg/sg_025
+  rotate: false
+  xy: 848, 54
+  size: 39, 42
+  orig: 950, 150
+  offset: 655, 66
+  index: -1

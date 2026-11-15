@@ -1,0 +1,139 @@
+
+gameplay_loading.png
+size: 420,523
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+Node_shuzi
+  rotate: false
+  xy: 136, 298
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 136, 389
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+tx/glow1
+  rotate: true
+  xy: 4, 110
+  size: 180, 179
+  orig: 232, 232
+  offset: 26, 26
+  index: -1
+tx/tw2
+  rotate: true
+  xy: 4, 294
+  size: 225, 128
+  orig: 225, 128
+  offset: 0, 0
+  index: -1
+tx/xl/kuagn_00
+  rotate: false
+  xy: 366, 438
+  size: 16, 24
+  orig: 120, 120
+  offset: 14, 17
+  index: -1
+tx/xl/kuagn_01
+  rotate: false
+  xy: 366, 466
+  size: 37, 53
+  orig: 120, 120
+  offset: 6, 9
+  index: -1
+tx/xl/kuagn_02
+  rotate: true
+  xy: 333, 128
+  size: 53, 79
+  orig: 120, 120
+  offset: 3, 5
+  index: -1
+tx/xl/kuagn_03
+  rotate: false
+  xy: 123, 6
+  size: 67, 100
+  orig: 120, 120
+  offset: 2, 3
+  index: -1
+tx/xl/kuagn_04
+  rotate: true
+  xy: 306, 322
+  size: 79, 110
+  orig: 120, 120
+  offset: 2, 3
+  index: -1
+tx/xl/kuagn_05
+  rotate: false
+  xy: 270, 405
+  size: 92, 114
+  orig: 120, 120
+  offset: 2, 3
+  index: -1
+tx/xl/kuagn_06
+  rotate: true
+  xy: 4, 5
+  size: 101, 115
+  orig: 120, 120
+  offset: 2, 3
+  index: -1
+tx/xl/kuagn_07
+  rotate: false
+  xy: 187, 183
+  size: 108, 116
+  orig: 120, 120
+  offset: 3, 3
+  index: -1
+tx/xl/kuagn_08
+  rotate: false
+  xy: 299, 185
+  size: 109, 115
+  orig: 120, 120
+  offset: 6, 3
+  index: -1
+tx/xl/kuagn_09
+  rotate: false
+  xy: 309, 4
+  size: 104, 114
+  orig: 120, 120
+  offset: 13, 4
+  index: -1
+tx/xl/kuagn_10
+  rotate: true
+  xy: 194, 13
+  size: 94, 111
+  orig: 120, 120
+  offset: 23, 7
+  index: -1
+tx/xl/kuagn_11
+  rotate: true
+  xy: 196, 304
+  size: 81, 106
+  orig: 120, 120
+  offset: 36, 12
+  index: -1
+tx/xl/kuagn_12
+  rotate: true
+  xy: 187, 111
+  size: 68, 98
+  orig: 120, 120
+  offset: 49, 20
+  index: -1
+tx/xl/kuagn_13
+  rotate: false
+  xy: 136, 303
+  size: 56, 82
+  orig: 120, 120
+  offset: 61, 36
+  index: -1
+tx/xl/kuagn_14
+  rotate: false
+  xy: 289, 122
+  size: 40, 57
+  orig: 120, 120
+  offset: 74, 59
+  index: -1

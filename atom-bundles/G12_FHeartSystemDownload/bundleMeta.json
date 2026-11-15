@@ -1,0 +1,1 @@
+{"name":"G12_FHeartSystemDownload","version":4,"atomEngineVersion":"4.10.22","buildTime":"2026-06-26T14:22:30.000+08:00","dependencies":[{"atomFeatureName":"G12_FBase"},{"atomFeatureName":"G12_FHeartSystem"}],"size":{"scatter":6189,"hspkg":7373}}

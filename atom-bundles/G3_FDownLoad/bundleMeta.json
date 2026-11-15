@@ -1,0 +1,14 @@
+{
+  "name": "G3_FDownLoad",
+  "version": 2,
+  "createTime": "2026-01-20T16:26:36.729Z",
+  "buildTime": "2026-02-04T12:39:30.000Z",
+  "dependencies": [
+    {
+      "atomFeatureName": "G3_FBase"
+    },
+    {
+      "atomFeatureName": "G3_FHome"
+    }
+  ]
+}

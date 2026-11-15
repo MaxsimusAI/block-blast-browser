@@ -1,0 +1,1 @@
+{"name":"G12_FDownloadDeployBonus","version":3,"atomEngineVersion":"4.9.18","buildTime":"2026-05-20T21:57:04.000+08:00","dependencies":[{"atomFeatureName":"G12_FBase"},{"atomFeatureName":"G12_FDeployBonus"}],"size":{"scatter":2701,"hspkg":3094}}

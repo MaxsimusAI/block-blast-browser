@@ -1,0 +1,153 @@
+
+gameplay_ssjl.png
+size: 1063,277
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef/ef2
+  rotate: false
+  xy: 840, 93
+  size: 86, 86
+  orig: 128, 128
+  offset: 21, 21
+  index: -1
+ef/ef22
+  rotate: false
+  xy: 2, 7
+  size: 480, 268
+  orig: 480, 270
+  offset: 0, 1
+  index: -1
+ef/glow
+  rotate: false
+  xy: 930, 149
+  size: 126, 126
+  orig: 128, 128
+  offset: 1, 1
+  index: -1
+ef/tt4
+  rotate: false
+  xy: 596, 140
+  size: 242, 39
+  orig: 242, 88
+  offset: 0, 6
+  index: -1
+f/d1
+  rotate: false
+  xy: 596, 14
+  size: 44, 44
+  orig: 48, 48
+  offset: 2, 2
+  index: -1
+f/d2
+  rotate: false
+  xy: 985, 11
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+f/d3
+  rotate: false
+  xy: 1007, 15
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+f/d4
+  rotate: false
+  xy: 954, 2
+  size: 29, 29
+  orig: 33, 33
+  offset: 2, 2
+  index: -1
+f/d5
+  rotate: false
+  xy: 1036, 12
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+f/d6
+  rotate: false
+  xy: 788, 93
+  size: 45, 45
+  orig: 49, 49
+  offset: 2, 2
+  index: -1
+ss/c
+  rotate: true
+  xy: 788, 17
+  size: 74, 85
+  orig: 74, 85
+  offset: 0, 0
+  index: -1
+ss/ds1
+  rotate: false
+  xy: 484, 181
+  size: 444, 94
+  orig: 446, 96
+  offset: 1, 1
+  index: -1
+ss/f
+  rotate: true
+  xy: 484, 7
+  size: 73, 110
+  orig: 73, 110
+  offset: 0, 0
+  index: -1
+ss/i
+  rotate: false
+  xy: 928, 29
+  size: 24, 118
+  orig: 24, 118
+  offset: 0, 0
+  index: -1
+ss/m
+  rotate: false
+  xy: 1036, 37
+  size: 25, 110
+  orig: 25, 110
+  offset: 0, 0
+  index: -1
+ss/o
+  rotate: true
+  xy: 596, 60
+  size: 78, 85
+  orig: 78, 85
+  offset: 0, 0
+  index: -1
+ss/r
+  rotate: false
+  xy: 875, 7
+  size: 47, 84
+  orig: 47, 84
+  offset: 0, 0
+  index: -1
+ss/s
+  rotate: true
+  xy: 683, 15
+  size: 70, 85
+  orig: 70, 85
+  offset: 0, 0
+  index: -1
+ss/t
+  rotate: true
+  xy: 683, 87
+  size: 51, 103
+  orig: 51, 103
+  offset: 0, 0
+  index: -1
+ss/v
+  rotate: true
+  xy: 484, 82
+  size: 97, 110
+  orig: 97, 110
+  offset: 0, 0
+  index: -1
+ss/y
+  rotate: false
+  xy: 954, 33
+  size: 80, 114
+  orig: 80, 115
+  offset: 0, 0
+  index: -1

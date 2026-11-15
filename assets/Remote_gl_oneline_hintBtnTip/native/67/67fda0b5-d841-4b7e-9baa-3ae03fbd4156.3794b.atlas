@@ -1,0 +1,34 @@
+
+oneline_gameplay_hintbtnbre.png
+size: 474,164
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Square
+  rotate: false
+  xy: 2, 2
+  size: 190, 160
+  orig: 190, 160
+  offset: 0, 0
+  index: -1
+icon_hintA
+  rotate: true
+  xy: 376, 14
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+icon_hintB
+  rotate: false
+  xy: 376, 54
+  size: 96, 108
+  orig: 96, 108
+  offset: 0, 0
+  index: -1
+square_corner_30
+  rotate: false
+  xy: 194, 12
+  size: 180, 150
+  orig: 180, 150
+  offset: 0, 0
+  index: -1

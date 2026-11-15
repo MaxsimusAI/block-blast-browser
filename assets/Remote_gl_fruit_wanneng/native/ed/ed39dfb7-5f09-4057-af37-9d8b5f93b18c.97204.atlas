@@ -1,0 +1,90 @@
+
+MergeNew_cai.png
+size: 540,516
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baiguangquan
+  rotate: false
+  xy: 293, 269
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1
+paopao_0
+  rotate: true
+  xy: 457, 43
+  size: 68, 61
+  orig: 68, 61
+  offset: 0, 0
+  index: -1
+paopao_1
+  rotate: false
+  xy: 2, 55
+  size: 177, 175
+  orig: 177, 175
+  offset: 0, 0
+  index: -1
+paopao_2
+  rotate: false
+  xy: 347, 113
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+tx/baidian_001
+  rotate: false
+  xy: 2, 2
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+tx/caihongquan_yuan
+  rotate: false
+  xy: 2, 232
+  size: 289, 282
+  orig: 289, 282
+  offset: 0, 0
+  index: -1
+tx/circle
+  rotate: false
+  xy: 181, 66
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+tx/daxing
+  rotate: false
+  xy: 347, 3
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+tx/shu_101
+  rotate: false
+  xy: 54, 27
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+tx/yun_1
+  rotate: false
+  xy: 293, 236
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+tx/yun_4
+  rotate: false
+  xy: 457, 14
+  size: 40, 27
+  orig: 40, 27
+  offset: 0, 0
+  index: -1
+tx/yun_5
+  rotate: true
+  xy: 503, 227
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1

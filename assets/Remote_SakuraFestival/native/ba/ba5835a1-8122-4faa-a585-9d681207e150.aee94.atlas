@@ -1,0 +1,41 @@
+
+result_flowers.png
+size: 179,50
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+flower_1
+  rotate: false
+  xy: 87, 9
+  size: 29, 37
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+flower_2
+  rotate: true
+  xy: 155, 11
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+flower_3
+  rotate: false
+  xy: 4, 4
+  size: 42, 42
+  orig: 42, 43
+  offset: 0, 1
+  index: -1
+flower_4
+  rotate: false
+  xy: 50, 10
+  size: 33, 36
+  orig: 34, 36
+  offset: 1, 0
+  index: -1
+flower_5
+  rotate: true
+  xy: 120, 13
+  size: 33, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1

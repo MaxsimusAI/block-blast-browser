@@ -1,0 +1,48 @@
+
+gameplay_Stamina_01.png
+size: 342,313
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BlockFlow_icon_Hrt_1
+  rotate: false
+  xy: 2, 120
+  size: 209, 191
+  orig: 209, 192
+  offset: 0, 1
+  index: -1
+BlockFlow_icon_Hrt_glow
+  rotate: true
+  xy: 120, 22
+  size: 96, 90
+  orig: 99, 94
+  offset: 1, 2
+  index: -1
+DPJL_21
+  rotate: false
+  xy: 213, 57
+  size: 124, 124
+  orig: 126, 126
+  offset: 1, 1
+  index: -1
+andi_h
+  rotate: false
+  xy: 2, 2
+  size: 116, 116
+  orig: 128, 128
+  offset: 6, 6
+  index: -1
+glow_ol
+  rotate: true
+  xy: 213, 183
+  size: 128, 127
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+xingxing_vg
+  rotate: false
+  xy: 212, 8
+  size: 47, 47
+  orig: 51, 51
+  offset: 2, 2
+  index: -1

@@ -1,0 +1,97 @@
+
+skeleton.png
+size: 726,391
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_victory_liZi_2
+  rotate: false
+  xy: 592, 328
+  size: 61, 61
+  orig: 68, 68
+  offset: 3, 4
+  index: -1
+bg_2_6_2
+  rotate: false
+  xy: 705, 370
+  size: 19, 19
+  orig: 62, 62
+  offset: 21, 22
+  index: -1
+bg_2_6_5_2
+  rotate: true
+  xy: 539, 27
+  size: 181, 182
+  orig: 245, 245
+  offset: 33, 31
+  index: -1
+dpjlb_2
+  rotate: true
+  xy: 655, 342
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+dpjlb_3
+  rotate: false
+  xy: 640, 251
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+dpjlb_4
+  rotate: true
+  xy: 683, 252
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+dpjlb_5
+  rotate: true
+  xy: 592, 281
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+dpjlb_6
+  rotate: false
+  xy: 655, 294
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+dpjlb_7
+  rotate: true
+  xy: 683, 210
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+hei
+  rotate: false
+  xy: 705, 360
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+hello
+  rotate: false
+  xy: 2, 117
+  size: 535, 113
+  orig: 536, 113
+  offset: 0, 0
+  index: -1
+hello2
+  rotate: false
+  xy: 2, 2
+  size: 535, 113
+  orig: 536, 113
+  offset: 0, 0
+  index: -1
+hello_2
+  rotate: false
+  xy: 2, 232
+  size: 588, 157
+  orig: 592, 163
+  offset: 2, 3
+  index: -1

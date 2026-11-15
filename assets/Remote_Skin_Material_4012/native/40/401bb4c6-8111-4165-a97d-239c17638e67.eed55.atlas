@@ -1,0 +1,62 @@
+
+revive_countdown_4012.png
+size: 817,280
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+0
+  rotate: true
+  xy: 450, 135
+  size: 141, 182
+  orig: 141, 182
+  offset: 0, 0
+  index: -1
+1
+  rotate: true
+  xy: 634, 11
+  size: 67, 176
+  orig: 67, 176
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 450, 4
+  size: 127, 180
+  orig: 127, 180
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 252, 8
+  size: 121, 180
+  orig: 121, 180
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 252, 133
+  size: 143, 194
+  orig: 143, 194
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 636, 82
+  size: 136, 194
+  orig: 136, 194
+  offset: 0, 0
+  index: -1
+tuoYuan_2
+  rotate: false
+  xy: 776, 239
+  size: 37, 37
+  orig: 39, 39
+  offset: 1, 1
+  index: -1
+tuoYuan_3
+  rotate: false
+  xy: 4, 32
+  size: 244, 244
+  orig: 282, 282
+  offset: 19, 19
+  index: -1

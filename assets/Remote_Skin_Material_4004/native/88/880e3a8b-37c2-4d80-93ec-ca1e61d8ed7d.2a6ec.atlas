@@ -1,0 +1,62 @@
+
+gameplay_clear_unbelievable_4004.png
+size: 783,387
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
++300
+  rotate: false
+  xy: 218, 110
+  size: 328, 125
+  orig: 338, 134
+  offset: 5, 4
+  index: -1
+Unbelievable
+  rotate: false
+  xy: 2, 237
+  size: 779, 148
+  orig: 789, 156
+  offset: 5, 4
+  index: -1
+c_tips_02
+  rotate: false
+  xy: 714, 141
+  size: 44, 40
+  orig: 53, 53
+  offset: 4, 7
+  index: -1
+effects_rainbow
+  rotate: false
+  xy: 548, 78
+  size: 164, 157
+  orig: 164, 164
+  offset: 0, 6
+  index: -1
+kuang_guang
+  rotate: false
+  xy: 2, 21
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+xin_2
+  rotate: false
+  xy: 325, 23
+  size: 84, 85
+  orig: 99, 101
+  offset: 7, 8
+  index: -1
+xing
+  rotate: true
+  xy: 218, 2
+  size: 106, 105
+  orig: 109, 109
+  offset: 2, 2
+  index: -1
+zi_5
+  rotate: true
+  xy: 714, 183
+  size: 52, 53
+  orig: 60, 60
+  offset: 4, 4
+  index: -1

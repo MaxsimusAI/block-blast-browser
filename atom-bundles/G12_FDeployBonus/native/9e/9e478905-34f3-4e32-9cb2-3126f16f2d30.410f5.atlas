@@ -1,0 +1,27 @@
+
+gameplay_bar.png
+size: 138,59
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jindutiao_glow
+  rotate: false
+  xy: 2, 4
+  size: 83, 32
+  orig: 87, 32
+  offset: 4, 0
+  index: -1
+line_glow01
+  rotate: true
+  xy: 2, 38
+  size: 19, 134
+  orig: 21, 136
+  offset: 1, 1
+  index: -1
+lizi_jy
+  rotate: false
+  xy: 87, 2
+  size: 34, 34
+  orig: 38, 38
+  offset: 2, 2
+  index: -1

@@ -1,0 +1,90 @@
+
+gameplay_ready_eliminate_078.png
+size: 642,525
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4078_5
+  rotate: false
+  xy: 458, 417
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+4078_6
+  rotate: false
+  xy: 458, 309
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+4078_7
+  rotate: false
+  xy: 458, 201
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+4078_8
+  rotate: false
+  xy: 458, 93
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+you/you_01
+  rotate: true
+  xy: 382, 81
+  size: 442, 74
+  orig: 453, 85
+  offset: 6, 6
+  index: -1
+you/you_03
+  rotate: true
+  xy: 155, 79
+  size: 444, 73
+  orig: 453, 85
+  offset: 5, 7
+  index: -1
+you/you_05
+  rotate: true
+  xy: 230, 79
+  size: 444, 73
+  orig: 453, 85
+  offset: 5, 7
+  index: -1
+you/you_07
+  rotate: true
+  xy: 79, 79
+  size: 444, 74
+  orig: 453, 85
+  offset: 5, 7
+  index: -1
+you/you_09
+  rotate: true
+  xy: 2, 79
+  size: 444, 75
+  orig: 453, 85
+  offset: 5, 6
+  index: -1
+you/you_11
+  rotate: false
+  xy: 2, 2
+  size: 443, 75
+  orig: 453, 85
+  offset: 6, 6
+  index: -1
+you/you_13
+  rotate: true
+  xy: 305, 80
+  size: 443, 75
+  orig: 453, 85
+  offset: 6, 6
+  index: -1
+you/you_15
+  rotate: true
+  xy: 566, 81
+  size: 442, 74
+  orig: 453, 85
+  offset: 6, 6
+  index: -1

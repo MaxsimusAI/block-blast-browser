@@ -1,0 +1,69 @@
+
+gameplay_eliminate_4027.png
+size: 368,278
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+dl_5
+  rotate: false
+  xy: 4, 4
+  size: 126, 126
+  orig: 130, 130
+  offset: 2, 2
+  index: -1
+js_1
+  rotate: false
+  xy: 148, 168
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+js_10
+  rotate: false
+  xy: 134, 4
+  size: 74, 74
+  orig: 76, 76
+  offset: 1, 1
+  index: -1
+js_12
+  rotate: false
+  xy: 212, 5
+  size: 71, 73
+  orig: 76, 76
+  offset: 3, 1
+  index: -1
+js_2
+  rotate: false
+  xy: 258, 168
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+js_3
+  rotate: false
+  xy: 4, 134
+  size: 140, 140
+  orig: 146, 146
+  offset: 3, 3
+  index: -1
+js_7
+  rotate: false
+  xy: 316, 129
+  size: 35, 35
+  orig: 39, 39
+  offset: 2, 2
+  index: -1
+js_8
+  rotate: false
+  xy: 238, 90
+  size: 74, 74
+  orig: 84, 84
+  offset: 5, 5
+  index: -1
+js_9
+  rotate: true
+  xy: 148, 82
+  size: 82, 86
+  orig: 88, 96
+  offset: 3, 3
+  index: -1

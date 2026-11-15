@@ -1,0 +1,48 @@
+
+Fruit_11.png
+size: 1235,540
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fruit_11_body_01
+  rotate: true
+  xy: 554, 2
+  size: 536, 550
+  orig: 541, 555
+  offset: 2, 3
+  index: -1
+Fruit_11_body_02
+  rotate: true
+  xy: 2, 2
+  size: 536, 550
+  orig: 541, 555
+  offset: 2, 3
+  index: -1
+Fruit_11_body_03
+  rotate: true
+  xy: 1106, 198
+  size: 340, 90
+  orig: 541, 555
+  offset: 100, 208
+  index: -1
+Fruit_11_eye_l
+  rotate: true
+  xy: 1177, 8
+  size: 69, 56
+  orig: 69, 58
+  offset: 0, 1
+  index: -1
+Fruit_11_eye_r
+  rotate: false
+  xy: 1106, 9
+  size: 69, 68
+  orig: 69, 68
+  offset: 0, 0
+  index: -1
+Fruit_11_mouth_01
+  rotate: true
+  xy: 1106, 79
+  size: 117, 74
+  orig: 120, 76
+  offset: 2, 1
+  index: -1

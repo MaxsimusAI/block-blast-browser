@@ -1,0 +1,27 @@
+
+gameplay_combo_4004.png
+size: 558,248
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+combo_jsx
+  rotate: false
+  xy: 480, 169
+  size: 76, 77
+  orig: 90, 89
+  offset: 7, 6
+  index: -1
+combo_qb_08
+  rotate: true
+  xy: 248, 15
+  size: 231, 230
+  orig: 236, 235
+  offset: 3, 2
+  index: -1
+gy
+  rotate: false
+  xy: 2, 2
+  size: 244, 244
+  orig: 282, 282
+  offset: 19, 19
+  index: -1

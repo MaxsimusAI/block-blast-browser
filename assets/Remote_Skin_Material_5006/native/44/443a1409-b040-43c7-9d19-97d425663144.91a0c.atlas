@@ -1,0 +1,300 @@
+
+gameplay_clear_unbelievable_5006.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Unbelievable
+  rotate: false
+  xy: 2, 384
+  size: 756, 155
+  orig: 756, 155
+  offset: 0, 0
+  index: -1
+Unbelievable_1
+  rotate: false
+  xy: 914, 816
+  size: 69, 69
+  orig: 76, 76
+  offset: 4, 4
+  index: -1
+Unbelievable_2
+  rotate: false
+  xy: 478, 609
+  size: 122, 121
+  orig: 134, 134
+  offset: 6, 5
+  index: -1
+Unbelievable_3
+  rotate: false
+  xy: 727, 156
+  size: 69, 69
+  orig: 76, 76
+  offset: 4, 4
+  index: -1
+Unbelievable_4
+  rotate: false
+  xy: 723, 85
+  size: 69, 69
+  orig: 76, 76
+  offset: 4, 4
+  index: -1
+Unbelievable_sg/Unbelievable_sg_00
+  rotate: false
+  xy: 346, 36
+  size: 14, 41
+  orig: 354, 54
+  offset: 1, 11
+  index: -1
+Unbelievable_sg/Unbelievable_sg_01
+  rotate: true
+  xy: 976, 977
+  size: 38, 46
+  orig: 354, 54
+  offset: 0, 6
+  index: -1
+Unbelievable_sg/Unbelievable_sg_02
+  rotate: true
+  xy: 769, 623
+  size: 58, 49
+  orig: 354, 54
+  offset: 0, 4
+  index: -1
+Unbelievable_sg/Unbelievable_sg_03
+  rotate: false
+  xy: 816, 789
+  size: 83, 49
+  orig: 354, 54
+  offset: 0, 4
+  index: -1
+Unbelievable_sg/Unbelievable_sg_04
+  rotate: false
+  xy: 816, 840
+  size: 96, 49
+  orig: 354, 54
+  offset: 0, 4
+  index: -1
+Unbelievable_sg/Unbelievable_sg_05
+  rotate: true
+  xy: 602, 614
+  size: 116, 50
+  orig: 354, 54
+  offset: 0, 4
+  index: -1
+Unbelievable_sg/Unbelievable_sg_06
+  rotate: false
+  xy: 654, 683
+  size: 141, 50
+  orig: 354, 54
+  offset: 0, 4
+  index: -1
+Unbelievable_sg/Unbelievable_sg_07
+  rotate: false
+  xy: 527, 20
+  size: 157, 50
+  orig: 354, 54
+  offset: 3, 4
+  index: -1
+Unbelievable_sg/Unbelievable_sg_08
+  rotate: false
+  xy: 178, 27
+  size: 166, 50
+  orig: 354, 54
+  offset: 8, 4
+  index: -1
+Unbelievable_sg/Unbelievable_sg_09
+  rotate: false
+  xy: 644, 735
+  size: 167, 50
+  orig: 354, 54
+  offset: 25, 4
+  index: -1
+Unbelievable_sg/Unbelievable_sg_10
+  rotate: false
+  xy: 556, 123
+  size: 165, 50
+  orig: 354, 54
+  offset: 44, 4
+  index: -1
+Unbelievable_sg/Unbelievable_sg_11
+  rotate: false
+  xy: 644, 839
+  size: 170, 50
+  orig: 354, 54
+  offset: 64, 4
+  index: -1
+Unbelievable_sg/Unbelievable_sg_12
+  rotate: false
+  xy: 644, 787
+  size: 168, 50
+  orig: 354, 54
+  offset: 84, 4
+  index: -1
+Unbelievable_sg/Unbelievable_sg_13
+  rotate: false
+  xy: 533, 72
+  size: 165, 49
+  orig: 354, 54
+  offset: 107, 4
+  index: -1
+Unbelievable_sg/Unbelievable_sg_14
+  rotate: false
+  xy: 2, 28
+  size: 174, 49
+  orig: 354, 54
+  offset: 123, 4
+  index: -1
+Unbelievable_sg/Unbelievable_sg_15
+  rotate: false
+  xy: 362, 88
+  size: 169, 50
+  orig: 354, 54
+  offset: 142, 4
+  index: -1
+Unbelievable_sg/Unbelievable_sg_16
+  rotate: false
+  xy: 362, 36
+  size: 163, 50
+  orig: 354, 54
+  offset: 166, 4
+  index: -1
+Unbelievable_sg/Unbelievable_sg_17
+  rotate: false
+  xy: 556, 175
+  size: 169, 50
+  orig: 354, 54
+  offset: 181, 4
+  index: -1
+Unbelievable_sg/Unbelievable_sg_18
+  rotate: false
+  xy: 478, 555
+  size: 149, 52
+  orig: 354, 54
+  offset: 203, 2
+  index: -1
+Unbelievable_sg/Unbelievable_sg_19
+  rotate: true
+  xy: 921, 887
+  size: 128, 53
+  orig: 354, 54
+  offset: 225, 1
+  index: -1
+Unbelievable_sg/Unbelievable_sg_20
+  rotate: false
+  xy: 654, 629
+  size: 113, 52
+  orig: 354, 54
+  offset: 240, 1
+  index: -1
+Unbelievable_sg/Unbelievable_sg_21
+  rotate: false
+  xy: 654, 574
+  size: 95, 53
+  orig: 354, 54
+  offset: 259, 0
+  index: -1
+Unbelievable_sg/Unbelievable_sg_22
+  rotate: false
+  xy: 901, 762
+  size: 76, 52
+  orig: 354, 54
+  offset: 278, 0
+  index: -1
+Unbelievable_sg/Unbelievable_sg_23
+  rotate: false
+  xy: 751, 570
+  size: 56, 51
+  orig: 354, 54
+  offset: 298, 1
+  index: -1
+Unbelievable_sg/Unbelievable_sg_24
+  rotate: false
+  xy: 976, 925
+  size: 36, 50
+  orig: 354, 54
+  offset: 317, 1
+  index: -1
+Unbelievablea
+  rotate: false
+  xy: 2, 227
+  size: 756, 155
+  orig: 756, 155
+  offset: 0, 0
+  index: -1
+c_tips_04
+  rotate: false
+  xy: 976, 903
+  size: 25, 20
+  orig: 30, 30
+  offset: 2, 5
+  index: -1
+c_tips_05
+  rotate: false
+  xy: 2, 2
+  size: 29, 24
+  orig: 40, 30
+  offset: 5, 2
+  index: -1
+c_tips_06
+  rotate: true
+  xy: 700, 95
+  size: 26, 21
+  orig: 30, 30
+  offset: 2, 5
+  index: -1
+c_tips_07
+  rotate: false
+  xy: 629, 593
+  size: 23, 19
+  orig: 30, 30
+  offset: 3, 6
+  index: -1
+c_tips_08
+  rotate: false
+  xy: 979, 777
+  size: 43, 37
+  orig: 46, 39
+  offset: 2, 1
+  index: -1
+effects_rainbow
+  rotate: false
+  xy: 478, 732
+  size: 164, 157
+  orig: 164, 164
+  offset: 0, 6
+  index: -1
+kuang2
+  rotate: false
+  xy: 2, 541
+  size: 474, 474
+  orig: 480, 480
+  offset: 3, 3
+  index: -1
+nun_300
+  rotate: false
+  xy: 2, 79
+  size: 358, 146
+  orig: 369, 156
+  offset: 6, 5
+  index: -1
+nun_3000
+  rotate: false
+  xy: 362, 140
+  size: 192, 85
+  orig: 198, 91
+  offset: 3, 3
+  index: -1
+txt_glow
+  rotate: false
+  xy: 478, 891
+  size: 441, 124
+  orig: 462, 147
+  offset: 11, 11
+  index: -1
+zi_5
+  rotate: false
+  xy: 760, 515
+  size: 52, 53
+  orig: 60, 60
+  offset: 4, 4
+  index: -1

@@ -1,0 +1,1 @@
+{"name":"G3_FShortenDoPassTime","version":11,"atomEngineVersion":"4.10.17","buildTime":"2026-06-24T15:07:17.000+08:00","dependencies":[{"atomFeatureName":"G3_FBase"},{"atomFeatureName":"G3_FHome"}],"size":{"scatter":29696,"hspkg":31673}}

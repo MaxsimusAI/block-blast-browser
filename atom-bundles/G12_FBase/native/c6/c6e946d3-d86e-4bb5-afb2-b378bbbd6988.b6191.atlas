@@ -1,0 +1,13 @@
+
+gameplay_trackCycle.png
+size: 39,42
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+arrow_b
+  rotate: false
+  xy: 4, 4
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1

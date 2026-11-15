@@ -1,0 +1,55 @@
+
+gameplay_ready_eliminate_4007.png
+size: 758,114
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hou_blue
+  rotate: false
+  xy: 110, 2
+  size: 106, 110
+  orig: 106, 110
+  offset: 0, 0
+  index: -1
+hou_green
+  rotate: false
+  xy: 218, 2
+  size: 106, 110
+  orig: 106, 110
+  offset: 0, 0
+  index: -1
+hou_orange
+  rotate: false
+  xy: 326, 2
+  size: 106, 110
+  orig: 106, 110
+  offset: 0, 0
+  index: -1
+hou_pink
+  rotate: false
+  xy: 434, 2
+  size: 106, 110
+  orig: 106, 110
+  offset: 0, 0
+  index: -1
+hou_purple
+  rotate: false
+  xy: 542, 2
+  size: 106, 110
+  orig: 106, 110
+  offset: 0, 0
+  index: -1
+hou_red
+  rotate: false
+  xy: 650, 2
+  size: 106, 110
+  orig: 106, 110
+  offset: 0, 0
+  index: -1
+hou_yellow
+  rotate: false
+  xy: 2, 2
+  size: 106, 110
+  orig: 106, 110
+  offset: 0, 0
+  index: -1

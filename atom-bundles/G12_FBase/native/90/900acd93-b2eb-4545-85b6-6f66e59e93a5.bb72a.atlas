@@ -1,0 +1,48 @@
+
+result_ribbons.png
+size: 103,58
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+glow01
+  rotate: false
+  xy: 25, 34
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+glow02
+  rotate: false
+  xy: 49, 34
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+glow03_00
+  rotate: false
+  xy: 73, 34
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+glowLight
+  rotate: true
+  xy: 4, 4
+  size: 26, 27
+  orig: 32, 32
+  offset: 4, 3
+  index: -1
+paper_02
+  rotate: true
+  xy: 4, 40
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+paper_03
+  rotate: false
+  xy: 35, 4
+  size: 64, 26
+  orig: 64, 26
+  offset: 0, 0
+  index: -1

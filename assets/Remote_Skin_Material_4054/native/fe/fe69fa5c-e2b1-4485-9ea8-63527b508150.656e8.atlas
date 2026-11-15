@@ -1,0 +1,62 @@
+
+revive_countdown_054.png
+size: 612,485
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 2, 4
+  size: 162, 195
+  orig: 162, 196
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 330, 98
+  size: 103, 190
+  orig: 105, 191
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 447, 291
+  size: 162, 192
+  orig: 163, 194
+  offset: 1, 1
+  index: -1
+3
+  rotate: false
+  xy: 166, 4
+  size: 162, 195
+  orig: 164, 196
+  offset: 1, 0
+  index: -1
+4
+  rotate: false
+  xy: 447, 99
+  size: 163, 190
+  orig: 164, 191
+  offset: 1, 1
+  index: -1
+5
+  rotate: false
+  xy: 283, 290
+  size: 162, 193
+  orig: 162, 193
+  offset: 0, 0
+  index: -1
+liz_1
+  rotate: false
+  xy: 435, 2
+  size: 95, 95
+  orig: 113, 113
+  offset: 9, 9
+  index: -1
+lizi_2
+  rotate: true
+  xy: 2, 201
+  size: 282, 279
+  orig: 294, 293
+  offset: 6, 7
+  index: -1

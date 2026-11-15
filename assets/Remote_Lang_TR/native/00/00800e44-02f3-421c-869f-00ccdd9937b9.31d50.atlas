@@ -1,0 +1,111 @@
+
+gameplay_prompt.png
+size: 1037,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tex_glow_50
+  rotate: false
+  xy: 607, 40
+  size: 48, 48
+  orig: 50, 50
+  offset: 1, 1
+  index: -1
+b1
+  rotate: true
+  xy: 497, 10
+  size: 78, 108
+  orig: 82, 112
+  offset: 3, 1
+  index: -1
+b2
+  rotate: true
+  xy: 386, 8
+  size: 80, 109
+  orig: 83, 113
+  offset: 1, 1
+  index: -1
+done
+  rotate: false
+  xy: 698, 185
+  size: 262, 73
+  orig: 263, 74
+  offset: 0, 0
+  index: -1
+img_num_travel_001
+  rotate: false
+  xy: 196, 10
+  size: 188, 78
+  orig: 189, 78
+  offset: 0, 0
+  index: -1
+img_num_travel_002
+  rotate: false
+  xy: 698, 106
+  size: 193, 77
+  orig: 193, 78
+  offset: 0, 0
+  index: -1
+img_num_travel_003
+  rotate: false
+  xy: 2, 10
+  size: 192, 78
+  orig: 194, 78
+  offset: 1, 0
+  index: -1
+img_num_travel_004
+  rotate: false
+  xy: 698, 27
+  size: 193, 77
+  orig: 195, 79
+  offset: 1, 1
+  index: -1
+img_ribbon_travel_001
+  rotate: false
+  xy: 2, 90
+  size: 694, 168
+  orig: 700, 171
+  offset: 4, 3
+  index: -1
+img_triangle_travel_001
+  rotate: true
+  xy: 657, 11
+  size: 42, 33
+  orig: 43, 35
+  offset: 1, 1
+  index: -1
+img_triangle_travel_002
+  rotate: false
+  xy: 962, 146
+  size: 53, 53
+  orig: 55, 55
+  offset: 1, 1
+  index: -1
+l1
+  rotate: false
+  xy: 893, 2
+  size: 142, 142
+  orig: 146, 146
+  offset: 2, 2
+  index: -1
+x1
+  rotate: false
+  xy: 893, 148
+  size: 33, 35
+  orig: 37, 37
+  offset: 2, 2
+  index: -1
+x2
+  rotate: true
+  xy: 657, 55
+  size: 33, 35
+  orig: 37, 37
+  offset: 2, 2
+  index: -1
+x3
+  rotate: true
+  xy: 962, 201
+  size: 57, 59
+  orig: 61, 61
+  offset: 2, 2
+  index: -1

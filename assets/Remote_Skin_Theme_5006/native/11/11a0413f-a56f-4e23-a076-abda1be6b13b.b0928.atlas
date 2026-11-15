@@ -1,0 +1,188 @@
+
+main_icon_achievement_5006_1.png
+size: 512,512
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+icon_1
+  rotate: false
+  xy: 166, 79
+  size: 129, 163
+  orig: 133, 165
+  offset: 2, 0
+  index: -1
+icon_2
+  rotate: false
+  xy: 4, 74
+  size: 158, 168
+  orig: 165, 180
+  offset: 4, 6
+  index: -1
+icon_3
+  rotate: false
+  xy: 270, 256
+  size: 113, 113
+  orig: 115, 115
+  offset: 1, 1
+  index: -1
+icon_4
+  rotate: true
+  xy: 4, 6
+  size: 64, 61
+  orig: 64, 61
+  offset: 0, 0
+  index: -1
+jb_10
+  rotate: false
+  xy: 116, 7
+  size: 10, 10
+  orig: 14, 14
+  offset: 2, 2
+  index: -1
+jb_11
+  rotate: true
+  xy: 270, 373
+  size: 135, 145
+  orig: 137, 147
+  offset: 1, 1
+  index: -1
+jb_12
+  rotate: false
+  xy: 4, 246
+  size: 262, 262
+  orig: 298, 298
+  offset: 18, 18
+  index: -1
+jb_9
+  rotate: true
+  xy: 299, 211
+  size: 41, 40
+  orig: 47, 46
+  offset: 3, 3
+  index: -1
+xl/a0001
+  rotate: false
+  xy: 69, 4
+  size: 20, 13
+  orig: 52, 52
+  offset: 1, 7
+  index: -1
+xl/a0002
+  rotate: true
+  xy: 311, 25
+  size: 24, 21
+  orig: 52, 52
+  offset: 0, 3
+  index: -1
+xl/a0003
+  rotate: true
+  xy: 274, 6
+  size: 26, 33
+  orig: 52, 52
+  offset: 0, 1
+  index: -1
+xl/a0004
+  rotate: false
+  xy: 299, 127
+  size: 34, 37
+  orig: 52, 52
+  offset: 0, 1
+  index: -1
+xl/a0005
+  rotate: true
+  xy: 257, 36
+  size: 39, 43
+  orig: 52, 52
+  offset: 1, 1
+  index: -1
+xl/a0006
+  rotate: false
+  xy: 69, 21
+  size: 43, 49
+  orig: 52, 52
+  offset: 2, 1
+  index: -1
+xl/a0007
+  rotate: false
+  xy: 116, 21
+  size: 43, 49
+  orig: 52, 52
+  offset: 5, 2
+  index: -1
+xl/a0008
+  rotate: false
+  xy: 163, 24
+  size: 45, 46
+  orig: 52, 52
+  offset: 7, 5
+  index: -1
+xl/a0009
+  rotate: true
+  xy: 212, 33
+  size: 42, 41
+  orig: 52, 52
+  offset: 10, 10
+  index: -1
+xl/a0010
+  rotate: true
+  xy: 299, 168
+  size: 39, 37
+  orig: 52, 52
+  offset: 13, 14
+  index: -1
+xl/a0011
+  rotate: true
+  xy: 299, 88
+  size: 35, 33
+  orig: 52, 52
+  offset: 17, 18
+  index: -1
+xl/a0012
+  rotate: true
+  xy: 304, 53
+  size: 31, 27
+  orig: 52, 52
+  offset: 21, 24
+  index: -1
+xl/a0013
+  rotate: true
+  xy: 212, 4
+  size: 25, 27
+  orig: 52, 52
+  offset: 27, 24
+  index: -1
+xl/a0014
+  rotate: true
+  xy: 243, 10
+  size: 19, 27
+  orig: 52, 52
+  offset: 31, 24
+  index: -1
+xl/a0015
+  rotate: true
+  xy: 163, 4
+  size: 16, 23
+  orig: 52, 52
+  offset: 32, 25
+  index: -1
+xl/a0016
+  rotate: true
+  xy: 93, 4
+  size: 13, 19
+  orig: 52, 52
+  offset: 34, 26
+  index: -1
+xl/a0017
+  rotate: false
+  xy: 130, 11
+  size: 6, 6
+  orig: 52, 52
+  offset: 35, 27
+  index: -1
+xl/a0018
+  rotate: false
+  xy: 140, 13
+  size: 4, 4
+  orig: 52, 52
+  offset: 37, 29
+  index: -1

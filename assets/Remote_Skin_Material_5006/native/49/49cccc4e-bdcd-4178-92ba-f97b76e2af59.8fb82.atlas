@@ -1,0 +1,62 @@
+
+revive_countdown_5006.png
+size: 512,512
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+0
+  rotate: false
+  xy: 4, 144
+  size: 139, 169
+  orig: 200, 200
+  offset: 28, 17
+  index: -1
+1
+  rotate: false
+  xy: 276, 320
+  size: 68, 163
+  orig: 200, 200
+  offset: 63, 23
+  index: -1
+2
+  rotate: false
+  xy: 4, 317
+  size: 143, 166
+  orig: 200, 200
+  offset: 26, 22
+  index: -1
+3
+  rotate: true
+  xy: 171, 14
+  size: 129, 169
+  orig: 200, 200
+  offset: 33, 20
+  index: -1
+4
+  rotate: true
+  xy: 4, 4
+  size: 136, 163
+  orig: 200, 200
+  offset: 29, 23
+  index: -1
+5
+  rotate: false
+  xy: 147, 147
+  size: 132, 166
+  orig: 200, 200
+  offset: 31, 22
+  index: -1
+tuoyuan2
+  rotate: false
+  xy: 151, 319
+  size: 37, 37
+  orig: 39, 39
+  offset: 1, 1
+  index: -1
+tuoyuan3
+  rotate: false
+  xy: 151, 360
+  size: 121, 123
+  orig: 141, 141
+  offset: 10, 9
+  index: -1

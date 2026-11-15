@@ -1,0 +1,27 @@
+
+main_midsummer02_popup2.png
+size: 512,128
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+btn_imgLIt
+  rotate: true
+  xy: 275, 23
+  size: 78, 120
+  orig: 314, 484
+  offset: 118, 182
+  index: -1
+btn_img_lit
+  rotate: true
+  xy: 4, 4
+  size: 97, 140
+  orig: 394, 566
+  offset: 149, 213
+  index: -1
+btn_img_lit2
+  rotate: true
+  xy: 148, 21
+  size: 80, 123
+  orig: 326, 496
+  offset: 123, 187
+  index: -1

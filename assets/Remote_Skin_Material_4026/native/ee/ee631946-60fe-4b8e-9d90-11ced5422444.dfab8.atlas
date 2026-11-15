@@ -1,0 +1,20 @@
+
+gameplay_combo_026.png
+size: 331,169
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diGuang_1a
+  rotate: false
+  xy: 2, 2
+  size: 176, 165
+  orig: 194, 183
+  offset: 9, 9
+  index: -1
+diGuang_2a
+  rotate: false
+  xy: 180, 18
+  size: 149, 149
+  orig: 152, 152
+  offset: 2, 1
+  index: -1

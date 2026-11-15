@@ -1,0 +1,69 @@
+
+gameplay_comboTips_4012.png
+size: 308,529
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+xin_10b
+  rotate: true
+  xy: 99, 4
+  size: 91, 79
+  orig: 115, 110
+  offset: 12, 14
+  index: -1
+xin_10c
+  rotate: false
+  xy: 182, 17
+  size: 91, 80
+  orig: 119, 104
+  offset: 14, 11
+  index: -1
+xin_11
+  rotate: false
+  xy: 4, 15
+  size: 91, 80
+  orig: 123, 107
+  offset: 16, 12
+  index: -1
+xin_3
+  rotate: false
+  xy: 4, 386
+  size: 158, 139
+  orig: 158, 141
+  offset: 0, 0
+  index: -1
+xin_3b
+  rotate: true
+  xy: 166, 367
+  size: 158, 138
+  orig: 158, 141
+  offset: 0, 0
+  index: -1
+xin_3c
+  rotate: false
+  xy: 4, 243
+  size: 158, 139
+  orig: 158, 141
+  offset: 0, 0
+  index: -1
+xin_7a
+  rotate: false
+  xy: 4, 99
+  size: 155, 140
+  orig: 161, 146
+  offset: 3, 2
+  index: -1
+xin_8
+  rotate: true
+  xy: 166, 219
+  size: 144, 130
+  orig: 174, 165
+  offset: 15, 19
+  index: -1
+xin_9
+  rotate: false
+  xy: 163, 101
+  size: 114, 114
+  orig: 130, 130
+  offset: 8, 8
+  index: -1

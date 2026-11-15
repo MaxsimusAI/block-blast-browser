@@ -1,0 +1,181 @@
+
+gameplay_comboTips_054.png
+size: 944,488
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c_tips_01
+  rotate: true
+  xy: 2, 2
+  size: 189, 167
+  orig: 200, 200
+  offset: 5, 17
+  index: -1
+c_tips_04
+  rotate: false
+  xy: 911, 38
+  size: 25, 20
+  orig: 30, 30
+  offset: 2, 5
+  index: -1
+c_tips_05
+  rotate: false
+  xy: 859, 2
+  size: 29, 24
+  orig: 40, 30
+  offset: 5, 2
+  index: -1
+c_tips_06
+  rotate: false
+  xy: 890, 5
+  size: 26, 21
+  orig: 30, 30
+  offset: 2, 5
+  index: -1
+c_tips_07
+  rotate: false
+  xy: 720, 2
+  size: 23, 19
+  orig: 30, 30
+  offset: 3, 6
+  index: -1
+cailizi_1
+  rotate: false
+  xy: 924, 134
+  size: 6, 7
+  orig: 10, 10
+  offset: 2, 2
+  index: -1
+cailizi_2
+  rotate: false
+  xy: 933, 479
+  size: 7, 7
+  orig: 10, 10
+  offset: 1, 2
+  index: -1
+cailizi_3
+  rotate: true
+  xy: 911, 28
+  size: 8, 9
+  orig: 12, 12
+  offset: 2, 2
+  index: -1
+cailizi_4
+  rotate: false
+  xy: 745, 7
+  size: 13, 14
+  orig: 16, 16
+  offset: 1, 1
+  index: -1
+cailizi_5
+  rotate: false
+  xy: 812, 137
+  size: 58, 59
+  orig: 72, 73
+  offset: 7, 7
+  index: -1
+cailizi_6
+  rotate: false
+  xy: 806, 27
+  size: 51, 52
+  orig: 66, 67
+  offset: 8, 7
+  index: -1
+cailizi_7
+  rotate: true
+  xy: 872, 93
+  size: 48, 50
+  orig: 64, 64
+  offset: 8, 7
+  index: -1
+cailizi_8
+  rotate: false
+  xy: 859, 28
+  size: 50, 51
+  orig: 64, 65
+  offset: 7, 7
+  index: -1
+guangyun
+  rotate: false
+  xy: 2, 193
+  size: 336, 293
+  orig: 353, 317
+  offset: 8, 12
+  index: -1
+h_tips_01
+  rotate: true
+  xy: 171, 2
+  size: 189, 167
+  orig: 200, 200
+  offset: 5, 17
+  index: -1
+h_tips_02
+  rotate: false
+  xy: 509, 8
+  size: 209, 183
+  orig: 260, 260
+  offset: 25, 39
+  index: -1
+h_tips_03
+  rotate: true
+  xy: 678, 198
+  size: 288, 253
+  orig: 300, 300
+  offset: 6, 24
+  index: -1
+h_tips_04
+  rotate: false
+  xy: 720, 110
+  size: 90, 86
+  orig: 102, 104
+  offset: 7, 9
+  index: -1
+huanggy
+  rotate: false
+  xy: 340, 193
+  size: 336, 293
+  orig: 353, 317
+  offset: 8, 12
+  index: -1
+lizi_1
+  rotate: true
+  xy: 812, 81
+  size: 54, 55
+  orig: 64, 73
+  offset: 6, 9
+  index: -1
+lizi_2
+  rotate: false
+  xy: 720, 23
+  size: 84, 85
+  orig: 99, 101
+  offset: 7, 8
+  index: -1
+qlz
+  rotate: false
+  xy: 911, 60
+  size: 31, 31
+  orig: 37, 37
+  offset: 3, 3
+  index: -1
+tips_01
+  rotate: true
+  xy: 340, 2
+  size: 189, 167
+  orig: 200, 170
+  offset: 5, 2
+  index: -1
+tips_02
+  rotate: true
+  xy: 340, 2
+  size: 189, 167
+  orig: 200, 170
+  offset: 5, 2
+  index: -1
+xin_1
+  rotate: false
+  xy: 872, 143
+  size: 58, 53
+  orig: 70, 70
+  offset: 5, 9
+  index: -1

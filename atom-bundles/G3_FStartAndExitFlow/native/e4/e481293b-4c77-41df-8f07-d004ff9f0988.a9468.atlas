@@ -1,0 +1,13 @@
+
+result_stage_clear.png
+size: 63,63
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guoguan_xin_01
+  rotate: false
+  xy: 2, 2
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1

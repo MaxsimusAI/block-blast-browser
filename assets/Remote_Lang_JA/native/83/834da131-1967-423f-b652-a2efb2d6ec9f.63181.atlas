@@ -1,0 +1,160 @@
+
+gameplay_word_well1.png
+size: 735,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+WELL DONE!_
+  rotate: false
+  xy: 2, 78
+  size: 503, 124
+  orig: 505, 126
+  offset: 1, 2
+  index: -1
+WELLDONE!_1
+  rotate: true
+  xy: 507, 25
+  size: 80, 92
+  orig: 97, 99
+  offset: 9, 4
+  index: -1
+WELLDONE!_2
+  rotate: true
+  xy: 206, 9
+  size: 67, 94
+  orig: 97, 99
+  offset: 15, 4
+  index: -1
+WELLDONE!_3
+  rotate: false
+  xy: 507, 107
+  size: 90, 95
+  orig: 97, 99
+  offset: 4, 4
+  index: -1
+WELLDONE!_4
+  rotate: false
+  xy: 302, 10
+  size: 79, 66
+  orig: 97, 99
+  offset: 9, 5
+  index: -1
+WELLDONE!_5
+  rotate: false
+  xy: 599, 111
+  size: 85, 91
+  orig: 97, 99
+  offset: 6, 5
+  index: -1
+WELLDONE!_6
+  rotate: true
+  xy: 601, 2
+  size: 32, 82
+  orig: 97, 99
+  offset: 32, 8
+  index: -1
+baopo
+  rotate: false
+  xy: 680, 78
+  size: 52, 30
+  orig: 72, 38
+  offset: 10, 8
+  index: -1
+caiguang
+  rotate: false
+  xy: 2, 25
+  size: 202, 51
+  orig: 245, 75
+  offset: 22, 12
+  index: -1
+dian_44
+  rotate: false
+  xy: 680, 50
+  size: 42, 26
+  orig: 44, 28
+  offset: 1, 1
+  index: -1
+dian_45
+  rotate: true
+  xy: 708, 385
+  size: 25, 22
+  orig: 27, 24
+  offset: 1, 1
+  index: -1
+dian_47
+  rotate: true
+  xy: 708, 412
+  size: 34, 22
+  orig: 36, 24
+  offset: 1, 1
+  index: -1
+dian_48
+  rotate: false
+  xy: 686, 110
+  size: 47, 37
+  orig: 49, 40
+  offset: 1, 1
+  index: -1
+dian_49
+  rotate: true
+  xy: 462, 14
+  size: 62, 38
+  orig: 64, 40
+  offset: 1, 1
+  index: -1
+dian_61
+  rotate: false
+  xy: 680, 36
+  size: 23, 12
+  orig: 25, 14
+  offset: 1, 1
+  index: -1
+dian_62
+  rotate: false
+  xy: 2, 12
+  size: 26, 11
+  orig: 28, 13
+  offset: 1, 1
+  index: -1
+dian_79
+  rotate: false
+  xy: 708, 448
+  size: 20, 73
+  orig: 20, 73
+  offset: 0, 0
+  index: -1
+dian_81
+  rotate: true
+  xy: 462, 2
+  size: 10, 32
+  orig: 10, 34
+  offset: 0, 1
+  index: -1
+dian_98
+  rotate: false
+  xy: 383, 3
+  size: 77, 73
+  orig: 94, 95
+  offset: 9, 10
+  index: -1
+fpd03
+  rotate: true
+  xy: 686, 149
+  size: 53, 42
+  orig: 53, 42
+  offset: 0, 0
+  index: -1
+pian_37
+  rotate: false
+  xy: 2, 204
+  size: 704, 317
+  orig: 704, 317
+  offset: 0, 0
+  index: -1
+xinxin23
+  rotate: false
+  xy: 601, 36
+  size: 77, 73
+  orig: 94, 95
+  offset: 9, 10
+  index: -1

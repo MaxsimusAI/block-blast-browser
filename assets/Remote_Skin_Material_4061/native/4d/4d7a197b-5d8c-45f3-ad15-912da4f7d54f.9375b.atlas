@@ -1,0 +1,300 @@
+
+gameplay_eliminate_061.png
+size: 1003,810
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+kuai_1
+  rotate: false
+  xy: 4, 6
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+kuai_2
+  rotate: false
+  xy: 114, 6
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+kuai_3
+  rotate: false
+  xy: 224, 6
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+kuai_4
+  rotate: false
+  xy: 334, 6
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+kuai_5
+  rotate: false
+  xy: 444, 6
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+kuai_6
+  rotate: false
+  xy: 554, 6
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+kuai_7
+  rotate: false
+  xy: 893, 700
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+kuai_ce_1
+  rotate: false
+  xy: 805, 224
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+kuai_ce_2
+  rotate: false
+  xy: 664, 114
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+kuai_ce_3
+  rotate: false
+  xy: 664, 4
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+kuai_ce_4
+  rotate: false
+  xy: 774, 114
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+kuai_ce_5
+  rotate: false
+  xy: 774, 4
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+kuai_ce_6
+  rotate: false
+  xy: 884, 114
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+kuai_ce_7
+  rotate: false
+  xy: 884, 4
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+youqi_block_a
+  rotate: true
+  xy: 4, 116
+  size: 690, 85
+  orig: 690, 85
+  offset: 0, 0
+  index: -1
+youqi_block_b
+  rotate: true
+  xy: 93, 116
+  size: 690, 85
+  orig: 690, 85
+  offset: 0, 0
+  index: -1
+youqi_block_c
+  rotate: true
+  xy: 182, 116
+  size: 690, 85
+  orig: 690, 85
+  offset: 0, 0
+  index: -1
+youqi_block_d
+  rotate: true
+  xy: 271, 116
+  size: 690, 85
+  orig: 690, 85
+  offset: 0, 0
+  index: -1
+youqi_block_e
+  rotate: true
+  xy: 360, 116
+  size: 690, 85
+  orig: 690, 85
+  offset: 0, 0
+  index: -1
+youqi_block_f
+  rotate: true
+  xy: 449, 116
+  size: 690, 85
+  orig: 690, 85
+  offset: 0, 0
+  index: -1
+youqi_block_g
+  rotate: true
+  xy: 538, 116
+  size: 690, 85
+  orig: 690, 85
+  offset: 0, 0
+  index: -1
+youqi_line_a
+  rotate: false
+  xy: 664, 782
+  size: 216, 10
+  orig: 216, 10
+  offset: 0, 0
+  index: -1
+youqi_line_b
+  rotate: false
+  xy: 664, 768
+  size: 216, 10
+  orig: 216, 10
+  offset: 0, 0
+  index: -1
+youqi_line_c
+  rotate: false
+  xy: 664, 754
+  size: 216, 10
+  orig: 216, 10
+  offset: 0, 0
+  index: -1
+youqi_line_d
+  rotate: false
+  xy: 664, 740
+  size: 216, 10
+  orig: 216, 10
+  offset: 0, 0
+  index: -1
+youqi_line_e
+  rotate: false
+  xy: 664, 796
+  size: 225, 10
+  orig: 225, 10
+  offset: 0, 0
+  index: -1
+youqi_line_f
+  rotate: false
+  xy: 664, 726
+  size: 216, 10
+  orig: 216, 10
+  offset: 0, 0
+  index: -1
+youqi_line_g
+  rotate: false
+  xy: 664, 712
+  size: 216, 10
+  orig: 216, 10
+  offset: 0, 0
+  index: -1
+youqi_par_a
+  rotate: false
+  xy: 805, 659
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+youqi_par_b
+  rotate: false
+  xy: 805, 606
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+youqi_par_c
+  rotate: false
+  xy: 805, 553
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+youqi_par_d
+  rotate: false
+  xy: 805, 500
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+youqi_par_e
+  rotate: false
+  xy: 805, 447
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+youqi_par_f
+  rotate: false
+  xy: 805, 394
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+youqi_par_g
+  rotate: false
+  xy: 805, 341
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+youqitou_a
+  rotate: false
+  xy: 664, 590
+  size: 137, 118
+  orig: 137, 118
+  offset: 0, 0
+  index: -1
+youqitou_b
+  rotate: false
+  xy: 861, 578
+  size: 137, 118
+  orig: 137, 118
+  offset: 0, 0
+  index: -1
+youqitou_c
+  rotate: false
+  xy: 664, 468
+  size: 137, 118
+  orig: 137, 118
+  offset: 0, 0
+  index: -1
+youqitou_d
+  rotate: false
+  xy: 861, 456
+  size: 137, 118
+  orig: 137, 118
+  offset: 0, 0
+  index: -1
+youqitou_e
+  rotate: false
+  xy: 664, 346
+  size: 137, 118
+  orig: 137, 118
+  offset: 0, 0
+  index: -1
+youqitou_f
+  rotate: false
+  xy: 861, 334
+  size: 137, 118
+  orig: 137, 118
+  offset: 0, 0
+  index: -1
+youqitou_g
+  rotate: false
+  xy: 664, 224
+  size: 137, 118
+  orig: 137, 118
+  offset: 0, 0
+  index: -1

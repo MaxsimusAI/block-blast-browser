@@ -1,0 +1,34 @@
+
+revive_button_5005.png
+size: 256,256
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+Btn_Play_Green
+  rotate: false
+  xy: 4, 84
+  size: 121, 158
+  orig: 121, 158
+  offset: 0, 0
+  index: -1
+icon
+  rotate: false
+  xy: 4, 23
+  size: 76, 57
+  orig: 76, 57
+  offset: 0, 0
+  index: -1
+icond
+  rotate: true
+  xy: 84, 4
+  size: 76, 41
+  orig: 76, 41
+  offset: 0, 0
+  index: -1
+wz
+  rotate: true
+  xy: 129, 42
+  size: 200, 52
+  orig: 200, 52
+  offset: 0, 0
+  index: -1

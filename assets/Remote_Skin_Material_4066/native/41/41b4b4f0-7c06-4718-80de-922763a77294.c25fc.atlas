@@ -1,0 +1,48 @@
+
+gameplay_clear_unbelievable_4066.png
+size: 740,264
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
++300
+  rotate: false
+  xy: 260, 25
+  size: 280, 107
+  orig: 283, 111
+  offset: 2, 2
+  index: -1
+block_01
+  rotate: false
+  xy: 544, 46
+  size: 31, 31
+  orig: 35, 34
+  offset: 2, 1
+  index: -1
+ia_100000016
+  rotate: false
+  xy: 544, 81
+  size: 192, 51
+  orig: 192, 51
+  offset: 0, 0
+  index: -1
+ia_1400000083
+  rotate: false
+  xy: 4, 4
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ia_3200000058
+  rotate: false
+  xy: 136, 12
+  size: 120, 120
+  orig: 128, 128
+  offset: 4, 4
+  index: -1
+unbelievable
+  rotate: false
+  xy: 4, 136
+  size: 722, 124
+  orig: 724, 126
+  offset: 1, 1
+  index: -1

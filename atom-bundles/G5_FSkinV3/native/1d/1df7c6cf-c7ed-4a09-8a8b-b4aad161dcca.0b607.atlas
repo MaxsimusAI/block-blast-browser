@@ -1,0 +1,20 @@
+
+gameplay_combo.png
+size: 301,91
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+Node_shuzi
+  rotate: false
+  xy: 296, 86
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+combo
+  rotate: false
+  xy: 4, 4
+  size: 288, 83
+  orig: 290, 85
+  offset: 1, 1
+  index: -1

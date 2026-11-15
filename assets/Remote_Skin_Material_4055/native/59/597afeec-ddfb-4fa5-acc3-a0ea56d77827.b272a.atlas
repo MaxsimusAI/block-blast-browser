@@ -1,0 +1,272 @@
+
+gameplay_comboTips_055.png
+size: 958,898
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c_tips_01
+  rotate: false
+  xy: 438, 662
+  size: 262, 234
+  orig: 270, 243
+  offset: 4, 5
+  index: -1
+c_tips_02
+  rotate: true
+  xy: 2, 558
+  size: 338, 298
+  orig: 346, 307
+  offset: 4, 5
+  index: -1
+c_tips_03
+  rotate: false
+  xy: 250, 9
+  size: 239, 209
+  orig: 241, 211
+  offset: 1, 1
+  index: -1
+c_tips_04
+  rotate: true
+  xy: 840, 318
+  size: 40, 39
+  orig: 42, 41
+  offset: 1, 1
+  index: -1
+c_tips_05
+  rotate: false
+  xy: 925, 445
+  size: 29, 24
+  orig: 40, 30
+  offset: 5, 2
+  index: -1
+c_tips_06
+  rotate: false
+  xy: 925, 422
+  size: 26, 21
+  orig: 30, 30
+  offset: 2, 5
+  index: -1
+c_tips_07
+  rotate: false
+  xy: 923, 401
+  size: 23, 19
+  orig: 30, 30
+  offset: 3, 6
+  index: -1
+flz
+  rotate: false
+  xy: 850, 360
+  size: 71, 71
+  orig: 89, 89
+  offset: 9, 9
+  index: -1
+flz2
+  rotate: false
+  xy: 314, 225
+  size: 11, 12
+  orig: 15, 15
+  offset: 2, 2
+  index: -1
+h_tips_01
+  rotate: false
+  xy: 702, 670
+  size: 254, 226
+  orig: 260, 234
+  offset: 3, 4
+  index: -1
+h_tips_02
+  rotate: true
+  xy: 297, 239
+  size: 317, 280
+  orig: 325, 288
+  offset: 4, 4
+  index: -1
+huanggy
+  rotate: true
+  xy: 2, 220
+  size: 336, 293
+  orig: 353, 317
+  offset: 8, 12
+  index: -1
+hx
+  rotate: false
+  xy: 297, 222
+  size: 15, 15
+  orig: 17, 17
+  offset: 1, 1
+  index: -1
+qlz
+  rotate: false
+  xy: 402, 740
+  size: 31, 31
+  orig: 37, 37
+  offset: 3, 3
+  index: -1
+saoguang/tips_sg_14
+  rotate: true
+  xy: 327, 227
+  size: 10, 38
+  orig: 157, 128
+  offset: 1, 68
+  index: -1
+saoguang/tips_sg_15
+  rotate: false
+  xy: 579, 245
+  size: 19, 55
+  orig: 157, 128
+  offset: 1, 60
+  index: -1
+saoguang/tips_sg_16
+  rotate: false
+  xy: 402, 672
+  size: 27, 66
+  orig: 157, 128
+  offset: 1, 54
+  index: -1
+saoguang/tips_sg_17
+  rotate: true
+  xy: 850, 433
+  size: 36, 73
+  orig: 157, 128
+  offset: 1, 50
+  index: -1
+saoguang/tips_sg_18
+  rotate: true
+  xy: 685, 255
+  size: 45, 78
+  orig: 157, 128
+  offset: 1, 45
+  index: -1
+saoguang/tips_sg_19
+  rotate: true
+  xy: 600, 246
+  size: 54, 83
+  orig: 157, 128
+  offset: 1, 41
+  index: -1
+saoguang/tips_sg_20
+  rotate: false
+  xy: 632, 573
+  size: 63, 87
+  orig: 157, 128
+  offset: 1, 37
+  index: -1
+saoguang/tips_sg_21
+  rotate: true
+  xy: 850, 471
+  size: 70, 91
+  orig: 157, 128
+  offset: 1, 33
+  index: -1
+saoguang/tips_sg_22
+  rotate: false
+  xy: 552, 565
+  size: 78, 95
+  orig: 157, 128
+  offset: 1, 29
+  index: -1
+saoguang/tips_sg_23
+  rotate: false
+  xy: 302, 673
+  size: 98, 98
+  orig: 157, 128
+  offset: 1, 26
+  index: -1
+saoguang/tips_sg_24
+  rotate: false
+  xy: 438, 558
+  size: 112, 102
+  orig: 157, 128
+  offset: 1, 22
+  index: -1
+saoguang/tips_sg_25
+  rotate: true
+  xy: 850, 543
+  size: 125, 105
+  orig: 157, 128
+  offset: 1, 19
+  index: -1
+saoguang/tips_sg_26
+  rotate: false
+  xy: 302, 559
+  size: 134, 109
+  orig: 157, 128
+  offset: 2, 15
+  index: -1
+saoguang/tips_sg_27
+  rotate: true
+  xy: 579, 302
+  size: 142, 113
+  orig: 157, 128
+  offset: 2, 11
+  index: -1
+saoguang/tips_sg_28
+  rotate: false
+  xy: 702, 431
+  size: 146, 116
+  orig: 157, 128
+  offset: 3, 8
+  index: -1
+saoguang/tips_sg_29
+  rotate: false
+  xy: 702, 549
+  size: 146, 119
+  orig: 157, 128
+  offset: 5, 5
+  index: -1
+saoguang/tips_sg_30
+  rotate: false
+  xy: 694, 306
+  size: 144, 123
+  orig: 157, 128
+  offset: 8, 1
+  index: -1
+saoguang/tips_sg_31
+  rotate: false
+  xy: 765, 181
+  size: 139, 123
+  orig: 157, 128
+  offset: 13, 1
+  index: -1
+saoguang/tips_sg_32
+  rotate: false
+  xy: 302, 773
+  size: 134, 123
+  orig: 157, 128
+  offset: 18, 1
+  index: -1
+saoguang/tips_sg_33
+  rotate: true
+  xy: 702, 50
+  size: 129, 122
+  orig: 157, 128
+  offset: 23, 1
+  index: -1
+saoguang/tips_sg_34
+  rotate: false
+  xy: 826, 57
+  size: 123, 122
+  orig: 157, 128
+  offset: 29, 1
+  index: -1
+saoguang/tips_sg_35
+  rotate: true
+  xy: 579, 446
+  size: 117, 120
+  orig: 157, 128
+  offset: 35, 1
+  index: -1
+tips_01
+  rotate: true
+  xy: 491, 2
+  size: 235, 209
+  orig: 243, 218
+  offset: 4, 5
+  index: -1
+tips_02
+  rotate: false
+  xy: 2, 3
+  size: 246, 215
+  orig: 246, 215
+  offset: 0, 0
+  index: -1

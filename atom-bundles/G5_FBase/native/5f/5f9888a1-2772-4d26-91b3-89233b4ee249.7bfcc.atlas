@@ -1,0 +1,20 @@
+
+gameplay_effect_hou.png
+size: 447,264
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+tx/glow1
+  rotate: true
+  xy: 264, 80
+  size: 180, 179
+  orig: 232, 232
+  offset: 26, 26
+  index: -1
+tx/xg
+  rotate: false
+  xy: 4, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+result_failed.png
+size: 774,602
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+hengfu_2
+  rotate: false
+  xy: 4, 404
+  size: 766, 194
+  orig: 766, 194
+  offset: 0, 0
+  index: -1
+jiangbei_2
+  rotate: false
+  xy: 4, 4
+  size: 407, 396
+  orig: 407, 396
+  offset: 0, 0
+  index: -1
+liefeng
+  rotate: false
+  xy: 415, 183
+  size: 71, 217
+  orig: 71, 217
+  offset: 0, 0
+  index: -1
+shuye
+  rotate: false
+  xy: 415, 150
+  size: 68, 29
+  orig: 68, 29
+  offset: 0, 0
+  index: -1

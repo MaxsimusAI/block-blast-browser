@@ -1,0 +1,286 @@
+
+gameplay_bestscore.png
+size: 1024,1024
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+glow01
+  rotate: false
+  xy: 659, 500
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+glow02
+  rotate: false
+  xy: 556, 318
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+glow03_00
+  rotate: false
+  xy: 602, 317
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+glow04
+  rotate: false
+  xy: 659, 524
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+glowLight
+  rotate: false
+  xy: 755, 332
+  size: 29, 28
+  orig: 32, 32
+  offset: 1, 2
+  index: -1
+img/H5_00004
+  rotate: true
+  xy: 709, 739
+  size: 3, 5
+  orig: 140, 100
+  offset: 27, 5
+  index: -1
+img/H5_00005
+  rotate: true
+  xy: 686, 320
+  size: 40, 65
+  orig: 140, 100
+  offset: 4, 3
+  index: -1
+img/H5_00006
+  rotate: false
+  xy: 964, 871
+  size: 55, 69
+  orig: 140, 100
+  offset: 4, 3
+  index: -1
+img/H5_00007
+  rotate: true
+  xy: 924, 192
+  size: 71, 70
+  orig: 140, 100
+  offset: 4, 3
+  index: -1
+img/H5_00008
+  rotate: true
+  xy: 925, 378
+  size: 88, 70
+  orig: 140, 100
+  offset: 4, 3
+  index: -1
+img/H5_00009
+  rotate: true
+  xy: 881, 502
+  size: 106, 89
+  orig: 140, 100
+  offset: 4, 3
+  index: -1
+img/H5_00010
+  rotate: true
+  xy: 881, 612
+  size: 110, 94
+  orig: 140, 100
+  offset: 4, 3
+  index: -1
+img/H5_00011
+  rotate: false
+  xy: 688, 364
+  size: 115, 94
+  orig: 140, 100
+  offset: 6, 3
+  index: -1
+img/H5_00012
+  rotate: false
+  xy: 807, 364
+  size: 114, 94
+  orig: 140, 100
+  offset: 20, 3
+  index: -1
+img/H5_00013
+  rotate: false
+  xy: 833, 235
+  size: 87, 94
+  orig: 140, 100
+  offset: 49, 3
+  index: -1
+img/H5_00014
+  rotate: false
+  xy: 603, 383
+  size: 81, 94
+  orig: 140, 100
+  offset: 55, 3
+  index: -1
+img/H5_00015
+  rotate: false
+  xy: 924, 267
+  size: 78, 93
+  orig: 140, 100
+  offset: 58, 4
+  index: -1
+img/H5_00016
+  rotate: true
+  xy: 400, 162
+  size: 69, 74
+  orig: 140, 100
+  offset: 67, 23
+  index: -1
+img/H5_00017
+  rotate: true
+  xy: 881, 467
+  size: 31, 39
+  orig: 140, 100
+  offset: 105, 34
+  index: -1
+img/H5_00018
+  rotate: false
+  xy: 659, 579
+  size: 25, 31
+  orig: 140, 100
+  offset: 111, 42
+  index: -1
+img/H5_00019
+  rotate: false
+  xy: 659, 550
+  size: 24, 25
+  orig: 140, 100
+  offset: 112, 48
+  index: -1
+light
+  rotate: false
+  xy: 746, 726
+  size: 214, 214
+  orig: 220, 220
+  offset: 3, 3
+  index: -1
+light2
+  rotate: false
+  xy: 556, 614
+  size: 128, 128
+  orig: 129, 129
+  offset: 0, 1
+  index: -1
+paper_02
+  rotate: true
+  xy: 688, 728
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+paper_03
+  rotate: true
+  xy: 964, 740
+  size: 69, 47
+  orig: 75, 49
+  offset: 3, 1
+  index: -1
+paper_04
+  rotate: true
+  xy: 788, 333
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+paper_05
+  rotate: true
+  xy: 924, 470
+  size: 28, 39
+  orig: 30, 41
+  offset: 1, 1
+  index: -1
+par1
+  rotate: false
+  xy: 580, 320
+  size: 18, 18
+  orig: 24, 24
+  offset: 3, 3
+  index: -1
+result_img_best_crown
+  rotate: true
+  xy: 688, 462
+  size: 260, 189
+  orig: 260, 189
+  offset: 0, 0
+  index: -1
+result_img_lihua
+  rotate: false
+  xy: 556, 481
+  size: 99, 129
+  orig: 104, 133
+  offset: 2, 3
+  index: -1
+result_pic_newBest_orange1
+  rotate: false
+  xy: 4, 746
+  size: 738, 194
+  orig: 738, 194
+  offset: 0, 0
+  index: -1
+result_pic_newBest_purple1
+  rotate: true
+  xy: 4, 4
+  size: 738, 194
+  orig: 738, 194
+  offset: 0, 0
+  index: -1
+result_pic_newBest_red1
+  rotate: true
+  xy: 202, 4
+  size: 738, 194
+  orig: 738, 194
+  offset: 0, 0
+  index: -1
+result_txt_newBest_orange
+  rotate: true
+  xy: 400, 313
+  size: 429, 74
+  orig: 438, 74
+  offset: 2, 0
+  index: -1
+result_txt_newBest_purple
+  rotate: false
+  xy: 400, 235
+  size: 429, 74
+  orig: 438, 74
+  offset: 2, 0
+  index: -1
+result_txt_newBest_red
+  rotate: true
+  xy: 478, 313
+  size: 429, 74
+  orig: 438, 74
+  offset: 2, 0
+  index: -1
+score
+  rotate: true
+  xy: 556, 342
+  size: 135, 43
+  orig: 137, 45
+  offset: 1, 1
+  index: -1
+spark_1
+  rotate: true
+  xy: 603, 341
+  size: 38, 79
+  orig: 45, 93
+  offset: 3, 7
+  index: -1
+star
+  rotate: false
+  xy: 964, 813
+  size: 53, 54
+  orig: 63, 63
+  offset: 5, 5
+  index: -1
+tex_light_2
+  rotate: true
+  xy: 478, 171
+  size: 60, 103
+  orig: 68, 115
+  offset: 4, 9
+  index: -1

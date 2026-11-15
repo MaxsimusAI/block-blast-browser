@@ -1,0 +1,104 @@
+
+gameplay_ready_eliminate_4027.png
+size: 234,698
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+game_cube_1_material_4027
+  rotate: false
+  xy: 4, 444
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+game_cube_2_material_4027
+  rotate: false
+  xy: 4, 334
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+game_cube_3_material_4027
+  rotate: false
+  xy: 114, 299
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+game_cube_4_material_4027
+  rotate: false
+  xy: 114, 189
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+game_cube_5_material_4027
+  rotate: false
+  xy: 4, 114
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+game_cube_6_material_4027
+  rotate: false
+  xy: 114, 79
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+game_cube_7_material_4027
+  rotate: false
+  xy: 4, 4
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+js_10
+  rotate: false
+  xy: 148, 538
+  size: 74, 74
+  orig: 76, 76
+  offset: 1, 1
+  index: -1
+js_11
+  rotate: false
+  xy: 148, 616
+  size: 82, 78
+  orig: 116, 98
+  offset: 28, 8
+  index: -1
+js_2
+  rotate: false
+  xy: 114, 409
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+js_3
+  rotate: false
+  xy: 4, 554
+  size: 140, 140
+  orig: 146, 146
+  offset: 3, 3
+  index: -1
+js_4
+  rotate: false
+  xy: 4, 224
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+js_5
+  rotate: false
+  xy: 114, 535
+  size: 15, 15
+  orig: 17, 17
+  offset: 1, 1
+  index: -1
+js_6
+  rotate: false
+  xy: 133, 519
+  size: 15, 15
+  orig: 17, 17
+  offset: 1, 1
+  index: -1

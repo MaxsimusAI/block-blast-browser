@@ -1,0 +1,90 @@
+
+gameplay_pass_barrier2.png
+size: 75,227
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+firework10
+  rotate: false
+  xy: 2, 151
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+firework2
+  rotate: true
+  xy: 2, 76
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+firework4
+  rotate: false
+  xy: 2, 114
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+firework5
+  rotate: true
+  xy: 45, 114
+  size: 36, 27
+  orig: 36, 30
+  offset: 0, 2
+  index: -1
+firework6
+  rotate: true
+  xy: 43, 189
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+firework7
+  rotate: true
+  xy: 2, 38
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+firework8
+  rotate: false
+  xy: 2, 2
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+firework9
+  rotate: false
+  xy: 45, 152
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+tex_paper_1
+  rotate: false
+  xy: 56, 35
+  size: 14, 28
+  orig: 16, 30
+  offset: 1, 1
+  index: -1
+tex_paper_2
+  rotate: false
+  xy: 56, 65
+  size: 17, 47
+  orig: 19, 49
+  offset: 1, 1
+  index: -1
+tex_ribbon_1
+  rotate: false
+  xy: 43, 18
+  size: 11, 94
+  orig: 11, 94
+  offset: 0, 0
+  index: -1
+tex_star_1
+  rotate: false
+  xy: 2, 188
+  size: 39, 37
+  orig: 41, 40
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,12 @@
+{
+  "name": "G15_FPreloadRes",
+  "version": 6,
+  "atomEngineVersion": "4.8.4",
+  "createTime": "2026-03-27 20:09:57",
+  "buildTime": "2026-04-08T21:10:28.000+08:00",
+  "dependencies": [
+    {
+      "atomFeatureName": "G15_FBase"
+    }
+  ]
+}

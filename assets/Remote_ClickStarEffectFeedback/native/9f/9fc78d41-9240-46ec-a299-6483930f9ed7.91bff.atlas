@@ -1,0 +1,48 @@
+
+gameplay_dianji.png
+size: 137,138
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glowLight
+  rotate: false
+  xy: 94, 56
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+glow_ring_01
+  rotate: false
+  xy: 2, 45
+  size: 90, 91
+  orig: 100, 100
+  offset: 5, 5
+  index: -1
+xinghong
+  rotate: false
+  xy: 2, 2
+  size: 42, 41
+  orig: 67, 67
+  offset: 12, 12
+  index: -1
+xinghuang
+  rotate: false
+  xy: 46, 2
+  size: 42, 41
+  orig: 67, 67
+  offset: 12, 12
+  index: -1
+xinglan
+  rotate: false
+  xy: 90, 2
+  size: 42, 41
+  orig: 67, 67
+  offset: 12, 12
+  index: -1
+xinglv
+  rotate: true
+  xy: 94, 94
+  size: 42, 41
+  orig: 67, 67
+  offset: 12, 12
+  index: -1

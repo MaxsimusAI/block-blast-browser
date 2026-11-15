@@ -1,0 +1,167 @@
+
+gameplay_ready_eliminate_045.png
+size: 851,376
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+k/q2
+  rotate: true
+  xy: 669, 263
+  size: 74, 116
+  orig: 76, 118
+  offset: 1, 1
+  index: -1
+k/q2_2
+  rotate: true
+  xy: 330, 15
+  size: 76, 117
+  orig: 76, 118
+  offset: 0, 1
+  index: -1
+k/q3
+  rotate: false
+  xy: 555, 241
+  size: 112, 96
+  orig: 121, 100
+  offset: 8, 1
+  index: -1
+k/q3_2
+  rotate: true
+  xy: 654, 77
+  size: 88, 89
+  orig: 121, 100
+  offset: 18, 1
+  index: -1
+k/q4
+  rotate: false
+  xy: 449, 5
+  size: 99, 86
+  orig: 100, 98
+  offset: 0, 0
+  index: -1
+k/q4_2
+  rotate: true
+  xy: 765, 179
+  size: 82, 84
+  orig: 100, 98
+  offset: 13, 0
+  index: -1
+k/q5
+  rotate: true
+  xy: 651, 10
+  size: 65, 78
+  orig: 67, 80
+  offset: 1, 1
+  index: -1
+k/q5_2
+  rotate: false
+  xy: 766, 101
+  size: 66, 76
+  orig: 67, 80
+  offset: 0, 3
+  index: -1
+png_YT/shuidi_00004
+  rotate: false
+  xy: 752, 7
+  size: 19, 25
+  orig: 32, 100
+  offset: 7, 36
+  index: -1
+png_YT/shuidi_00007
+  rotate: false
+  xy: 752, 34
+  size: 19, 43
+  orig: 32, 100
+  offset: 7, 28
+  index: -1
+png_YT/shuidi_00010
+  rotate: true
+  xy: 766, 79
+  size: 20, 66
+  orig: 32, 100
+  offset: 6, 17
+  index: -1
+png_YT/shuidi_00013
+  rotate: false
+  xy: 731, 2
+  size: 19, 73
+  orig: 32, 100
+  offset: 7, 14
+  index: -1
+png_YT/shuidi_00016
+  rotate: false
+  xy: 745, 86
+  size: 19, 79
+  orig: 32, 100
+  offset: 7, 11
+  index: -1
+png_YT/shuidi_00019
+  rotate: true
+  xy: 550, 4
+  size: 19, 83
+  orig: 32, 100
+  offset: 7, 9
+  index: -1
+png_YT/shuidi_00022
+  rotate: true
+  xy: 550, 25
+  size: 19, 85
+  orig: 32, 100
+  offset: 7, 8
+  index: -1
+tx/daxing
+  rotate: false
+  xy: 555, 142
+  size: 97, 97
+  orig: 108, 108
+  offset: 6, 6
+  index: -1
+tx/fang1_10
+  rotate: false
+  xy: 555, 46
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+tx/fang1_11
+  rotate: false
+  xy: 669, 167
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+tx/mj_6
+  rotate: false
+  xy: 330, 93
+  size: 223, 244
+  orig: 223, 244
+  offset: 0, 0
+  index: -1
+tx/shalou_14
+  rotate: false
+  xy: 2, 11
+  size: 326, 326
+  orig: 350, 350
+  offset: 12, 12
+  index: -1
+tx/yuan_0001_2
+  rotate: false
+  xy: 787, 283
+  size: 54, 54
+  orig: 58, 58
+  offset: 2, 2
+  index: -1
+xian13
+  rotate: false
+  xy: 2, 339
+  size: 847, 35
+  orig: 847, 35
+  offset: 0, 0
+  index: -1
+xian14
+  rotate: false
+  xy: 787, 271
+  size: 47, 10
+  orig: 47, 10
+  offset: 0, 0
+  index: -1

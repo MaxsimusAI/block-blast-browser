@@ -1,0 +1,104 @@
+
+revive_button.png
+size: 996,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
++1234
+  rotate: false
+  xy: 357, 46
+  size: 163, 41
+  orig: 163, 41
+  offset: 0, 0
+  index: -1
++2345
+  rotate: false
+  xy: 2, 45
+  size: 176, 41
+  orig: 176, 41
+  offset: 0, 0
+  index: -1
++3456
+  rotate: false
+  xy: 180, 46
+  size: 175, 40
+  orig: 175, 40
+  offset: 0, 0
+  index: -1
++4567
+  rotate: false
+  xy: 179, 3
+  size: 176, 40
+  orig: 176, 40
+  offset: 0, 0
+  index: -1
++5678
+  rotate: false
+  xy: 183, 89
+  size: 174, 40
+  orig: 174, 40
+  offset: 0, 0
+  index: -1
++6789
+  rotate: false
+  xy: 2, 2
+  size: 175, 41
+  orig: 175, 41
+  offset: 0, 0
+  index: -1
++7890
+  rotate: false
+  xy: 2, 88
+  size: 179, 41
+  orig: 179, 41
+  offset: 0, 0
+  index: -1
+Btn_Play_Green
+  rotate: false
+  xy: 2, 131
+  size: 574, 151
+  orig: 615, 193
+  offset: 21, 25
+  index: -1
+png1
+  rotate: false
+  xy: 914, 10
+  size: 80, 58
+  orig: 82, 58
+  offset: 1, 0
+  index: -1
+png2
+  rotate: true
+  xy: 522, 50
+  size: 79, 40
+  orig: 84, 42
+  offset: 2, 0
+  index: -1
+png3
+  rotate: true
+  xy: 925, 70
+  size: 212, 62
+  orig: 221, 72
+  offset: 4, 5
+  index: -1
+xs_guang_2
+  rotate: false
+  xy: 797, 156
+  size: 126, 126
+  orig: 140, 140
+  offset: 7, 7
+  index: -1
+xs_sz2
+  rotate: false
+  xy: 578, 19
+  size: 217, 263
+  orig: 217, 263
+  offset: 0, 0
+  index: -1
+xs_sz22
+  rotate: false
+  xy: 797, 16
+  size: 115, 138
+  orig: 118, 141
+  offset: 1, 1
+  index: -1

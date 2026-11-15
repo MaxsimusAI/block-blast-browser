@@ -1,0 +1,41 @@
+
+Fruit_04.png
+size: 963,428
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fruit_04_body_01
+  rotate: true
+  xy: 450, 2
+  size: 424, 446
+  orig: 426, 448
+  offset: 1, 1
+  index: -1
+Fruit_04_body_02
+  rotate: true
+  xy: 2, 2
+  size: 424, 446
+  orig: 426, 448
+  offset: 1, 1
+  index: -1
+Fruit_04_body_03
+  rotate: true
+  xy: 898, 165
+  size: 261, 63
+  orig: 426, 448
+  offset: 79, 172
+  index: -1
+Fruit_04_eye_01
+  rotate: false
+  xy: 898, 110
+  size: 53, 53
+  orig: 55, 55
+  offset: 1, 1
+  index: -1
+Fruit_04_mouth_01
+  rotate: true
+  xy: 898, 46
+  size: 62, 37
+  orig: 64, 39
+  offset: 1, 1
+  index: -1

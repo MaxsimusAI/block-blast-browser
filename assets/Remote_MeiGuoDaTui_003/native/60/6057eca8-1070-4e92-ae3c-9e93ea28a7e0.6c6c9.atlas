@@ -1,0 +1,13 @@
+
+gameplay_light_4.png
+size: 1024,256
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+qp_4
+  rotate: false
+  xy: 4, 4
+  size: 862, 121
+  orig: 866, 125
+  offset: 2, 2
+  index: -1

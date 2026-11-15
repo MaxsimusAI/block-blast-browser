@@ -1,0 +1,14 @@
+{
+  "name": "G3_FBloodLoveIcon",
+  "version": 1,
+  "createTime": "2026-02-25 19:58:19",
+  "buildTime": "2026-03-04T20:40:19.000+08:00",
+  "dependencies": [
+    {
+      "atomFeatureName": "G3_FBase"
+    },
+    {
+      "atomFeatureName": "G3_FHome"
+    }
+  ]
+}

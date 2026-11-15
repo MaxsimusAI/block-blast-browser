@@ -1,0 +1,41 @@
+
+result_firework_par_2.png
+size: 57,58
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lihualizi_01
+  rotate: false
+  xy: 2, 23
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+lihualizi_02
+  rotate: false
+  xy: 35, 23
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+lihualizi_03
+  rotate: false
+  xy: 23, 2
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+lihualizi_04
+  rotate: false
+  xy: 2, 3
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+lihualizi_05
+  rotate: true
+  xy: 41, 3
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1

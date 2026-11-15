@@ -1,0 +1,27 @@
+
+result_level_score_5006_1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aixn
+  rotate: false
+  xy: 2, 2
+  size: 468, 262
+  orig: 472, 265
+  offset: 2, 3
+  index: -1
+glowLight
+  rotate: true
+  xy: 2, 394
+  size: 25, 26
+  orig: 32, 32
+  offset: 4, 3
+  index: -1
+heart_glow_2
+  rotate: false
+  xy: 30, 266
+  size: 259, 153
+  orig: 261, 157
+  offset: 1, 2
+  index: -1

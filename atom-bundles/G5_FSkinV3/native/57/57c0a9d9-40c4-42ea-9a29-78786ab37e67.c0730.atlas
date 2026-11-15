@@ -1,0 +1,118 @@
+
+revive_num.png
+size: 998,522
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+cheng0
+  rotate: false
+  xy: 721, 113
+  size: 37, 37
+  orig: 39, 39
+  offset: 0, 1
+  index: -1
+cyan0
+  rotate: false
+  xy: 336, 93
+  size: 37, 37
+  orig: 39, 39
+  offset: 1, 1
+  index: -1
+hong0
+  rotate: false
+  xy: 336, 52
+  size: 37, 37
+  orig: 39, 39
+  offset: 0, 1
+  index: -1
+huang0
+  rotate: false
+  xy: 336, 11
+  size: 37, 37
+  orig: 39, 39
+  offset: 1, 1
+  index: -1
+lan0
+  rotate: false
+  xy: 721, 72
+  size: 37, 37
+  orig: 39, 39
+  offset: 1, 1
+  index: -1
+lv0
+  rotate: false
+  xy: 721, 31
+  size: 37, 37
+  orig: 39, 39
+  offset: 1, 1
+  index: -1
+number/green/0
+  rotate: true
+  xy: 392, 16
+  size: 134, 163
+  orig: 156, 186
+  offset: 11, 12
+  index: -1
+number/green/1
+  rotate: true
+  xy: 762, 54
+  size: 63, 158
+  orig: 156, 186
+  offset: 50, 14
+  index: -1
+number/green/2
+  rotate: false
+  xy: 762, 121
+  size: 137, 161
+  orig: 156, 186
+  offset: 11, 14
+  index: -1
+number/green/3
+  rotate: true
+  xy: 169, 7
+  size: 123, 163
+  orig: 156, 186
+  offset: 17, 10
+  index: -1
+number/green/4
+  rotate: true
+  xy: 559, 19
+  size: 131, 158
+  orig: 156, 186
+  offset: 13, 14
+  index: -1
+number/green/5
+  rotate: true
+  xy: 4, 4
+  size: 126, 161
+  orig: 156, 186
+  offset: 14, 12
+  index: -1
+quan/lv5
+  rotate: false
+  xy: 392, 154
+  size: 366, 364
+  orig: 366, 364
+  offset: 0, 0
+  index: -1
+revive_quan_bg
+  rotate: false
+  xy: 4, 134
+  size: 384, 384
+  orig: 386, 386
+  offset: 1, 1
+  index: -1
+zi0
+  rotate: false
+  xy: 903, 245
+  size: 37, 37
+  orig: 39, 39
+  offset: 1, 1
+  index: -1
+椭圆 3
+  rotate: false
+  xy: 762, 286
+  size: 232, 232
+  orig: 282, 282
+  offset: 25, 25
+  index: -1

@@ -1,0 +1,62 @@
+
+revive_countdown_4060.png
+size: 737,272
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+0
+  rotate: true
+  xy: 414, 136
+  size: 132, 160
+  orig: 135, 160
+  offset: 2, 0
+  index: -1
+1
+  rotate: true
+  xy: 578, 47
+  size: 62, 155
+  orig: 62, 155
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 252, 133
+  size: 135, 158
+  orig: 135, 160
+  offset: 0, 1
+  index: -1
+3
+  rotate: true
+  xy: 414, 10
+  size: 122, 160
+  orig: 135, 160
+  offset: 7, 0
+  index: -1
+4
+  rotate: false
+  xy: 578, 113
+  size: 130, 155
+  orig: 135, 160
+  offset: 3, 2
+  index: -1
+5
+  rotate: true
+  xy: 252, 4
+  size: 125, 158
+  orig: 135, 160
+  offset: 5, 1
+  index: -1
+dot2
+  rotate: false
+  xy: 578, 6
+  size: 37, 37
+  orig: 39, 39
+  offset: 1, 1
+  index: -1
+dot3
+  rotate: false
+  xy: 4, 24
+  size: 244, 244
+  orig: 282, 282
+  offset: 19, 19
+  index: -1

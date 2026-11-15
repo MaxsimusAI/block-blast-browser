@@ -1,0 +1,174 @@
+
+gameplay_eliminate_4048.png
+size: 647,240
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue_1
+  rotate: false
+  xy: 552, 36
+  size: 27, 32
+  orig: 50, 50
+  offset: 11, 9
+  index: -1
+blue_2
+  rotate: true
+  xy: 592, 181
+  size: 26, 23
+  orig: 50, 50
+  offset: 11, 14
+  index: -1
+blue_4
+  rotate: false
+  xy: 490, 70
+  size: 29, 30
+  orig: 50, 50
+  offset: 10, 10
+  index: -1
+cyan_1
+  rotate: false
+  xy: 552, 2
+  size: 27, 32
+  orig: 50, 50
+  offset: 11, 9
+  index: -1
+cyan_2
+  rotate: true
+  xy: 592, 153
+  size: 26, 23
+  orig: 50, 50
+  offset: 11, 14
+  index: -1
+cyan_4
+  rotate: false
+  xy: 490, 38
+  size: 29, 30
+  orig: 50, 50
+  offset: 10, 10
+  index: -1
+efx_1_2
+  rotate: false
+  xy: 2, 6
+  size: 486, 232
+  orig: 502, 262
+  offset: 8, 15
+  index: -1
+green_1
+  rotate: false
+  xy: 581, 36
+  size: 27, 32
+  orig: 50, 50
+  offset: 11, 9
+  index: -1
+green_2
+  rotate: true
+  xy: 592, 125
+  size: 26, 23
+  orig: 50, 50
+  offset: 11, 14
+  index: -1
+green_4
+  rotate: false
+  xy: 490, 6
+  size: 29, 30
+  orig: 50, 50
+  offset: 10, 10
+  index: -1
+guangDian
+  rotate: false
+  xy: 592, 209
+  size: 28, 29
+  orig: 44, 46
+  offset: 8, 10
+  index: -1
+guangWu
+  rotate: true
+  xy: 490, 102
+  size: 136, 100
+  orig: 160, 108
+  offset: 10, 3
+  index: -1
+orange_1
+  rotate: true
+  xy: 583, 73
+  size: 27, 32
+  orig: 50, 50
+  offset: 11, 9
+  index: -1
+orange_2
+  rotate: true
+  xy: 617, 181
+  size: 26, 23
+  orig: 50, 50
+  offset: 11, 14
+  index: -1
+orange_4
+  rotate: false
+  xy: 521, 70
+  size: 29, 30
+  orig: 50, 50
+  offset: 10, 10
+  index: -1
+purple_1
+  rotate: false
+  xy: 581, 2
+  size: 27, 32
+  orig: 50, 50
+  offset: 11, 9
+  index: -1
+purple_2
+  rotate: true
+  xy: 622, 212
+  size: 26, 23
+  orig: 50, 50
+  offset: 11, 14
+  index: -1
+purple_4
+  rotate: false
+  xy: 521, 38
+  size: 29, 30
+  orig: 50, 50
+  offset: 10, 10
+  index: -1
+red_1
+  rotate: false
+  xy: 610, 39
+  size: 27, 32
+  orig: 50, 50
+  offset: 11, 9
+  index: -1
+red_2
+  rotate: true
+  xy: 617, 153
+  size: 26, 23
+  orig: 50, 50
+  offset: 11, 14
+  index: -1
+red_4
+  rotate: false
+  xy: 521, 6
+  size: 29, 30
+  orig: 50, 50
+  offset: 10, 10
+  index: -1
+yellow_1
+  rotate: false
+  xy: 610, 5
+  size: 27, 32
+  orig: 50, 50
+  offset: 11, 9
+  index: -1
+yellow_2
+  rotate: true
+  xy: 617, 125
+  size: 26, 23
+  orig: 50, 50
+  offset: 11, 14
+  index: -1
+yellow_4
+  rotate: false
+  xy: 552, 70
+  size: 29, 30
+  orig: 50, 50
+  offset: 10, 10
+  index: -1

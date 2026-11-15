@@ -1,0 +1,13 @@
+
+gameplay_warn.png
+size: 169,169
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cell_bg_red
+  rotate: false
+  xy: 2, 2
+  size: 165, 165
+  orig: 165, 165
+  offset: 0, 0
+  index: -1

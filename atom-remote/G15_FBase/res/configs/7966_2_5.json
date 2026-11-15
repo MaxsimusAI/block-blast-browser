@@ -1,0 +1,325 @@
+{
+    "singles": [
+        {
+            "id": "161",
+            "name": "hsai_raw_image_1776307206_702eb6a237_r3c2__block_dominant_24x24_28c_auto_bg-auto40",
+            "url": "remote://res/configs/out/hsai_raw_image_1776307206_702eb6a237_r3c2__block_dominant_24x24_28c_auto_bg-auto40.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 1
+        },
+        {
+            "id": "162",
+            "name": "r2026_56_v01",
+            "url": "remote://res/configs/out/r2026_56_v01.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "163",
+            "name": "fashion_08_v01",
+            "url": "remote://res/configs/out/fashion_08_v01.ast2.json",
+            "isLock": true,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "164",
+            "name": "run_10_v02",
+            "url": "remote://res/configs/out/run_10_v02.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "165",
+            "name": "choker_02_v01",
+            "url": "remote://res/configs/out/choker_02_v01.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 1
+        },
+        {
+            "id": "166",
+            "name": "t25v2_09_v03__block_dominant_30x30_30c_auto_bg-auto20_qfirst",
+            "url": "remote://res/configs/out/t25v2_09_v03__block_dominant_30x30_30c_auto_bg-auto20_qfirst.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "167",
+            "name": "t25v2_05_v01__block_dominant_25x25_28c_auto_bg-auto20_qfirst",
+            "url": "remote://res/configs/out/t25v2_05_v01__block_dominant_25x25_28c_auto_bg-auto20_qfirst.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "168",
+            "name": "r2026_21_v03",
+            "url": "remote://res/configs/out/r2026_21_v03.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "169",
+            "name": "run_09_v01",
+            "url": "remote://res/configs/out/run_09_v01.ast2.json",
+            "isLock": true,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "170",
+            "name": "fashion_02_v03",
+            "url": "remote://res/configs/out/fashion_02_v03.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "171",
+            "name": "jiaju_03_v02",
+            "url": "remote://res/configs/out/jiaju_03_v02.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "172",
+            "name": "fish_01_v02",
+            "url": "remote://res/configs/out/fish_01_v02.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 1
+        },
+        {
+            "id": "173",
+            "name": "hsai_raw_image_1776320466_ab0c996894_r3c1__block_dominant_30x30_30c_auto_bg-auto40",
+            "url": "remote://res/configs/out/hsai_raw_image_1776320466_ab0c996894_r3c1__block_dominant_30x30_30c_auto_bg-auto40.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 1
+        },
+        {
+            "id": "174",
+            "name": "r2026_30_v02",
+            "url": "remote://res/configs/out/r2026_30_v02.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 1
+        },
+        {
+            "id": "175",
+            "name": "run_04_v03",
+            "url": "remote://res/configs/out/run_04_v03.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "176",
+            "name": "fashion_01_v01",
+            "url": "remote://res/configs/out/fashion_01_v01.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "177",
+            "name": "jiaju_04_v01",
+            "url": "remote://res/configs/out/jiaju_04_v01.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "178",
+            "name": "t25_42_v01__nearest_40x40_33c_auto_bg-auto20_qfirst",
+            "url": "remote://res/configs/out/t25_42_v01__nearest_40x40_33c_auto_bg-auto20_qfirst.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 1
+        },
+        {
+            "id": "179",
+            "name": "hsai_raw_image_generate_1773888576_be5600a0a5_r1c0",
+            "url": "remote://res/configs/out/hsai_raw_image_generate_1773888576_be5600a0a5_r1c0.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "180",
+            "name": "run_042_v02",
+            "url": "remote://res/configs/out/run_042_v02.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "181",
+            "name": "r2026_27_v01",
+            "url": "remote://res/configs/out/r2026_27_v01.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "182",
+            "name": "jiaju_02_v02",
+            "url": "remote://res/configs/out/jiaju_02_v02.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 1
+        },
+        {
+            "id": "183",
+            "name": "run_05_v02",
+            "url": "remote://res/configs/out/run_05_v02.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "184",
+            "name": "hsai_raw_image_1776307206_702eb6a237_r2c3__block_dominant_22x22_27c_auto_bg-auto40",
+            "url": "remote://res/configs/out/hsai_raw_image_1776307206_702eb6a237_r2c3__block_dominant_22x22_27c_auto_bg-auto40.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "185",
+            "name": "hsai_raw_image_1776324039_d95a1642d4_r2c2__nearest_32x32_40c_auto_bg-auto40",
+            "url": "remote://res/configs/out/hsai_raw_image_1776324039_d95a1642d4_r2c2__nearest_32x32_40c_auto_bg-auto40.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 1
+        },
+        {
+            "id": "186",
+            "name": "r2026_37_v02",
+            "url": "remote://res/configs/out/r2026_37_v02.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 1
+        },
+        {
+            "id": "187",
+            "name": "r2026_03_v01",
+            "url": "remote://res/configs/out/r2026_03_v01.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "188",
+            "name": "hsai_raw_image_generate_1774419637_c4180cea21_r1c0",
+            "url": "remote://res/configs/out/hsai_raw_image_generate_1774419637_c4180cea21_r1c0.ast2.json",
+            "isLock": true,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "189",
+            "name": "run_01_v03",
+            "url": "remote://res/configs/out/run_01_v03.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "190",
+            "name": "t25_30_v01__center_dominant_50x50_37c_auto_bg-auto20_qfirst",
+            "url": "remote://res/configs/out/t25_30_v01__center_dominant_50x50_37c_auto_bg-auto20_qfirst.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "191",
+            "name": "t25v2_07_v03__nearest_40x40_33c_auto_bg-auto20_qfirst",
+            "url": "remote://res/configs/out/t25v2_07_v03__nearest_40x40_33c_auto_bg-auto20_qfirst.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "192",
+            "name": "hsai_raw_image_generate_1773888576_2de038ce90_r1c1",
+            "url": "remote://res/configs/out/hsai_raw_image_generate_1773888576_2de038ce90_r1c1.ast2.json",
+            "isLock": true,
+            "updateTime": "2026-06-25",
+            "starType": 1
+        },
+        {
+            "id": "193",
+            "name": "fashion_03_v03",
+            "url": "remote://res/configs/out/fashion_03_v03.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "194",
+            "name": "hsai_raw_image_generate_1773888905_488c7e6d30_r0c0",
+            "url": "remote://res/configs/out/hsai_raw_image_generate_1773888905_488c7e6d30_r0c0.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 1
+        },
+        {
+            "id": "195",
+            "name": "choker_07_v01",
+            "url": "remote://res/configs/out/choker_07_v01.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 1
+        },
+        {
+            "id": "196",
+            "name": "t25_29_v01__center_dominant_36x36_32c_auto_bg-auto20_qfirst",
+            "url": "remote://res/configs/out/t25_29_v01__center_dominant_36x36_32c_auto_bg-auto20_qfirst.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "197",
+            "name": "fish_04_v01",
+            "url": "remote://res/configs/out/fish_04_v01.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "198",
+            "name": "r2026_39_v03",
+            "url": "remote://res/configs/out/r2026_39_v03.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "199",
+            "name": "hsai_raw_image_generate_1773888920_49f49f433b_r1c0__block_dominant_90x90_50c_auto_bg-white30_qfirst",
+            "url": "remote://res/configs/out/hsai_raw_image_generate_1773888920_49f49f433b_r1c0__block_dominant_90x90_50c_auto_bg-white30_qfirst.ast2.json",
+            "isLock": true,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "200",
+            "name": "fashion_05_v01",
+            "url": "remote://res/configs/out/fashion_05_v01.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 1
+        }
+    ],
+    "starType": 0
+}

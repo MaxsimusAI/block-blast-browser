@@ -1,0 +1,118 @@
+
+gameplay_clear.png
+size: 981,564
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fangkuai/Orange
+  rotate: false
+  xy: 2, 2
+  size: 139, 139
+  orig: 143, 143
+  offset: 2, 2
+  index: -1
+fangkuai/Orange_tuowei
+  rotate: false
+  xy: 2, 143
+  size: 103, 419
+  orig: 105, 439
+  offset: 1, 1
+  index: -1
+fangkuai/Purple
+  rotate: false
+  xy: 143, 2
+  size: 139, 139
+  orig: 143, 143
+  offset: 2, 2
+  index: -1
+fangkuai/Purple_tuowei
+  rotate: false
+  xy: 107, 143
+  size: 103, 419
+  orig: 105, 439
+  offset: 1, 1
+  index: -1
+fangkuai/Red
+  rotate: false
+  xy: 284, 2
+  size: 139, 139
+  orig: 143, 143
+  offset: 2, 2
+  index: -1
+fangkuai/Red_tuowei
+  rotate: false
+  xy: 212, 143
+  size: 103, 419
+  orig: 105, 439
+  offset: 1, 1
+  index: -1
+fangkuai/blue
+  rotate: false
+  xy: 425, 2
+  size: 139, 139
+  orig: 143, 143
+  offset: 2, 2
+  index: -1
+fangkuai/blue_tuowei
+  rotate: false
+  xy: 317, 143
+  size: 103, 419
+  orig: 105, 439
+  offset: 1, 1
+  index: -1
+fangkuai/cyan
+  rotate: false
+  xy: 566, 2
+  size: 139, 139
+  orig: 143, 143
+  offset: 2, 2
+  index: -1
+fangkuai/cyan_tuowei
+  rotate: false
+  xy: 422, 143
+  size: 103, 419
+  orig: 105, 439
+  offset: 1, 1
+  index: -1
+fangkuai/green
+  rotate: false
+  xy: 707, 2
+  size: 139, 139
+  orig: 143, 143
+  offset: 2, 2
+  index: -1
+fangkuai/green_tuowei
+  rotate: false
+  xy: 632, 143
+  size: 102, 419
+  orig: 336, 439
+  offset: 117, 1
+  index: -1
+fangkuai/pink
+  rotate: false
+  xy: 840, 423
+  size: 139, 139
+  orig: 143, 143
+  offset: 2, 2
+  index: -1
+fangkuai/pink_tuowei
+  rotate: false
+  xy: 527, 143
+  size: 103, 419
+  orig: 105, 439
+  offset: 1, 1
+  index: -1
+fangkuai/yellow
+  rotate: false
+  xy: 840, 282
+  size: 139, 139
+  orig: 143, 143
+  offset: 2, 2
+  index: -1
+fangkuai/yellow_tuowei
+  rotate: false
+  xy: 736, 143
+  size: 102, 419
+  orig: 336, 439
+  offset: 117, 1
+  index: -1

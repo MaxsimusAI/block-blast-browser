@@ -1,0 +1,174 @@
+
+result_victory.png
+size: 1008,613
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+hengfu
+  rotate: false
+  xy: 4, 4
+  size: 766, 194
+  orig: 768, 196
+  offset: 1, 1
+  index: -1
+huangguan
+  rotate: true
+  xy: 4, 202
+  size: 407, 396
+  orig: 409, 398
+  offset: 1, 1
+  index: -1
+huangguan_sg/huangguan__00001
+  rotate: false
+  xy: 999, 541
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+huangguan_sg/huangguan__00003
+  rotate: false
+  xy: 999, 541
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+huangguan_sg/huangguan__00035
+  rotate: false
+  xy: 999, 541
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+huangguan_sg/huangguan__00037
+  rotate: false
+  xy: 999, 541
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+huangguan_sg/huangguan__00005
+  rotate: true
+  xy: 870, 218
+  size: 7, 33
+  orig: 205, 199
+  offset: 0, 142
+  index: -1
+huangguan_sg/huangguan__00007
+  rotate: false
+  xy: 977, 546
+  size: 27, 63
+  orig: 205, 199
+  offset: 0, 113
+  index: -1
+huangguan_sg/huangguan__00009
+  rotate: true
+  xy: 870, 229
+  size: 47, 102
+  orig: 205, 199
+  offset: 0, 97
+  index: -1
+huangguan_sg/huangguan__00011
+  rotate: false
+  xy: 404, 411
+  size: 67, 198
+  orig: 205, 199
+  offset: 0, 1
+  index: -1
+huangguan_sg/huangguan__00013
+  rotate: false
+  xy: 774, 5
+  size: 86, 199
+  orig: 205, 199
+  offset: 0, 0
+  index: -1
+huangguan_sg/huangguan__00015
+  rotate: false
+  xy: 596, 208
+  size: 90, 199
+  orig: 205, 199
+  offset: 15, 0
+  index: -1
+huangguan_sg/huangguan__00017
+  rotate: false
+  xy: 404, 208
+  size: 93, 199
+  orig: 205, 199
+  offset: 31, 0
+  index: -1
+huangguan_sg/huangguan__00019
+  rotate: false
+  xy: 690, 208
+  size: 90, 199
+  orig: 205, 199
+  offset: 53, 0
+  index: -1
+huangguan_sg/huangguan__00021
+  rotate: true
+  xy: 774, 511
+  size: 98, 199
+  orig: 205, 199
+  offset: 65, 0
+  index: -1
+huangguan_sg/huangguan__00023
+  rotate: true
+  xy: 774, 411
+  size: 96, 199
+  orig: 205, 199
+  offset: 85, 0
+  index: -1
+huangguan_sg/huangguan__00025
+  rotate: false
+  xy: 501, 208
+  size: 91, 199
+  orig: 205, 199
+  offset: 109, 0
+  index: -1
+huangguan_sg/huangguan__00027
+  rotate: false
+  xy: 784, 208
+  size: 82, 199
+  orig: 205, 199
+  offset: 123, 0
+  index: -1
+huangguan_sg/huangguan__00029
+  rotate: false
+  xy: 864, 5
+  size: 64, 199
+  orig: 205, 199
+  offset: 141, 0
+  index: -1
+huangguan_sg/huangguan__00031
+  rotate: false
+  xy: 932, 127
+  size: 39, 98
+  orig: 205, 199
+  offset: 166, 98
+  index: -1
+huangguan_sg/huangguan__00033
+  rotate: false
+  xy: 977, 482
+  size: 18, 60
+  orig: 205, 199
+  offset: 187, 116
+  index: -1
+light_add_c
+  rotate: true
+  xy: 870, 280
+  size: 127, 134
+  orig: 178, 178
+  offset: 25, 21
+  index: -1
+light_circle_d
+  rotate: false
+  xy: 475, 446
+  size: 162, 163
+  orig: 171, 171
+  offset: 5, 4
+  index: -1
+light_par_star_a
+  rotate: false
+  xy: 641, 503
+  size: 108, 106
+  orig: 175, 175
+  offset: 33, 35
+  index: -1

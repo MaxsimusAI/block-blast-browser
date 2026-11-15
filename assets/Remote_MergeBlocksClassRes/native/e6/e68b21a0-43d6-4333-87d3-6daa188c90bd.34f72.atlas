@@ -1,0 +1,13 @@
+
+gameplay_merge_efx.png
+size: 34,16
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light1
+  rotate: false
+  xy: 2, 2
+  size: 30, 12
+  orig: 30, 12
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+fruit_gameplay_qiehuan_efc.png
+size: 776,469
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow01_00000
+  rotate: false
+  xy: 2, 232
+  size: 235, 235
+  orig: 380, 380
+  offset: 72, 73
+  index: -1
+glow02/glow02_00006
+  rotate: false
+  xy: 2, 2
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+glow02/glow02_00007
+  rotate: false
+  xy: 2, 2
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+glow02/glow02_00008
+  rotate: false
+  xy: 239, 239
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+glow02/glow02_00009
+  rotate: false
+  xy: 239, 239
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+glow02/glow02_00010
+  rotate: false
+  xy: 239, 239
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+glow02/glow02_00011
+  rotate: false
+  xy: 469, 244
+  size: 219, 223
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+glow02/glow02_00012
+  rotate: false
+  xy: 469, 244
+  size: 219, 223
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+glow02/glow02_00013
+  rotate: true
+  xy: 232, 2
+  size: 228, 207
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+glow02/glow02_00014
+  rotate: true
+  xy: 232, 2
+  size: 228, 207
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+glow02/glow02_00015
+  rotate: true
+  xy: 441, 17
+  size: 220, 202
+  orig: 228, 228
+  offset: 8, 2
+  index: -1
+glow02/glow02_00016
+  rotate: true
+  xy: 441, 17
+  size: 220, 202
+  orig: 228, 228
+  offset: 8, 2
+  index: -1
+jiantou1
+  rotate: true
+  xy: 690, 366
+  size: 101, 70
+  orig: 102, 70
+  offset: 1, 0
+  index: -1
+jiantou2
+  rotate: false
+  xy: 645, 37
+  size: 101, 69
+  orig: 101, 69
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 645, 108
+  size: 129, 134
+  orig: 136, 134
+  offset: 7, 0
+  index: -1

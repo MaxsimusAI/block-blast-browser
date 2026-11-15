@@ -1,0 +1,97 @@
+
+gameplay_newHighScore.png
+size: 818,770
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang
+  rotate: true
+  xy: 537, 253
+  size: 151, 170
+  orig: 151, 170
+  offset: 0, 0
+  index: -1
+chibang_light
+  rotate: true
+  xy: 530, 118
+  size: 133, 150
+  orig: 133, 150
+  offset: 0, 0
+  index: -1
+heart1
+  rotate: false
+  xy: 721, 16
+  size: 82, 72
+  orig: 82, 72
+  offset: 0, 0
+  index: -1
+heart_bg_mohu
+  rotate: false
+  xy: 543, 580
+  size: 212, 188
+  orig: 224, 200
+  offset: 6, 6
+  index: -1
+light_add_b
+  rotate: false
+  xy: 497, 2
+  size: 114, 114
+  orig: 130, 130
+  offset: 8, 8
+  index: -1
+light_par_star_a
+  rotate: true
+  xy: 613, 8
+  size: 108, 106
+  orig: 175, 175
+  offset: 33, 35
+  index: -1
+run_light
+  rotate: false
+  xy: 381, 464
+  size: 160, 304
+  orig: 162, 304
+  offset: 0, 0
+  index: -1
+word1
+  rotate: false
+  xy: 2, 135
+  size: 526, 118
+  orig: 532, 125
+  offset: 3, 3
+  index: -1
+word1_2
+  rotate: true
+  xy: 734, 90
+  size: 488, 82
+  orig: 532, 125
+  offset: 22, 33
+  index: -1
+word2
+  rotate: false
+  xy: 2, 255
+  size: 533, 168
+  orig: 540, 174
+  offset: 4, 3
+  index: -1
+word2_2
+  rotate: false
+  xy: 2, 8
+  size: 493, 125
+  orig: 540, 174
+  offset: 24, 35
+  index: -1
+xin
+  rotate: false
+  xy: 2, 425
+  size: 377, 343
+  orig: 377, 343
+  offset: 0, 0
+  index: -1
+xin_light
+  rotate: false
+  xy: 543, 406
+  size: 189, 172
+  orig: 189, 172
+  offset: 0, 0
+  index: -1

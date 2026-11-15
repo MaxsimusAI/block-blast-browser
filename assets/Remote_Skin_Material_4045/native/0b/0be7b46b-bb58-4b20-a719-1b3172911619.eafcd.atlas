@@ -1,0 +1,146 @@
+
+gameplay_clear_unbelievable_045.png
+size: 873,334
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
++300
+  rotate: false
+  xy: 432, 240
+  size: 261, 90
+  orig: 263, 92
+  offset: 1, 1
+  index: -1
+A1
+  rotate: false
+  xy: 749, 115
+  size: 83, 83
+  orig: 86, 86
+  offset: 1, 1
+  index: -1
+B1
+  rotate: true
+  xy: 200, 17
+  size: 83, 112
+  orig: 86, 116
+  offset: 2, 2
+  index: -1
+B2
+  rotate: true
+  xy: 316, 17
+  size: 83, 112
+  orig: 86, 116
+  offset: 2, 2
+  index: -1
+E1
+  rotate: true
+  xy: 660, 115
+  size: 83, 85
+  orig: 86, 89
+  offset: 2, 2
+  index: -1
+E2
+  rotate: false
+  xy: 530, 27
+  size: 83, 85
+  orig: 86, 89
+  offset: 2, 2
+  index: -1
+E3
+  rotate: true
+  xy: 617, 28
+  size: 83, 85
+  orig: 86, 89
+  offset: 2, 2
+  index: -1
+I1
+  rotate: true
+  xy: 4, 4
+  size: 41, 106
+  orig: 44, 110
+  offset: 2, 2
+  index: -1
+L1
+  rotate: false
+  xy: 829, 219
+  size: 40, 111
+  orig: 43, 115
+  offset: 2, 2
+  index: -1
+L2
+  rotate: false
+  xy: 829, 219
+  size: 40, 111
+  orig: 43, 115
+  offset: 2, 2
+  index: -1
+N1
+  rotate: false
+  xy: 790, 27
+  size: 78, 84
+  orig: 80, 87
+  offset: 1, 2
+  index: -1
+U1
+  rotate: false
+  xy: 556, 130
+  size: 100, 106
+  orig: 104, 109
+  offset: 2, 2
+  index: -1
+V1
+  rotate: false
+  xy: 706, 28
+  size: 80, 83
+  orig: 84, 86
+  offset: 2, 1
+  index: -1
+block_01
+  rotate: false
+  xy: 114, 13
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+guangyun2
+  rotate: false
+  xy: 432, 20
+  size: 94, 92
+  orig: 100, 99
+  offset: 2, 4
+  index: -1
+ia_1000000094
+  rotate: false
+  xy: 4, 195
+  size: 424, 135
+  orig: 512, 139
+  offset: 16, 4
+  index: -1
+ia_100000016
+  rotate: false
+  xy: 4, 49
+  size: 192, 51
+  orig: 192, 51
+  offset: 0, 0
+  index: -1
+ia_1400000083
+  rotate: false
+  xy: 697, 202
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ia_3200000058
+  rotate: false
+  xy: 432, 116
+  size: 120, 120
+  orig: 128, 128
+  offset: 4, 4
+  index: -1
+unbelievable
+  rotate: false
+  xy: 4, 104
+  size: 403, 87
+  orig: 407, 90
+  offset: 2, 1
+  index: -1

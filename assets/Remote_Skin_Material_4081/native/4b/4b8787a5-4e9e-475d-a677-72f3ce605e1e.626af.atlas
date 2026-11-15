@@ -1,0 +1,76 @@
+
+gameplay_ready_eliminate_summer_xin.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue
+  rotate: false
+  xy: 218, 25
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+cyan
+  rotate: false
+  xy: 239, 133
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+green
+  rotate: false
+  xy: 326, 25
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+kuai_g
+  rotate: true
+  xy: 2, 111
+  size: 128, 127
+  orig: 140, 140
+  offset: 6, 7
+  index: -1
+kuai_g2
+  rotate: false
+  xy: 2, 2
+  size: 106, 107
+  orig: 120, 120
+  offset: 7, 7
+  index: -1
+kuang
+  rotate: false
+  xy: 110, 2
+  size: 106, 107
+  orig: 110, 110
+  offset: 2, 2
+  index: -1
+orange
+  rotate: false
+  xy: 347, 133
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+purple
+  rotate: false
+  xy: 434, 25
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+red
+  rotate: false
+  xy: 455, 133
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+yellow
+  rotate: false
+  xy: 131, 133
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1

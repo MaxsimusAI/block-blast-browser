@@ -1,0 +1,41 @@
+
+gameplay_she_out.png
+size: 222,254
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+andi
+  rotate: false
+  xy: 2, 2
+  size: 116, 116
+  orig: 128, 128
+  offset: 6, 6
+  index: -1
+andi_dh
+  rotate: false
+  xy: 2, 120
+  size: 132, 132
+  orig: 134, 134
+  offset: 1, 1
+  index: -1
+glow_ring_gf
+  rotate: false
+  xy: 120, 18
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+shuibowen
+  rotate: false
+  xy: 136, 178
+  size: 74, 74
+  orig: 100, 100
+  offset: 13, 13
+  index: -1
+shuiqiu01
+  rotate: false
+  xy: 136, 120
+  size: 57, 56
+  orig: 64, 64
+  offset: 3, 4
+  index: -1

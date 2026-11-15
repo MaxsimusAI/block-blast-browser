@@ -1,0 +1,83 @@
+
+gameplay_eliminate_4007.png
+size: 928,607
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+44
+  rotate: false
+  xy: 2, 499
+  size: 848, 106
+  orig: 848, 106
+  offset: 0, 0
+  index: -1
+DPJL_5B
+  rotate: false
+  xy: 747, 50
+  size: 87, 87
+  orig: 93, 93
+  offset: 3, 3
+  index: -1
+GlowBurst
+  rotate: false
+  xy: 747, 139
+  size: 106, 106
+  orig: 128, 128
+  offset: 10, 11
+  index: -1
+dian1
+  rotate: false
+  xy: 852, 532
+  size: 74, 73
+  orig: 95, 95
+  offset: 10, 11
+  index: -1
+lizi1
+  rotate: false
+  xy: 504, 3
+  size: 241, 242
+  orig: 241, 242
+  offset: 0, 0
+  index: -1
+lizi2
+  rotate: true
+  xy: 2, 237
+  size: 260, 244
+  orig: 260, 244
+  offset: 0, 0
+  index: -1
+lizi3
+  rotate: false
+  xy: 264, 5
+  size: 238, 232
+  orig: 238, 232
+  offset: 0, 0
+  index: -1
+lizi4
+  rotate: false
+  xy: 500, 247
+  size: 212, 250
+  orig: 212, 250
+  offset: 0, 0
+  index: -1
+lizi5
+  rotate: false
+  xy: 248, 239
+  size: 250, 258
+  orig: 250, 258
+  offset: 0, 0
+  index: -1
+lizi6
+  rotate: true
+  xy: 2, 2
+  size: 233, 260
+  orig: 233, 260
+  offset: 0, 0
+  index: -1
+lizi7
+  rotate: false
+  xy: 714, 247
+  size: 212, 250
+  orig: 212, 250
+  offset: 0, 0
+  index: -1

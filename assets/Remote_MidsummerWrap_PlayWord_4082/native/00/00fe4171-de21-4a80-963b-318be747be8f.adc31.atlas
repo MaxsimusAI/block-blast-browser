@@ -1,0 +1,286 @@
+
+gameplay_clear_fullbloom_summer_xin.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 830, 579
+  size: 84, 82
+  orig: 84, 82
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 287, 183
+  size: 82, 79
+  orig: 82, 79
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 287, 267
+  size: 79, 88
+  orig: 79, 88
+  offset: 0, 0
+  index: -1
+300
+  rotate: true
+  xy: 2, 206
+  size: 233, 81
+  orig: 235, 83
+  offset: 1, 1
+  index: -1
+4
+  rotate: false
+  xy: 368, 277
+  size: 76, 78
+  orig: 76, 78
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 287, 357
+  size: 81, 82
+  orig: 81, 82
+  offset: 0, 0
+  index: -1
+COMBO_kfg
+  rotate: false
+  xy: 2, 441
+  size: 444, 445
+  orig: 446, 447
+  offset: 1, 1
+  index: -1
+caihong
+  rotate: true
+  xy: 780, 227
+  size: 344, 119
+  orig: 344, 119
+  offset: 0, 0
+  index: -1
+effects_rainbow
+  rotate: false
+  xy: 664, 597
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+flower_f
+  rotate: false
+  xy: 448, 581
+  size: 112, 89
+  orig: 115, 91
+  offset: 2, 1
+  index: -1
+full
+  rotate: false
+  xy: 2, 888
+  size: 723, 95
+  orig: 730, 100
+  offset: 3, 3
+  index: -1
+glow
+  rotate: true
+  xy: 949, 573
+  size: 410, 53
+  orig: 418, 55
+  offset: 4, 1
+  index: -1
+glow_ring_01
+  rotate: false
+  xy: 85, 239
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guangYun
+  rotate: false
+  xy: 727, 763
+  size: 220, 220
+  orig: 249, 249
+  offset: 15, 14
+  index: -1
+hua_1
+  rotate: true
+  xy: 2, 79
+  size: 45, 46
+  orig: 46, 46
+  offset: 1, 0
+  index: -1
+hua_2
+  rotate: false
+  xy: 664, 826
+  size: 60, 60
+  orig: 60, 61
+  offset: 0, 1
+  index: -1
+hua_3
+  rotate: true
+  xy: 75, 3
+  size: 68, 67
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 448, 241
+  size: 330, 330
+  orig: 338, 338
+  offset: 4, 4
+  index: -1
+kuang_guang
+  rotate: false
+  xy: 448, 672
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+mb_29
+  rotate: false
+  xy: 830, 663
+  size: 98, 98
+  orig: 100, 100
+  offset: 1, 1
+  index: -1
+x_01
+  rotate: false
+  xy: 85, 158
+  size: 77, 79
+  orig: 91, 91
+  offset: 7, 6
+  index: -1
+x_02
+  rotate: false
+  xy: 2, 126
+  size: 77, 78
+  orig: 91, 91
+  offset: 7, 6
+  index: -1
+x_03
+  rotate: true
+  xy: 2, 2
+  size: 69, 71
+  orig: 87, 85
+  offset: 11, 7
+  index: -1
+x_04
+  rotate: false
+  xy: 164, 159
+  size: 77, 78
+  orig: 92, 91
+  offset: 8, 7
+  index: -1
+xing
+  rotate: false
+  xy: 243, 197
+  size: 40, 40
+  orig: 50, 50
+  offset: 5, 5
+  index: -1
+yezi_1
+  rotate: false
+  xy: 664, 773
+  size: 59, 51
+  orig: 70, 60
+  offset: 5, 5
+  index: -1
+yezi_2
+  rotate: false
+  xy: 81, 73
+  size: 50, 83
+  orig: 60, 90
+  offset: 4, 4
+  index: -1
+yezi_3
+  rotate: false
+  xy: 562, 629
+  size: 94, 41
+  orig: 100, 50
+  offset: 3, 5
+  index: -1
+yezi_4
+  rotate: false
+  xy: 164, 51
+  size: 65, 106
+  orig: 70, 110
+  offset: 3, 2
+  index: -1
+yezi_5
+  rotate: true
+  xy: 370, 362
+  size: 77, 37
+  orig: 80, 40
+  offset: 1, 2
+  index: -1
+yezi_7
+  rotate: true
+  xy: 50, 82
+  size: 42, 26
+  orig: 50, 30
+  offset: 4, 2
+  index: -1
+yezi_fen1
+  rotate: false
+  xy: 414, 223
+  size: 27, 52
+  orig: 27, 52
+  offset: 0, 0
+  index: -1
+yezi_fen2
+  rotate: false
+  xy: 133, 103
+  size: 28, 53
+  orig: 28, 53
+  offset: 0, 0
+  index: -1
+yezi_huang1
+  rotate: true
+  xy: 660, 575
+  size: 20, 56
+  orig: 20, 56
+  offset: 0, 0
+  index: -1
+yezi_huang2
+  rotate: false
+  xy: 619, 574
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+yezi_lan1
+  rotate: true
+  xy: 443, 206
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+yezi_lan2
+  rotate: true
+  xy: 243, 139
+  size: 56, 34
+  orig: 56, 34
+  offset: 0, 0
+  index: -1
+yezi_lv1
+  rotate: true
+  xy: 562, 574
+  size: 53, 55
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
+yezi_lv2
+  rotate: true
+  xy: 368, 211
+  size: 64, 44
+  orig: 64, 44
+  offset: 0, 0
+  index: -1
+yezi_zi1
+  rotate: false
+  xy: 409, 394
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1

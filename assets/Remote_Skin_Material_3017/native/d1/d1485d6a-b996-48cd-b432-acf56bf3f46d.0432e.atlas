@@ -1,0 +1,55 @@
+
+gameplay_clear_unbelievable_017.png
+size: 803,418
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
++300
+  rotate: true
+  xy: 710, 136
+  size: 278, 89
+  orig: 296, 104
+  offset: 9, 8
+  index: -1
+efx_liZi_1
+  rotate: false
+  xy: 674, 91
+  size: 41, 41
+  orig: 46, 46
+  offset: 2, 3
+  index: -1
+kuang_guang
+  rotate: false
+  xy: 456, 71
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+u_guang
+  rotate: false
+  xy: 4, 129
+  size: 448, 156
+  orig: 486, 183
+  offset: 19, 13
+  index: -1
+u_guang_2
+  rotate: false
+  xy: 4, 5
+  size: 415, 120
+  orig: 445, 159
+  offset: 15, 20
+  index: -1
+u_guang_4
+  rotate: false
+  xy: 423, 4
+  size: 354, 63
+  orig: 370, 79
+  offset: 8, 8
+  index: -1
+unbelievable_ck
+  rotate: false
+  xy: 4, 289
+  size: 702, 125
+  orig: 705, 128
+  offset: 1, 1
+  index: -1

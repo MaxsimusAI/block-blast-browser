@@ -1,0 +1,118 @@
+
+gameplay_comboTips_4013.png
+size: 1182,520
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+c_tips_01
+  rotate: false
+  xy: 665, 16
+  size: 283, 251
+  orig: 295, 263
+  offset: 6, 6
+  index: -1
+c_tips_02
+  rotate: false
+  xy: 665, 271
+  size: 294, 245
+  orig: 300, 249
+  offset: 3, 2
+  index: -1
+c_tips_03
+  rotate: true
+  xy: 963, 277
+  size: 239, 209
+  orig: 241, 211
+  offset: 1, 1
+  index: -1
+c_tips_04
+  rotate: false
+  xy: 608, 193
+  size: 40, 39
+  orig: 42, 41
+  offset: 1, 1
+  index: -1
+c_tips_05
+  rotate: false
+  xy: 568, 96
+  size: 29, 24
+  orig: 40, 30
+  offset: 5, 2
+  index: -1
+c_tips_06
+  rotate: false
+  xy: 608, 168
+  size: 26, 21
+  orig: 30, 30
+  offset: 2, 5
+  index: -1
+c_tips_07
+  rotate: false
+  xy: 638, 170
+  size: 23, 19
+  orig: 30, 30
+  offset: 3, 6
+  index: -1
+flz
+  rotate: false
+  xy: 493, 49
+  size: 71, 71
+  orig: 89, 89
+  offset: 9, 9
+  index: -1
+flz2
+  rotate: false
+  xy: 528, 33
+  size: 11, 12
+  orig: 15, 15
+  offset: 2, 2
+  index: -1
+h_tips_01
+  rotate: true
+  xy: 952, 13
+  size: 254, 226
+  orig: 260, 234
+  offset: 3, 4
+  index: -1
+h_tips_02
+  rotate: false
+  xy: 344, 236
+  size: 317, 280
+  orig: 325, 288
+  offset: 4, 4
+  index: -1
+huanggy
+  rotate: false
+  xy: 4, 223
+  size: 336, 293
+  orig: 353, 317
+  offset: 8, 12
+  index: -1
+hx
+  rotate: false
+  xy: 493, 124
+  size: 111, 108
+  orig: 125, 120
+  offset: 7, 6
+  index: -1
+qlz
+  rotate: false
+  xy: 493, 14
+  size: 31, 31
+  orig: 37, 37
+  offset: 3, 3
+  index: -1
+tips_01
+  rotate: false
+  xy: 254, 10
+  size: 235, 209
+  orig: 243, 218
+  offset: 4, 5
+  index: -1
+tips_02
+  rotate: false
+  xy: 4, 4
+  size: 246, 215
+  orig: 246, 215
+  offset: 0, 0
+  index: -1

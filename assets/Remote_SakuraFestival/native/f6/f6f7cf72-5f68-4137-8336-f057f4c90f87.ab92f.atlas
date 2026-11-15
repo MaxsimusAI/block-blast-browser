@@ -1,0 +1,167 @@
+
+gameplay_volcan.png
+size: 977,430
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qp_4
+  rotate: false
+  xy: 1, 1
+  size: 866, 125
+  orig: 866, 125
+  offset: 0, 0
+  index: -1
+bk_z_1
+  rotate: false
+  xy: 433, 128
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+bk_z_6
+  rotate: false
+  xy: 869, 109
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+bk_z_2
+  rotate: false
+  xy: 109, 236
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+bk_z_7
+  rotate: false
+  xy: 865, 217
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+bk_z_3
+  rotate: false
+  xy: 217, 236
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+bk_z_4
+  rotate: false
+  xy: 541, 128
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+bk_z_5
+  rotate: false
+  xy: 869, 1
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+bk_g
+  rotate: false
+  xy: 217, 128
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+bk_b
+  rotate: false
+  xy: 1, 128
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+bk_p
+  rotate: false
+  xy: 109, 128
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+bk_y
+  rotate: false
+  xy: 325, 128
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+bk_r
+  rotate: false
+  xy: 649, 217
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+bk_o
+  rotate: false
+  xy: 757, 217
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+bk_d
+  rotate: false
+  xy: 1, 236
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+volcan_word
+  rotate: false
+  xy: 619, 236
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+bk_c1
+  rotate: false
+  xy: 423, 236
+  size: 96, 95
+  orig: 96, 95
+  offset: 0, 0
+  index: -1
+bk_c2
+  rotate: false
+  xy: 521, 236
+  size: 96, 95
+  orig: 96, 95
+  offset: 0, 0
+  index: -1
+bk_c4
+  rotate: false
+  xy: 423, 333
+  size: 96, 95
+  orig: 96, 95
+  offset: 0, 0
+  index: -1
+bk_c5
+  rotate: false
+  xy: 619, 325
+  size: 96, 95
+  orig: 96, 95
+  offset: 0, 0
+  index: -1
+bk_c6
+  rotate: false
+  xy: 521, 333
+  size: 96, 95
+  orig: 96, 95
+  offset: 0, 0
+  index: -1
+bk_c7
+  rotate: false
+  xy: 325, 236
+  size: 96, 95
+  orig: 96, 95
+  offset: 0, 0
+  index: -1
+bk_c3
+  rotate: false
+  xy: 325, 333
+  size: 96, 95
+  orig: 96, 95
+  offset: 0, 0
+  index: -1

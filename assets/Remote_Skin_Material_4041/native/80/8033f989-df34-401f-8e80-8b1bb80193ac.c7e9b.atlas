@@ -1,0 +1,146 @@
+
+gameplay_clear_unbelievable_4041.png
+size: 511,517
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
++300
+  rotate: false
+  xy: 4, 210
+  size: 267, 93
+  orig: 268, 96
+  offset: 0, 1
+  index: -1
+9
+  rotate: false
+  xy: 260, 92
+  size: 38, 114
+  orig: 46, 122
+  offset: 4, 4
+  index: -1
+A1
+  rotate: false
+  xy: 302, 135
+  size: 73, 78
+  orig: 81, 86
+  offset: 4, 4
+  index: -1
+B1
+  rotate: false
+  xy: 432, 404
+  size: 75, 109
+  orig: 89, 123
+  offset: 7, 7
+  index: -1
+B2
+  rotate: false
+  xy: 432, 291
+  size: 75, 109
+  orig: 89, 119
+  offset: 7, 5
+  index: -1
+E1
+  rotate: true
+  xy: 302, 59
+  size: 72, 77
+  orig: 81, 85
+  offset: 4, 4
+  index: -1
+E2
+  rotate: false
+  xy: 200, 4
+  size: 73, 78
+  orig: 83, 86
+  offset: 5, 4
+  index: -1
+E3
+  rotate: false
+  xy: 422, 209
+  size: 72, 78
+  orig: 78, 84
+  offset: 3, 3
+  index: -1
+I1
+  rotate: true
+  xy: 277, 21
+  size: 34, 106
+  orig: 40, 114
+  offset: 3, 4
+  index: -1
+L1
+  rotate: false
+  xy: 386, 195
+  size: 32, 108
+  orig: 40, 116
+  offset: 4, 4
+  index: -1
+L2
+  rotate: true
+  xy: 383, 101
+  size: 31, 108
+  orig: 41, 120
+  offset: 5, 6
+  index: -1
+N1
+  rotate: true
+  xy: 422, 136
+  size: 69, 78
+  orig: 77, 84
+  offset: 4, 3
+  index: -1
+U1
+  rotate: true
+  xy: 275, 217
+  size: 86, 107
+  orig: 96, 115
+  offset: 5, 4
+  index: -1
+V1
+  rotate: false
+  xy: 387, 21
+  size: 74, 76
+  orig: 82, 88
+  offset: 4, 6
+  index: -1
+block_01
+  rotate: false
+  xy: 465, 65
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+ia_1000000094
+  rotate: false
+  xy: 4, 378
+  size: 424, 135
+  orig: 512, 139
+  offset: 16, 4
+  index: -1
+ia_100000016
+  rotate: false
+  xy: 4, 23
+  size: 192, 51
+  orig: 192, 51
+  offset: 0, 0
+  index: -1
+ia_1400000083
+  rotate: false
+  xy: 4, 78
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ia_3200000058
+  rotate: false
+  xy: 136, 86
+  size: 120, 120
+  orig: 128, 128
+  offset: 4, 4
+  index: -1
+waiFaGuang
+  rotate: false
+  xy: 4, 307
+  size: 401, 67
+  orig: 402, 68
+  offset: 0, 1
+  index: -1

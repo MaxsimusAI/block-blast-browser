@@ -1,0 +1,62 @@
+
+revive_countdown_035.png
+size: 389,508
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 248, 172
+  size: 134, 168
+  orig: 134, 168
+  offset: 0, 0
+  index: -1
+1
+  rotate: true
+  xy: 2, 199
+  size: 61, 162
+  orig: 61, 162
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 248, 342
+  size: 137, 164
+  orig: 137, 164
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 2
+  size: 123, 168
+  orig: 123, 168
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 256, 8
+  size: 131, 162
+  orig: 131, 162
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 127, 5
+  size: 127, 165
+  orig: 127, 165
+  offset: 0, 0
+  index: -1
+椭圆 2
+  rotate: false
+  xy: 166, 223
+  size: 37, 37
+  orig: 39, 39
+  offset: 1, 1
+  index: -1
+椭圆 3
+  rotate: false
+  xy: 2, 262
+  size: 244, 244
+  orig: 282, 282
+  offset: 19, 19
+  index: -1

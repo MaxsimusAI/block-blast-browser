@@ -1,0 +1,76 @@
+
+Oneline_gameplay_wrongLine.png
+size: 377,210
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+!
+  rotate: false
+  xy: 246, 99
+  size: 48, 109
+  orig: 48, 109
+  offset: 0, 0
+  index: -1
+L
+  rotate: true
+  xy: 2, 4
+  size: 76, 108
+  orig: 76, 108
+  offset: 0, 0
+  index: -1
+W
+  rotate: true
+  xy: 2, 82
+  size: 126, 107
+  orig: 126, 107
+  offset: 0, 0
+  index: -1
+e
+  rotate: false
+  xy: 206, 2
+  size: 83, 92
+  orig: 83, 92
+  offset: 0, 0
+  index: -1
+g
+  rotate: false
+  xy: 111, 92
+  size: 84, 116
+  orig: 84, 116
+  offset: 0, 0
+  index: -1
+i
+  rotate: false
+  xy: 197, 96
+  size: 47, 112
+  orig: 47, 112
+  offset: 0, 0
+  index: -1
+n
+  rotate: false
+  xy: 291, 6
+  size: 84, 91
+  orig: 84, 91
+  offset: 0, 0
+  index: -1
+n1
+  rotate: false
+  xy: 291, 6
+  size: 84, 91
+  orig: 84, 91
+  offset: 0, 0
+  index: -1
+o
+  rotate: true
+  xy: 112, 4
+  size: 86, 92
+  orig: 86, 92
+  offset: 0, 0
+  index: -1
+r
+  rotate: false
+  xy: 296, 117
+  size: 68, 91
+  orig: 68, 91
+  offset: 0, 0
+  index: -1

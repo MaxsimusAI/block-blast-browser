@@ -1,0 +1,244 @@
+
+gameplay_clear_unbelievable_033.png
+size: 841,521
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Unbelievable
+  rotate: false
+  xy: 2, 381
+  size: 753, 138
+  orig: 850, 200
+  offset: 48, 32
+  index: -1
+Unbelievable_1
+  rotate: false
+  xy: 684, 310
+  size: 69, 69
+  orig: 76, 76
+  offset: 4, 4
+  index: -1
+Unbelievable_2
+  rotate: true
+  xy: 2, 6
+  size: 122, 121
+  orig: 134, 134
+  offset: 6, 5
+  index: -1
+Unbelievable_sg/Unbelievable_sg_01
+  rotate: true
+  xy: 125, 2
+  size: 53, 63
+  orig: 387, 79
+  offset: 5, 10
+  index: -1
+Unbelievable_sg/Unbelievable_sg_02
+  rotate: false
+  xy: 605, 311
+  size: 77, 68
+  orig: 387, 79
+  offset: 4, 6
+  index: -1
+Unbelievable_sg/Unbelievable_sg_03
+  rotate: false
+  xy: 731, 92
+  size: 100, 70
+  orig: 387, 79
+  offset: 6, 4
+  index: -1
+Unbelievable_sg/Unbelievable_sg_04
+  rotate: false
+  xy: 481, 310
+  size: 122, 69
+  orig: 387, 79
+  offset: 9, 5
+  index: -1
+Unbelievable_sg/Unbelievable_sg_05
+  rotate: false
+  xy: 341, 310
+  size: 138, 69
+  orig: 387, 79
+  offset: 12, 5
+  index: -1
+Unbelievable_sg/Unbelievable_sg_06
+  rotate: true
+  xy: 522, 165
+  size: 143, 71
+  orig: 387, 79
+  offset: 23, 4
+  index: -1
+Unbelievable_sg/Unbelievable_sg_07
+  rotate: false
+  xy: 604, 237
+  size: 145, 71
+  orig: 387, 79
+  offset: 40, 4
+  index: -1
+Unbelievable_sg/Unbelievable_sg_08
+  rotate: false
+  xy: 493, 11
+  size: 148, 70
+  orig: 387, 79
+  offset: 55, 4
+  index: -1
+Unbelievable_sg/Unbelievable_sg_09
+  rotate: false
+  xy: 451, 83
+  size: 151, 70
+  orig: 387, 79
+  offset: 71, 4
+  index: -1
+Unbelievable_sg/Unbelievable_sg_10
+  rotate: true
+  xy: 449, 155
+  size: 153, 71
+  orig: 387, 79
+  offset: 86, 4
+  index: -1
+Unbelievable_sg/Unbelievable_sg_11
+  rotate: false
+  xy: 294, 73
+  size: 155, 71
+  orig: 387, 79
+  offset: 102, 4
+  index: -1
+Unbelievable_sg/Unbelievable_sg_12
+  rotate: true
+  xy: 304, 151
+  size: 157, 70
+  orig: 387, 79
+  offset: 118, 4
+  index: -1
+Unbelievable_sg/Unbelievable_sg_13
+  rotate: false
+  xy: 332, 2
+  size: 159, 69
+  orig: 387, 79
+  offset: 134, 4
+  index: -1
+Unbelievable_sg/Unbelievable_sg_14
+  rotate: true
+  xy: 234, 146
+  size: 162, 68
+  orig: 387, 79
+  offset: 149, 4
+  index: -1
+Unbelievable_sg/Unbelievable_sg_15
+  rotate: false
+  xy: 175, 310
+  size: 164, 69
+  orig: 387, 79
+  offset: 165, 4
+  index: -1
+Unbelievable_sg/Unbelievable_sg_16
+  rotate: false
+  xy: 125, 57
+  size: 167, 71
+  orig: 387, 79
+  offset: 182, 4
+  index: -1
+Unbelievable_sg/Unbelievable_sg_17
+  rotate: false
+  xy: 2, 308
+  size: 171, 71
+  orig: 387, 79
+  offset: 196, 4
+  index: -1
+Unbelievable_sg/Unbelievable_sg_18
+  rotate: true
+  xy: 161, 142
+  size: 164, 71
+  orig: 387, 79
+  offset: 212, 4
+  index: -1
+Unbelievable_sg/Unbelievable_sg_19
+  rotate: true
+  xy: 376, 154
+  size: 154, 71
+  orig: 387, 79
+  offset: 226, 4
+  index: -1
+Unbelievable_sg/Unbelievable_sg_20
+  rotate: false
+  xy: 595, 164
+  size: 139, 71
+  orig: 387, 79
+  offset: 243, 4
+  index: -1
+Unbelievable_sg/Unbelievable_sg_21
+  rotate: false
+  xy: 604, 91
+  size: 125, 71
+  orig: 387, 79
+  offset: 258, 4
+  index: -1
+Unbelievable_sg/Unbelievable_sg_22
+  rotate: false
+  xy: 643, 19
+  size: 110, 70
+  orig: 387, 79
+  offset: 274, 4
+  index: -1
+Unbelievable_sg/Unbelievable_sg_23
+  rotate: false
+  xy: 736, 165
+  size: 94, 70
+  orig: 387, 79
+  offset: 290, 4
+  index: -1
+c_tips_04
+  rotate: true
+  xy: 309, 46
+  size: 25, 20
+  orig: 30, 30
+  offset: 2, 5
+  index: -1
+c_tips_05
+  rotate: true
+  xy: 283, 26
+  size: 29, 24
+  orig: 40, 30
+  offset: 5, 2
+  index: -1
+c_tips_06
+  rotate: false
+  xy: 283, 3
+  size: 26, 21
+  orig: 30, 30
+  offset: 2, 5
+  index: -1
+c_tips_07
+  rotate: true
+  xy: 311, 21
+  size: 23, 19
+  orig: 30, 30
+  offset: 3, 6
+  index: -1
+c_tips_08
+  rotate: true
+  xy: 244, 12
+  size: 43, 37
+  orig: 46, 39
+  offset: 2, 1
+  index: -1
+effects_rainbow
+  rotate: true
+  xy: 2, 130
+  size: 164, 157
+  orig: 164, 164
+  offset: 0, 6
+  index: -1
+nun_300
+  rotate: true
+  xy: 757, 296
+  size: 223, 82
+  orig: 230, 90
+  offset: 4, 4
+  index: -1
+zi_5
+  rotate: false
+  xy: 190, 2
+  size: 52, 53
+  orig: 60, 60
+  offset: 4, 4
+  index: -1

@@ -1,0 +1,132 @@
+
+gameplay_firework2.png
+size: 1024,1024
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+firework/firework_2_00026
+  rotate: true
+  xy: 896, 19
+  size: 115, 113
+  orig: 350, 350
+  offset: 117, 125
+  index: -1
+firework/firework_2_00028
+  rotate: false
+  xy: 761, 4
+  size: 131, 130
+  orig: 350, 350
+  offset: 109, 116
+  index: -1
+firework/firework_2_00030
+  rotate: false
+  xy: 761, 138
+  size: 148, 148
+  orig: 350, 350
+  offset: 100, 106
+  index: -1
+firework/firework_2_00032
+  rotate: false
+  xy: 4, 49
+  size: 149, 156
+  orig: 350, 350
+  offset: 99, 101
+  index: -1
+firework/firework_2_00034
+  rotate: true
+  xy: 242, 56
+  size: 170, 172
+  orig: 350, 350
+  offset: 89, 93
+  index: -1
+firework/firework_2_00036
+  rotate: true
+  xy: 761, 786
+  size: 193, 198
+  orig: 350, 350
+  offset: 79, 81
+  index: -1
+firework/firework_2_00038
+  rotate: true
+  xy: 744, 290
+  size: 215, 219
+  orig: 350, 350
+  offset: 67, 69
+  index: -1
+firework/firework_2_00040
+  rotate: true
+  xy: 518, 747
+  size: 232, 239
+  orig: 350, 350
+  offset: 60, 60
+  index: -1
+firework/firework_2_00042
+  rotate: true
+  xy: 261, 734
+  size: 245, 253
+  orig: 350, 350
+  offset: 50, 53
+  index: -1
+firework/firework_2_00044
+  rotate: false
+  xy: 4, 713
+  size: 253, 266
+  orig: 350, 350
+  offset: 44, 46
+  index: -1
+firework/firework_2_00046
+  rotate: true
+  xy: 4, 458
+  size: 251, 259
+  orig: 350, 350
+  offset: 46, 50
+  index: -1
+firework/firework_2_00048
+  rotate: true
+  xy: 759, 530
+  size: 213, 232
+  orig: 350, 350
+  offset: 70, 63
+  index: -1
+firework/firework_2_00050
+  rotate: true
+  xy: 524, 42
+  size: 216, 233
+  orig: 350, 350
+  offset: 65, 58
+  index: -1
+firework/firework_2_00052
+  rotate: false
+  xy: 524, 262
+  size: 216, 243
+  orig: 350, 350
+  offset: 66, 52
+  index: -1
+firework/firework_2_00054
+  rotate: true
+  xy: 509, 509
+  size: 221, 246
+  orig: 350, 350
+  offset: 62, 49
+  index: -1
+firework/firework_2_00056
+  rotate: false
+  xy: 4, 209
+  size: 234, 245
+  orig: 350, 350
+  offset: 58, 43
+  index: -1
+firework/firework_2_00058
+  rotate: true
+  xy: 267, 230
+  size: 238, 253
+  orig: 350, 350
+  offset: 57, 39
+  index: -1
+firework/firework_2_00060
+  rotate: false
+  xy: 267, 472
+  size: 238, 258
+  orig: 350, 350
+  offset: 55, 36
+  index: -1

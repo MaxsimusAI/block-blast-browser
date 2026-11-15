@@ -1,0 +1,216 @@
+
+OneLine_Settle.png
+size: 979,904
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Crown/Crown_000
+  rotate: true
+  xy: 113, 623
+  size: 151, 119
+  orig: 151, 119
+  offset: 0, 0
+  index: -1
+Crown/Crown_001
+  rotate: true
+  xy: 113, 470
+  size: 151, 119
+  orig: 151, 119
+  offset: 0, 0
+  index: -1
+Crown/Crown_002
+  rotate: true
+  xy: 113, 317
+  size: 151, 119
+  orig: 151, 119
+  offset: 0, 0
+  index: -1
+Crown/Crown_003
+  rotate: true
+  xy: 113, 164
+  size: 151, 119
+  orig: 151, 119
+  offset: 0, 0
+  index: -1
+Crown/Crown_004
+  rotate: true
+  xy: 260, 19
+  size: 151, 119
+  orig: 151, 119
+  offset: 0, 0
+  index: -1
+Crown/Crown_005
+  rotate: true
+  xy: 381, 19
+  size: 151, 119
+  orig: 151, 119
+  offset: 0, 0
+  index: -1
+Crown/Crown_006
+  rotate: true
+  xy: 858, 751
+  size: 151, 119
+  orig: 151, 119
+  offset: 0, 0
+  index: -1
+Crown/Crown_007
+  rotate: true
+  xy: 858, 598
+  size: 151, 119
+  orig: 151, 119
+  offset: 0, 0
+  index: -1
+Crown/Crown_008
+  rotate: true
+  xy: 858, 445
+  size: 151, 119
+  orig: 151, 119
+  offset: 0, 0
+  index: -1
+Crown/Crown_009
+  rotate: true
+  xy: 858, 292
+  size: 151, 119
+  orig: 151, 119
+  offset: 0, 0
+  index: -1
+Crown/Crown_010
+  rotate: true
+  xy: 858, 139
+  size: 151, 119
+  orig: 151, 119
+  offset: 0, 0
+  index: -1
+Crown/Crown_011
+  rotate: true
+  xy: 734, 751
+  size: 151, 119
+  orig: 151, 119
+  offset: 0, 0
+  index: -1
+Crown_glow/Crown_glow_000
+  rotate: false
+  xy: 502, 12
+  size: 76, 60
+  orig: 76, 60
+  offset: 0, 0
+  index: -1
+Crown_glow/Crown_glow_001
+  rotate: false
+  xy: 580, 12
+  size: 76, 60
+  orig: 76, 60
+  offset: 0, 0
+  index: -1
+Crown_glow/Crown_glow_002
+  rotate: false
+  xy: 658, 12
+  size: 76, 60
+  orig: 76, 60
+  offset: 0, 0
+  index: -1
+Crown_glow/Crown_glow_003
+  rotate: false
+  xy: 736, 12
+  size: 76, 60
+  orig: 76, 60
+  offset: 0, 0
+  index: -1
+Crown_glow/Crown_glow_004
+  rotate: false
+  xy: 814, 12
+  size: 76, 60
+  orig: 76, 60
+  offset: 0, 0
+  index: -1
+Crown_glow/Crown_glow_005
+  rotate: false
+  xy: 858, 77
+  size: 76, 60
+  orig: 76, 60
+  offset: 0, 0
+  index: -1
+Crown_glow/Crown_glow_006
+  rotate: false
+  xy: 892, 15
+  size: 76, 60
+  orig: 76, 60
+  offset: 0, 0
+  index: -1
+Crown_glow/Crown_glow_007
+  rotate: false
+  xy: 734, 689
+  size: 76, 60
+  orig: 76, 60
+  offset: 0, 0
+  index: -1
+Crown_glow/Crown_glow_008
+  rotate: false
+  xy: 734, 627
+  size: 76, 60
+  orig: 76, 60
+  offset: 0, 0
+  index: -1
+Crown_glow/Crown_glow_009
+  rotate: false
+  xy: 734, 565
+  size: 76, 60
+  orig: 76, 60
+  offset: 0, 0
+  index: -1
+Crown_glow/Crown_glow_010
+  rotate: false
+  xy: 734, 503
+  size: 76, 60
+  orig: 76, 60
+  offset: 0, 0
+  index: -1
+Crown_glow/Crown_glow_011
+  rotate: false
+  xy: 734, 441
+  size: 76, 60
+  orig: 76, 60
+  offset: 0, 0
+  index: -1
+gameplay_txt_blockMatched
+  rotate: true
+  xy: 2, 132
+  size: 770, 109
+  orig: 770, 109
+  offset: 0, 0
+  index: -1
+glow002
+  rotate: false
+  xy: 502, 74
+  size: 354, 354
+  orig: 354, 354
+  offset: 0, 0
+  index: -1
+glow011
+  rotate: false
+  xy: 260, 430
+  size: 472, 472
+  orig: 472, 472
+  offset: 0, 0
+  index: -1
+glow013
+  rotate: false
+  xy: 234, 172
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+glow038
+  rotate: true
+  xy: 2, 2
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+star002
+  rotate: false
+  xy: 113, 776
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1

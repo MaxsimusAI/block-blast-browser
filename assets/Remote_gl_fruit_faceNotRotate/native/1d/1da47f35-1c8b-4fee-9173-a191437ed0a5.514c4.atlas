@@ -1,0 +1,13 @@
+
+Fruit_05f.png
+size: 526,518
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fruit_05_body_01
+  rotate: false
+  xy: 2, 2
+  size: 522, 514
+  orig: 524, 516
+  offset: 1, 1
+  index: -1

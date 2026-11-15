@@ -1,0 +1,125 @@
+
+gameplay_clear_unbelievable_063.png
+size: 756,407
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
++300
+  rotate: false
+  xy: 222, 7
+  size: 281, 97
+  orig: 281, 97
+  offset: 0, 0
+  index: -1
+ck_a
+  rotate: false
+  xy: 606, 9
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+ck_b
+  rotate: false
+  xy: 561, 12
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+ck_c
+  rotate: false
+  xy: 139, 5
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+ck_d
+  rotate: false
+  xy: 94, 5
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+ck_e
+  rotate: true
+  xy: 507, 6
+  size: 47, 50
+  orig: 47, 51
+  offset: 0, 1
+  index: -1
+ck_f
+  rotate: false
+  xy: 615, 54
+  size: 47, 50
+  orig: 47, 51
+  offset: 0, 1
+  index: -1
+ck_g
+  rotate: true
+  xy: 561, 57
+  size: 47, 50
+  orig: 47, 51
+  offset: 0, 1
+  index: -1
+ck_h
+  rotate: true
+  xy: 507, 57
+  size: 47, 50
+  orig: 47, 51
+  offset: 0, 1
+  index: -1
+ck_i
+  rotate: false
+  xy: 49, 5
+  size: 41, 41
+  orig: 42, 42
+  offset: 0, 1
+  index: -1
+ck_j
+  rotate: false
+  xy: 4, 5
+  size: 41, 41
+  orig: 42, 42
+  offset: 0, 1
+  index: -1
+ck_k
+  rotate: false
+  xy: 696, 4
+  size: 41, 41
+  orig: 42, 42
+  offset: 0, 1
+  index: -1
+ck_l
+  rotate: false
+  xy: 651, 4
+  size: 41, 41
+  orig: 42, 42
+  offset: 0, 1
+  index: -1
+kuang_guang
+  rotate: false
+  xy: 4, 50
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+u_guang
+  rotate: false
+  xy: 222, 108
+  size: 448, 156
+  orig: 486, 183
+  offset: 19, 13
+  index: -1
+u_guang_4
+  rotate: true
+  xy: 689, 49
+  size: 354, 63
+  orig: 370, 79
+  offset: 8, 8
+  index: -1
+unbelievable_ck
+  rotate: false
+  xy: 4, 268
+  size: 681, 135
+  orig: 691, 145
+  offset: 5, 5
+  index: -1

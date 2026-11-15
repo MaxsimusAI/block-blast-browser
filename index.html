@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+<meta name="description" content="Block Blast — браузерная игра для телефона и компьютера.">
+<meta name="theme-color" content="#1d294b">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Block Blast">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self' data: blob:; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline'; connect-src 'self' blob:;">
+<title>Block Blast!</title>
+<link rel="icon" type="image/jpeg" href="shell/icon.jpg">
+<link rel="apple-touch-icon" sizes="512x512" href="shell/icon.jpg">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="shell.css">
+<style>
+html,body{width:100%;height:100%;padding:0;margin:0;overflow:hidden;background:#1d294b;color:#fff;font:16px system-ui;touch-action:none}#GameCanvas{display:block}#status{position:fixed;left:0;bottom:0;padding:8px;max-height:30vh;max-width:100%;overflow:auto;font:12px monospace;background:#000a;white-space:pre-wrap;z-index:10;pointer-events:none}
+</style>
+</head>
+<body>
+<canvas id="GameCanvas" tabindex="0"></canvas>
+<div id="launch-screen" aria-label="Block Blast загружается"><img src="shell/loading-logo.png" alt="Block Blast!"></div>
+<div id="splash"><div class="progress-bar"><span></span></div></div>
+<section id="welcome" hidden aria-label="Welcome to Block Blast!">
+  <div class="welcome-art">
+    <img class="welcome-bg" src="shell/pp_bg_privacy.webp" alt="">
+    <img class="welcome-face" src="shell/pp_icon_welcome.png" alt="">
+    <div class="welcome-copy"><img src="shell/pp_txt_welcome.webp" alt="Welcome to Block Blast! Please accept our Terms of Use and read our Privacy Policy.">
+      <button class="terms" aria-label="Terms of Use"><img src="shell/pp_btn_terms.webp" alt="Terms of Use"></button>
+      <button class="privacy" aria-label="Privacy Policy"><img src="shell/pp_btn_pp.webp" alt="Privacy Policy"></button>
+    </div>
+    <button class="welcome-continue" aria-label="Продолжить в локальной игре"><img src="shell/pp_btn_accept.webp" alt="Accept Terms of Use"></button>
+  </div>
+</section>
+<dialog id="local-information"><h1>Block Blast — браузерная версия</h1><p>Локальный перенос предоставленной игры версии 11.0.0. Приветственный экран воспроизводит внешний вид Android-приложения. Нажатие кнопки продолжения сохраняет только отметку о просмотре этого экрана в вашем браузере.</p><p>Прогресс и настройки хранятся на этом устройстве. Эта сборка не создаёт аккаунт и не подключает оплату, рекламные SDK или аналитику оригинального приложения.</p><form method="dialog"><button>Закрыть</button></form></dialog>
+<div id="status">Loading web engine…</div>
+<script>window.CC_DEBUG=new URLSearchParams(location.search).get('debug')==='1';window.CC_DEV=window.CC_DEBUG;</script>
+<script src="shell.js"></script>
+<script src="cocos2d-web.js"></script>
+<script src="src/settings.ca6e3.js"></script>
+<script src="main.js"></script>
+<script src="local-bundles.js"></script>
+<script src="mini-adapter.js"></script>
+<script src="boot.js"></script>
+</body>
+</html>

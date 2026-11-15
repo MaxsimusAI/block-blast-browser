@@ -1,0 +1,97 @@
+
+gameplay_fenshu.png
+size: 131,259
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+bg
+  rotate: false
+  xy: 4, 93
+  size: 117, 162
+  orig: 119, 165
+  offset: 1, 2
+  index: -1
+lizi1
+  rotate: false
+  xy: 95, 36
+  size: 8, 8
+  orig: 12, 12
+  offset: 2, 2
+  index: -1
+lizi2
+  rotate: false
+  xy: 94, 24
+  size: 8, 8
+  orig: 12, 12
+  offset: 2, 2
+  index: -1
+lizi3
+  rotate: false
+  xy: 115, 69
+  size: 8, 8
+  orig: 12, 12
+  offset: 2, 2
+  index: -1
+lizi4
+  rotate: false
+  xy: 79, 21
+  size: 11, 11
+  orig: 13, 13
+  offset: 1, 1
+  index: -1
+lizi5
+  rotate: false
+  xy: 33, 13
+  size: 19, 19
+  orig: 25, 26
+  offset: 3, 4
+  index: -1
+lizi6
+  rotate: false
+  xy: 56, 13
+  size: 19, 19
+  orig: 25, 26
+  offset: 3, 4
+  index: -1
+lizi7
+  rotate: false
+  xy: 4, 4
+  size: 25, 28
+  orig: 33, 35
+  offset: 4, 3
+  index: -1
+tiao1
+  rotate: true
+  xy: 4, 66
+  size: 11, 107
+  orig: 13, 113
+  offset: 1, 3
+  index: -1
+tiao2
+  rotate: true
+  xy: 4, 48
+  size: 14, 99
+  orig: 16, 103
+  offset: 1, 2
+  index: -1
+tiao3
+  rotate: true
+  xy: 4, 36
+  size: 8, 87
+  orig: 10, 91
+  offset: 1, 2
+  index: -1
+tiao4
+  rotate: false
+  xy: 125, 134
+  size: 2, 121
+  orig: 4, 127
+  offset: 1, 3
+  index: -1
+tiao5
+  rotate: true
+  xy: 4, 81
+  size: 8, 117
+  orig: 11, 123
+  offset: 2, 3
+  index: -1

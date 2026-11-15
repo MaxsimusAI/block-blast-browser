@@ -1,0 +1,125 @@
+
+gameplay_eliminatePrompt_063.png
+size: 505,295
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+bk_c
+  rotate: false
+  xy: 4, 185
+  size: 105, 106
+  orig: 105, 106
+  offset: 0, 0
+  index: -1
+bk_g
+  rotate: false
+  xy: 113, 75
+  size: 105, 106
+  orig: 105, 106
+  offset: 0, 0
+  index: -1
+bk_r
+  rotate: false
+  xy: 4, 75
+  size: 105, 106
+  orig: 105, 106
+  offset: 0, 0
+  index: -1
+bk_y
+  rotate: false
+  xy: 113, 185
+  size: 105, 106
+  orig: 105, 106
+  offset: 0, 0
+  index: -1
+cc_a
+  rotate: false
+  xy: 222, 185
+  size: 104, 106
+  orig: 104, 106
+  offset: 0, 0
+  index: -1
+cc_b
+  rotate: true
+  xy: 232, 13
+  size: 58, 97
+  orig: 58, 97
+  offset: 0, 0
+  index: -1
+cc_c
+  rotate: true
+  xy: 4, 4
+  size: 67, 53
+  orig: 67, 53
+  offset: 0, 0
+  index: -1
+dp_1
+  rotate: false
+  xy: 434, 21
+  size: 52, 52
+  orig: 72, 72
+  offset: 10, 10
+  index: -1
+gc_a
+  rotate: false
+  xy: 222, 75
+  size: 104, 106
+  orig: 104, 106
+  offset: 0, 0
+  index: -1
+gc_b
+  rotate: false
+  xy: 443, 194
+  size: 58, 97
+  orig: 58, 97
+  offset: 0, 0
+  index: -1
+gc_c
+  rotate: true
+  xy: 61, 4
+  size: 67, 53
+  orig: 67, 53
+  offset: 0, 0
+  index: -1
+rc_a
+  rotate: true
+  xy: 333, 187
+  size: 104, 106
+  orig: 104, 106
+  offset: 0, 0
+  index: -1
+rc_b
+  rotate: false
+  xy: 443, 93
+  size: 58, 97
+  orig: 58, 97
+  offset: 0, 0
+  index: -1
+rc_c
+  rotate: true
+  xy: 118, 4
+  size: 67, 53
+  orig: 67, 53
+  offset: 0, 0
+  index: -1
+yc_a
+  rotate: false
+  xy: 330, 77
+  size: 104, 106
+  orig: 104, 106
+  offset: 0, 0
+  index: -1
+yc_b
+  rotate: true
+  xy: 333, 15
+  size: 58, 97
+  orig: 58, 97
+  offset: 0, 0
+  index: -1
+yc_c
+  rotate: true
+  xy: 175, 4
+  size: 67, 53
+  orig: 67, 53
+  offset: 0, 0
+  index: -1

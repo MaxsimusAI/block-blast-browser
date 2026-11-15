@@ -1,0 +1,48 @@
+
+gameplay_eliminate_blue_4041.png
+size: 856,224
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+maofa_1
+  rotate: true
+  xy: 381, 119
+  size: 101, 105
+  orig: 101, 105
+  offset: 0, 0
+  index: -1
+maofa_1_2
+  rotate: true
+  xy: 272, 123
+  size: 97, 105
+  orig: 97, 105
+  offset: 0, 0
+  index: -1
+touYing
+  rotate: false
+  xy: 490, 114
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+xiaoChu_1
+  rotate: false
+  xy: 4, 4
+  size: 848, 106
+  orig: 848, 106
+  offset: 0, 0
+  index: -1
+xiaoChu_1_2
+  rotate: true
+  xy: 4, 158
+  size: 62, 117
+  orig: 68, 122
+  offset: 3, 2
+  index: -1
+xiaoChu_5_2_touYing
+  rotate: true
+  xy: 125, 128
+  size: 92, 143
+  orig: 99, 149
+  offset: 3, 3
+  index: -1

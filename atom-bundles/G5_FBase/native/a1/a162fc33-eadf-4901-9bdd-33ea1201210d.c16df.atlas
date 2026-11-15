@@ -1,0 +1,132 @@
+
+gameplay_loading.png
+size: 424,524
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+frame
+  rotate: false
+  xy: 188, 390
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+tx/glow1
+  rotate: false
+  xy: 4, 341
+  size: 180, 179
+  orig: 232, 232
+  offset: 26, 26
+  index: -1
+tx/tw2
+  rotate: true
+  xy: 4, 112
+  size: 225, 128
+  orig: 225, 128
+  offset: 0, 0
+  index: -1
+tx/xl/kuagn_00
+  rotate: true
+  xy: 367, 231
+  size: 16, 24
+  orig: 120, 120
+  offset: 14, 17
+  index: -1
+tx/xl/kuagn_01
+  rotate: true
+  xy: 249, 349
+  size: 37, 53
+  orig: 120, 120
+  offset: 6, 9
+  index: -1
+tx/xl/kuagn_02
+  rotate: false
+  xy: 367, 251
+  size: 53, 79
+  orig: 120, 120
+  offset: 3, 5
+  index: -1
+tx/xl/kuagn_03
+  rotate: false
+  xy: 297, 11
+  size: 67, 100
+  orig: 120, 120
+  offset: 2, 3
+  index: -1
+tx/xl/kuagn_04
+  rotate: false
+  xy: 249, 115
+  size: 79, 110
+  orig: 120, 120
+  offset: 2, 3
+  index: -1
+tx/xl/kuagn_05
+  rotate: false
+  xy: 322, 334
+  size: 92, 114
+  orig: 120, 120
+  offset: 2, 3
+  index: -1
+tx/xl/kuagn_06
+  rotate: true
+  xy: 248, 229
+  size: 101, 115
+  orig: 120, 120
+  offset: 2, 3
+  index: -1
+tx/xl/kuagn_07
+  rotate: false
+  xy: 136, 221
+  size: 108, 116
+  orig: 120, 120
+  offset: 3, 3
+  index: -1
+tx/xl/kuagn_08
+  rotate: false
+  xy: 136, 102
+  size: 109, 115
+  orig: 120, 120
+  offset: 6, 3
+  index: -1
+tx/xl/kuagn_09
+  rotate: true
+  xy: 4, 4
+  size: 104, 114
+  orig: 120, 120
+  offset: 13, 4
+  index: -1
+tx/xl/kuagn_10
+  rotate: true
+  xy: 122, 4
+  size: 94, 111
+  orig: 120, 120
+  offset: 23, 7
+  index: -1
+tx/xl/kuagn_11
+  rotate: false
+  xy: 332, 119
+  size: 81, 106
+  orig: 120, 120
+  offset: 36, 12
+  index: -1
+tx/xl/kuagn_12
+  rotate: true
+  xy: 322, 452
+  size: 68, 98
+  orig: 120, 120
+  offset: 49, 20
+  index: -1
+tx/xl/kuagn_13
+  rotate: false
+  xy: 237, 16
+  size: 56, 82
+  orig: 120, 120
+  offset: 61, 36
+  index: -1
+tx/xl/kuagn_14
+  rotate: true
+  xy: 188, 346
+  size: 40, 57
+  orig: 120, 120
+  offset: 74, 59
+  index: -1

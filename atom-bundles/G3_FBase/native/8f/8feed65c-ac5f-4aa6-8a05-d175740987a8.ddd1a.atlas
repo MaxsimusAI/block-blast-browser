@@ -1,0 +1,76 @@
+
+gameplay_pass_barrier.png
+size: 252,70
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+firework1
+  rotate: false
+  xy: 170, 34
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+firework10
+  rotate: false
+  xy: 2, 33
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+firework2
+  rotate: true
+  xy: 88, 32
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+firework3
+  rotate: false
+  xy: 170, 2
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+firework4
+  rotate: false
+  xy: 45, 33
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+firework5
+  rotate: false
+  xy: 2, 3
+  size: 36, 28
+  orig: 36, 30
+  offset: 0, 2
+  index: -1
+firework6
+  rotate: false
+  xy: 208, 2
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+firework7
+  rotate: true
+  xy: 129, 32
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+firework8
+  rotate: false
+  xy: 211, 34
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+firework9
+  rotate: false
+  xy: 40, 2
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1

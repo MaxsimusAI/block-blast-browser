@@ -1,0 +1,20 @@
+
+gameplay_light_startBlock_032.png
+size: 175,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+33
+  rotate: false
+  xy: 140, 105
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+44
+  rotate: false
+  xy: 2, 2
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1

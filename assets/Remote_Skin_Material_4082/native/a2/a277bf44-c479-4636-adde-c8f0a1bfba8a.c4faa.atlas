@@ -1,0 +1,55 @@
+
+gameplay_light_startblock_sunmer_xin.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+combotips_1_2
+  rotate: false
+  xy: 136, 55
+  size: 130, 130
+  orig: 140, 140
+  offset: 5, 5
+  index: -1
+lizi
+  rotate: false
+  xy: 240, 30
+  size: 23, 23
+  orig: 25, 25
+  offset: 1, 1
+  index: -1
+mb_29
+  rotate: false
+  xy: 2, 53
+  size: 132, 132
+  orig: 134, 134
+  offset: 1, 1
+  index: -1
+xiaohua_2
+  rotate: false
+  xy: 191, 6
+  size: 47, 47
+  orig: 50, 50
+  offset: 1, 2
+  index: -1
+xiaohua_5
+  rotate: false
+  xy: 268, 119
+  size: 66, 66
+  orig: 75, 75
+  offset: 4, 5
+  index: -1
+xiaohua_6
+  rotate: false
+  xy: 268, 52
+  size: 65, 65
+  orig: 70, 70
+  offset: 3, 3
+  index: -1
+xiaohua_7
+  rotate: false
+  xy: 136, 2
+  size: 53, 51
+  orig: 60, 60
+  offset: 3, 5
+  index: -1

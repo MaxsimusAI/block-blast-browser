@@ -1,0 +1,41 @@
+
+mian_glow.png
+size: 400,199
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+glow
+  rotate: false
+  xy: 280, 29
+  size: 116, 166
+  orig: 116, 166
+  offset: 0, 0
+  index: -1
+glow3
+  rotate: false
+  xy: 4, 7
+  size: 136, 188
+  orig: 138, 190
+  offset: 1, 1
+  index: -1
+glow4
+  rotate: false
+  xy: 144, 11
+  size: 132, 184
+  orig: 134, 186
+  offset: 1, 1
+  index: -1
+lizi
+  rotate: false
+  xy: 305, 9
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+lizi2
+  rotate: false
+  xy: 280, 4
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1

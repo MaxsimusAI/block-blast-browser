@@ -1,0 +1,132 @@
+
+gameplay_effect_qian.png
+size: 1585,191
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+frame
+  rotate: false
+  xy: 1192, 57
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+tx/lizi_zi
+  rotate: false
+  xy: 1512, 41
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+tx/xl/kuagn_00
+  rotate: true
+  xy: 1192, 4
+  size: 10, 19
+  orig: 177, 177
+  offset: 0, 0
+  index: -1
+tx/xl/kuagn_01
+  rotate: true
+  xy: 1192, 18
+  size: 35, 61
+  orig: 177, 177
+  offset: 0, 0
+  index: -1
+tx/xl/kuagn_02
+  rotate: true
+  xy: 1477, 128
+  size: 59, 104
+  orig: 177, 177
+  offset: 0, 0
+  index: -1
+tx/xl/kuagn_03
+  rotate: true
+  xy: 1326, 103
+  size: 84, 147
+  orig: 177, 177
+  offset: 0, 0
+  index: -1
+tx/xl/kuagn_04
+  rotate: false
+  xy: 966, 10
+  size: 109, 177
+  orig: 177, 177
+  offset: 0, 0
+  index: -1
+tx/xl/kuagn_05
+  rotate: false
+  xy: 829, 10
+  size: 133, 177
+  orig: 177, 177
+  offset: 0, 0
+  index: -1
+tx/xl/kuagn_06
+  rotate: false
+  xy: 529, 10
+  size: 158, 177
+  orig: 177, 177
+  offset: 0, 0
+  index: -1
+tx/xl/kuagn_07
+  rotate: false
+  xy: 4, 10
+  size: 177, 177
+  orig: 177, 177
+  offset: 0, 0
+  index: -1
+tx/xl/kuagn_08
+  rotate: false
+  xy: 185, 10
+  size: 177, 177
+  orig: 177, 177
+  offset: 0, 0
+  index: -1
+tx/xl/kuagn_09
+  rotate: false
+  xy: 366, 10
+  size: 159, 177
+  orig: 177, 177
+  offset: 18, 0
+  index: -1
+tx/xl/kuagn_10
+  rotate: false
+  xy: 691, 10
+  size: 134, 177
+  orig: 177, 177
+  offset: 43, 0
+  index: -1
+tx/xl/kuagn_11
+  rotate: false
+  xy: 1079, 10
+  size: 109, 177
+  orig: 177, 177
+  offset: 68, 0
+  index: -1
+tx/xl/kuagn_12
+  rotate: true
+  xy: 1326, 14
+  size: 85, 145
+  orig: 177, 177
+  offset: 92, 32
+  index: -1
+tx/xl/kuagn_13
+  rotate: true
+  xy: 1477, 64
+  size: 60, 102
+  orig: 177, 177
+  offset: 117, 75
+  index: -1
+tx/xl/kuagn_14
+  rotate: true
+  xy: 1257, 17
+  size: 36, 60
+  orig: 177, 177
+  offset: 141, 117
+  index: -1
+tx/xx
+  rotate: false
+  xy: 1475, 26
+  size: 33, 34
+  orig: 35, 36
+  offset: 1, 1
+  index: -1

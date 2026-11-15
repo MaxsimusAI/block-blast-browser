@@ -1,0 +1,55 @@
+
+gameplay_clear_unbelievable_4060.png
+size: 962,310
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
++300
+  rotate: false
+  xy: 456, 90
+  size: 278, 89
+  orig: 278, 90
+  offset: 0, 1
+  index: -1
+kuang_guang
+  rotate: false
+  xy: 738, 92
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+u_guang
+  rotate: false
+  xy: 4, 23
+  size: 448, 156
+  orig: 486, 183
+  offset: 19, 13
+  index: -1
+u_guang_4
+  rotate: false
+  xy: 456, 23
+  size: 354, 63
+  orig: 370, 79
+  offset: 8, 8
+  index: -1
+unbelievable_ck
+  rotate: false
+  xy: 4, 183
+  size: 702, 123
+  orig: 705, 126
+  offset: 1, 1
+  index: -1
+xing_lan
+  rotate: true
+  xy: 814, 4
+  size: 84, 85
+  orig: 99, 101
+  offset: 7, 8
+  index: -1
+xingxing1
+  rotate: false
+  xy: 903, 25
+  size: 55, 63
+  orig: 57, 65
+  offset: 1, 1
+  index: -1

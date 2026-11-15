@@ -1,0 +1,325 @@
+{
+  "singles": [
+    {
+      "id": "636",
+      "name": "run_0720_2105_02_v03",
+      "url": "remote://res/configs/out/run_0720_2105_02_v03.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "637",
+      "name": "run_2_0720_1731_02_v02",
+      "url": "remote://res/configs/out/run_2_0720_1731_02_v02.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "638",
+      "name": "run_0722_1652_06_v02",
+      "url": "remote://res/configs/out/run_0722_1652_06_v02.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "639",
+      "name": "run_4_0717_2049_02_v01",
+      "url": "remote://res/configs/out/run_4_0717_2049_02_v01.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "640",
+      "name": "run_2_1028_1219_04_v02",
+      "url": "remote://res/configs/out/run_2_1028_1219_04_v02.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "641",
+      "name": "run_2_1028_1436_05_v01",
+      "url": "remote://res/configs/out/run_2_1028_1436_05_v01.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "642",
+      "name": "run_3_0717_1524_06_v03",
+      "url": "remote://res/configs/out/run_3_0717_1524_06_v03.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "643",
+      "name": "run_7_1027_2130_04_v02__nearest_60x60_40c_auto_bg-auto20_qfirst",
+      "url": "remote://res/configs/out/run_7_1027_2130_04_v02__nearest_60x60_40c_auto_bg-auto20_qfirst.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "644",
+      "name": "run_2_0717_2049_05_v03",
+      "url": "remote://res/configs/out/run_2_0717_2049_05_v03.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "645",
+      "name": "run_2_1027_2130_03_v03__block_dominant_30x30_30c_auto_bg-auto20",
+      "url": "remote://res/configs/out/run_2_1027_2130_03_v03__block_dominant_30x30_30c_auto_bg-auto20.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "646",
+      "name": "run_3_0720_1731_02_v01",
+      "url": "remote://res/configs/out/run_3_0720_1731_02_v01.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "647",
+      "name": "run_6_1028_1219_03_v03",
+      "url": "remote://res/configs/out/run_6_1028_1219_03_v03.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "648",
+      "name": "run_0720_1731_02_v03",
+      "url": "remote://res/configs/out/run_0720_1731_02_v03.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "649",
+      "name": "run_1027_2122_05_v02__center_dominant_40x40_33c_auto_bg-auto20",
+      "url": "remote://res/configs/out/run_1027_2122_05_v02__center_dominant_40x40_33c_auto_bg-auto20.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "650",
+      "name": "run_0717_2049_03_v02",
+      "url": "remote://res/configs/out/run_0717_2049_03_v02.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "651",
+      "name": "run_3_0717_2049_02_v03",
+      "url": "remote://res/configs/out/run_3_0717_2049_02_v03.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "652",
+      "name": "run_3_1028_1219_02_v03",
+      "url": "remote://res/configs/out/run_3_1028_1219_02_v03.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "653",
+      "name": "run_4_0720_1731_02_v01",
+      "url": "remote://res/configs/out/run_4_0720_1731_02_v01.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "654",
+      "name": "run_0720_2105_03_v01",
+      "url": "remote://res/configs/out/run_0720_2105_03_v01.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "655",
+      "name": "run_2_0720_1731_03_v02",
+      "url": "remote://res/configs/out/run_2_0720_1731_03_v02.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "656",
+      "name": "run_2_0717_2049_06_v01",
+      "url": "remote://res/configs/out/run_2_0717_2049_06_v01.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "657",
+      "name": "run_4_0717_2049_02_v03",
+      "url": "remote://res/configs/out/run_4_0717_2049_02_v03.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "658",
+      "name": "run_5_1028_1219_04_v01",
+      "url": "remote://res/configs/out/run_5_1028_1219_04_v01.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "659",
+      "name": "run_8_1027_2130_02_v03__center_dominant_120x120_60c_auto_bg-auto40_qfirst",
+      "url": "remote://res/configs/out/run_8_1027_2130_02_v03__center_dominant_120x120_60c_auto_bg-auto40_qfirst.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "660",
+      "name": "run_7_1027_2130_05_v02__center_dominant_70x70_43c_auto_bg-auto40_qfirst",
+      "url": "remote://res/configs/out/run_7_1027_2130_05_v02__center_dominant_70x70_43c_auto_bg-auto40_qfirst.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "661",
+      "name": "run_3_0717_1524_07_v01",
+      "url": "remote://res/configs/out/run_3_0717_1524_07_v01.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "662",
+      "name": "run_0717_2049_03_v03",
+      "url": "remote://res/configs/out/run_0717_2049_03_v03.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "663",
+      "name": "run_2_1027_2130_04_v02__block_dominant_30x30_30c_auto_bg-auto20",
+      "url": "remote://res/configs/out/run_2_1027_2130_04_v02__block_dominant_30x30_30c_auto_bg-auto20.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "664",
+      "name": "run_0722_1739_05_v01",
+      "url": "remote://res/configs/out/run_0722_1739_05_v01.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "665",
+      "name": "run_1028_1436_03_v03",
+      "url": "remote://res/configs/out/run_1028_1436_03_v03.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "666",
+      "name": "run_0720_1731_03_v01",
+      "url": "remote://res/configs/out/run_0720_1731_03_v01.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "667",
+      "name": "run_0720_2105_04_v01",
+      "url": "remote://res/configs/out/run_0720_2105_04_v01.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "668",
+      "name": "run_2_0717_2049_06_v02",
+      "url": "remote://res/configs/out/run_2_0717_2049_06_v02.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "669",
+      "name": "run_3_0717_2049_03_v01",
+      "url": "remote://res/configs/out/run_3_0717_2049_03_v01.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "670",
+      "name": "run_2_0720_2105_02_v03",
+      "url": "remote://res/configs/out/run_2_0720_2105_02_v03.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "671",
+      "name": "run_3_0720_1731_02_v02",
+      "url": "remote://res/configs/out/run_3_0720_1731_02_v02.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "672",
+      "name": "run_2_0720_1731_04_v03",
+      "url": "remote://res/configs/out/run_2_0720_1731_04_v03.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "673",
+      "name": "run_0717_2049_05_v01",
+      "url": "remote://res/configs/out/run_0717_2049_05_v01.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "674",
+      "name": "run_2_1027_2130_05_v01__block_dominant_30x30_30c_auto_bg-auto20",
+      "url": "remote://res/configs/out/run_2_1027_2130_05_v01__block_dominant_30x30_30c_auto_bg-auto20.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "675",
+      "name": "run_4_0717_2049_03_v01",
+      "url": "remote://res/configs/out/run_4_0717_2049_03_v01.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    }
+  ],
+  "starType": 0
+}

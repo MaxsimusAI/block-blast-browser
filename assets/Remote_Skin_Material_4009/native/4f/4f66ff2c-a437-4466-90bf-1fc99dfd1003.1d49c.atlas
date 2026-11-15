@@ -1,0 +1,69 @@
+
+gameplay_eliminatePrompt_4009.png
+size: 497,242
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+Gem_touYing
+  rotate: false
+  xy: 334, 4
+  size: 124, 124
+  orig: 128, 128
+  offset: 2, 2
+  index: -1
+bk_b
+  rotate: false
+  xy: 57, 132
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+bk_c
+  rotate: false
+  xy: 167, 132
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+bk_g
+  rotate: false
+  xy: 277, 132
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+bk_o
+  rotate: false
+  xy: 387, 132
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+bk_p
+  rotate: false
+  xy: 4, 22
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+bk_r
+  rotate: false
+  xy: 114, 22
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+bk_y
+  rotate: false
+  xy: 224, 22
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+shyn_1
+  rotate: false
+  xy: 4, 189
+  size: 49, 49
+  orig: 55, 55
+  offset: 3, 3
+  index: -1

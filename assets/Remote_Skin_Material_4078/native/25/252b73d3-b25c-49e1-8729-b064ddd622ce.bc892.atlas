@@ -1,0 +1,111 @@
+
+gameplay_comboTips_078.png
+size: 1005,490
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+combo_tips_xin
+  rotate: false
+  xy: 2, 3
+  size: 220, 190
+  orig: 220, 190
+  offset: 0, 0
+  index: -1
+combo_tips_xin2
+  rotate: false
+  xy: 541, 112
+  size: 91, 81
+  orig: 94, 84
+  offset: 2, 2
+  index: -1
+combo_tips_xin3
+  rotate: false
+  xy: 678, 256
+  size: 263, 232
+  orig: 271, 239
+  offset: 4, 3
+  index: -1
+combo_tips_xin4
+  rotate: false
+  xy: 678, 22
+  size: 263, 232
+  orig: 271, 239
+  offset: 4, 3
+  index: -1
+guangyun
+  rotate: false
+  xy: 2, 195
+  size: 336, 293
+  orig: 353, 317
+  offset: 8, 12
+  index: -1
+h_tips_02
+  rotate: false
+  xy: 224, 10
+  size: 209, 183
+  orig: 260, 260
+  offset: 25, 39
+  index: -1
+huanggy
+  rotate: false
+  xy: 340, 195
+  size: 336, 293
+  orig: 353, 317
+  offset: 8, 12
+  index: -1
+lizi_1
+  rotate: false
+  xy: 943, 379
+  size: 54, 55
+  orig: 64, 73
+  offset: 6, 9
+  index: -1
+lizi_2
+  rotate: true
+  xy: 435, 2
+  size: 84, 85
+  orig: 99, 101
+  offset: 7, 8
+  index: -1
+newhigh_dan
+  rotate: false
+  xy: 435, 88
+  size: 104, 105
+  orig: 110, 111
+  offset: 3, 3
+  index: -1
+newhigh_dan_2
+  rotate: true
+  xy: 541, 26
+  size: 84, 85
+  orig: 100, 100
+  offset: 8, 8
+  index: -1
+qlz
+  rotate: false
+  xy: 634, 162
+  size: 31, 31
+  orig: 37, 37
+  offset: 3, 3
+  index: -1
+shuizhu_2
+  rotate: true
+  xy: 943, 259
+  size: 59, 46
+  orig: 75, 75
+  offset: 8, 15
+  index: -1
+shuizhu_3
+  rotate: false
+  xy: 943, 436
+  size: 60, 52
+  orig: 75, 75
+  offset: 7, 12
+  index: -1
+shuizhu_5
+  rotate: true
+  xy: 943, 320
+  size: 57, 50
+  orig: 75, 75
+  offset: 9, 13
+  index: -1

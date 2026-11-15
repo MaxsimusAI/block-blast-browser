@@ -1,0 +1,13 @@
+
+gameplay_text.png
+size: 396,54
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+New block unlock
+  rotate: false
+  xy: 4, 4
+  size: 388, 46
+  orig: 390, 46
+  offset: 1, 0
+  index: -1

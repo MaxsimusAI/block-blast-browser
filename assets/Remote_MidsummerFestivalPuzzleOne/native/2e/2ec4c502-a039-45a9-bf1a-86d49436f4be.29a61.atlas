@@ -1,0 +1,97 @@
+
+gameplay_midsummer_biankuang.png
+size: 512,512
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+biankuang
+  rotate: true
+  xy: 129, 126
+  size: 108, 150
+  orig: 112, 154
+  offset: 2, 2
+  index: -1
+biankuang2
+  rotate: true
+  xy: 90, 238
+  size: 116, 158
+  orig: 120, 164
+  offset: 2, 3
+  index: -1
+biankuang_a_00029
+  rotate: true
+  xy: 4, 11
+  size: 120, 121
+  orig: 122, 125
+  offset: 1, 2
+  index: -1
+guang
+  rotate: false
+  xy: 4, 135
+  size: 82, 284
+  orig: 93, 284
+  offset: 6, 0
+  index: -1
+guang_1c
+  rotate: false
+  xy: 283, 158
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+guang_1x
+  rotate: true
+  xy: 90, 358
+  size: 61, 256
+  orig: 93, 284
+  offset: 17, 14
+  index: -1
+guang_2
+  rotate: true
+  xy: 252, 270
+  size: 84, 127
+  orig: 84, 127
+  offset: 0, 0
+  index: -1
+hua_1
+  rotate: true
+  xy: 90, 160
+  size: 34, 32
+  orig: 80, 80
+  offset: 23, 24
+  index: -1
+hua_2
+  rotate: false
+  xy: 283, 114
+  size: 40, 40
+  orig: 80, 80
+  offset: 20, 20
+  index: -1
+hua_3
+  rotate: false
+  xy: 90, 198
+  size: 35, 36
+  orig: 80, 80
+  offset: 22, 22
+  index: -1
+hua_5
+  rotate: false
+  xy: 252, 238
+  size: 28, 28
+  orig: 80, 80
+  offset: 26, 26
+  index: -1
+hua_6
+  rotate: false
+  xy: 129, 92
+  size: 30, 30
+  orig: 80, 80
+  offset: 25, 26
+  index: -1
+ye
+  rotate: true
+  xy: 350, 360
+  size: 59, 69
+  orig: 80, 80
+  offset: 11, 1
+  index: -1

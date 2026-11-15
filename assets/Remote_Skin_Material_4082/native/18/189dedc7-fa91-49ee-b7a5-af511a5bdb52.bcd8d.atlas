@@ -1,0 +1,104 @@
+
+gameplay_combo_sunmer_xin.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bf_a1
+  rotate: true
+  xy: 603, 6
+  size: 36, 42
+  orig: 41, 46
+  offset: 3, 1
+  index: -1
+bf_a2
+  rotate: false
+  xy: 558, 6
+  size: 43, 36
+  orig: 47, 39
+  offset: 2, 2
+  index: -1
+bf_b1
+  rotate: true
+  xy: 647, 9
+  size: 33, 45
+  orig: 37, 48
+  offset: 2, 2
+  index: -1
+bf_b2
+  rotate: true
+  xy: 694, 9
+  size: 34, 31
+  orig: 37, 35
+  offset: 1, 2
+  index: -1
+bf_e1
+  rotate: true
+  xy: 692, 45
+  size: 33, 45
+  orig: 37, 48
+  offset: 2, 2
+  index: -1
+bf_e2
+  rotate: true
+  xy: 727, 9
+  size: 34, 31
+  orig: 37, 35
+  offset: 1, 2
+  index: -1
+combo_qb_08
+  rotate: true
+  xy: 248, 23
+  size: 231, 230
+  orig: 236, 235
+  offset: 3, 2
+  index: -1
+gy
+  rotate: false
+  xy: 2, 10
+  size: 244, 244
+  orig: 282, 282
+  offset: 19, 19
+  index: -1
+liz_1
+  rotate: false
+  xy: 692, 159
+  size: 95, 95
+  orig: 113, 113
+  offset: 9, 9
+  index: -1
+quan3
+  rotate: false
+  xy: 480, 44
+  size: 210, 210
+  orig: 223, 224
+  offset: 7, 7
+  index: -1
+suihuaban_1
+  rotate: true
+  xy: 692, 80
+  size: 77, 53
+  orig: 85, 60
+  offset: 4, 4
+  index: -1
+suihuaban_3
+  rotate: true
+  xy: 480, 2
+  size: 40, 76
+  orig: 50, 80
+  offset: 5, 2
+  index: -1
+suihuaban_6
+  rotate: true
+  xy: 747, 77
+  size: 80, 49
+  orig: 90, 60
+  offset: 5, 6
+  index: -1
+xing
+  rotate: false
+  xy: 760, 29
+  size: 46, 46
+  orig: 60, 60
+  offset: 7, 7
+  index: -1

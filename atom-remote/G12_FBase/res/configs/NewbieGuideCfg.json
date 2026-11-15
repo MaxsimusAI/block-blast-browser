@@ -1,0 +1,44 @@
+{
+    "guideConfigs": {
+        "step1": [
+            {
+                "target": [1, "PigList", 0, 0],
+                "conditions": [5, 3],
+                "tipText": "Tap a box to place on the track.",
+                "tipTextPos": [0, 155],
+                "tipTextWidth": 600,
+                "tipTextHeight": 200
+            },
+            {
+                "target": [1],
+                "conditions": [6, 4, "PigEmpty"],
+                "tipText": "Wait for box to travel.",
+                "tipTextPos": [0, 160],
+                "tipTextWidth": 760,
+                "tipTextHeight": 200
+            },
+            {
+                "target": [1, "PigEmpty", 0],
+                "conditions": [6, 3],
+                "tipText": "Boxs go back to slots.Be careful to not fill up the slots!",
+                "tipTextPos": [0, 145],
+                "tipTextWidth": 650,
+                "tipTextHeight": 200
+            }
+        ],
+        "condition1": [2, 1]
+    },
+    "tipTextColor": 16777215,
+    "tipTextFontSize": 60,
+    "tipTextOffset": 0.5625,
+    "defaultLittleHandPos": {
+        "x": 10000,
+        "y": 10000
+    },
+    "clickAreaWidth": 50,
+    "clickAreaHeight": 70,
+    "handOffset": {
+        "x": 0,
+        "y": 0
+    }
+}

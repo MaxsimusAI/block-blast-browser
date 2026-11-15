@@ -1,0 +1,20 @@
+
+result_bg_effect_bestscore_xin.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiesuan_hua_1
+  rotate: false
+  xy: 2, 2
+  size: 167, 158
+  orig: 170, 170
+  offset: 1, 6
+  index: -1
+jiesuan_hua_2
+  rotate: false
+  xy: 171, 33
+  size: 134, 127
+  orig: 140, 140
+  offset: 3, 6
+  index: -1

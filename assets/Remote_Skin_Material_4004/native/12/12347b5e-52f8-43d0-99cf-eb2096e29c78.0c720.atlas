@@ -1,0 +1,90 @@
+
+gameplay_comboTips_4004.png
+size: 992,580
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c_tips_01
+  rotate: true
+  xy: 820, 118
+  size: 201, 166
+  orig: 206, 172
+  offset: 2, 3
+  index: -1
+c_tips_02
+  rotate: false
+  xy: 592, 182
+  size: 226, 185
+  orig: 228, 187
+  offset: 1, 1
+  index: -1
+c_tips_03
+  rotate: false
+  xy: 2, 2
+  size: 293, 238
+  orig: 295, 241
+  offset: 1, 2
+  index: -1
+cailizi_1
+  rotate: true
+  xy: 941, 401
+  size: 6, 7
+  orig: 10, 10
+  offset: 2, 2
+  index: -1
+guangyun
+  rotate: true
+  xy: 2, 242
+  size: 336, 293
+  orig: 353, 317
+  offset: 8, 12
+  index: -1
+h_tips_01
+  rotate: false
+  xy: 592, 28
+  size: 185, 152
+  orig: 190, 158
+  offset: 2, 3
+  index: -1
+h_tips_02
+  rotate: false
+  xy: 592, 369
+  size: 255, 209
+  orig: 259, 212
+  offset: 2, 2
+  index: -1
+h_tips_04
+  rotate: false
+  xy: 849, 321
+  size: 90, 86
+  orig: 102, 104
+  offset: 7, 9
+  index: -1
+huanggy
+  rotate: true
+  xy: 297, 242
+  size: 336, 293
+  orig: 353, 317
+  offset: 8, 12
+  index: -1
+lizi_2
+  rotate: false
+  xy: 779, 31
+  size: 84, 85
+  orig: 99, 101
+  offset: 7, 8
+  index: -1
+tips_01
+  rotate: true
+  xy: 849, 409
+  size: 169, 141
+  orig: 175, 146
+  offset: 3, 3
+  index: -1
+tips_02
+  rotate: false
+  xy: 297, 2
+  size: 293, 238
+  orig: 295, 241
+  offset: 1, 2
+  index: -1

@@ -1,0 +1,97 @@
+
+gameplay_comboTips_5006_1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c_b_0
+  rotate: false
+  xy: 2, 272
+  size: 159, 131
+  orig: 161, 132
+  offset: 1, 1
+  index: -1
+c_c_0
+  rotate: false
+  xy: 141, 112
+  size: 159, 131
+  orig: 161, 132
+  offset: 1, 1
+  index: -1
+c_p_0
+  rotate: true
+  xy: 302, 84
+  size: 159, 131
+  orig: 161, 132
+  offset: 1, 1
+  index: -1
+c_p_add
+  rotate: false
+  xy: 2, 2
+  size: 132, 108
+  orig: 161, 132
+  offset: 16, 16
+  index: -1
+c_ring_1
+  rotate: true
+  xy: 163, 245
+  size: 158, 137
+  orig: 174, 151
+  offset: 8, 7
+  index: -1
+c_ring_3
+  rotate: true
+  xy: 2, 112
+  size: 158, 137
+  orig: 174, 151
+  offset: 8, 7
+  index: -1
+c_ring_33
+  rotate: true
+  xy: 302, 245
+  size: 158, 137
+  orig: 174, 151
+  offset: 8, 7
+  index: -1
+glowLight
+  rotate: true
+  xy: 136, 43
+  size: 29, 28
+  orig: 32, 32
+  offset: 1, 2
+  index: -1
+par_01
+  rotate: false
+  xy: 136, 74
+  size: 36, 36
+  orig: 44, 44
+  offset: 4, 4
+  index: -1
+par_b
+  rotate: true
+  xy: 174, 76
+  size: 34, 32
+  orig: 36, 34
+  offset: 1, 1
+  index: -1
+par_g
+  rotate: true
+  xy: 208, 76
+  size: 34, 32
+  orig: 36, 34
+  offset: 1, 1
+  index: -1
+par_p
+  rotate: true
+  xy: 242, 76
+  size: 34, 32
+  orig: 36, 34
+  offset: 1, 1
+  index: -1
+par_pu
+  rotate: false
+  xy: 276, 50
+  size: 34, 32
+  orig: 36, 34
+  offset: 1, 1
+  index: -1

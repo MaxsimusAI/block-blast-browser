@@ -1,0 +1,20 @@
+
+gameplay_bg_lizi.png
+size: 115,60
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fangkuai01
+  rotate: true
+  xy: 56, 2
+  size: 56, 57
+  orig: 58, 59
+  offset: 1, 1
+  index: -1
+fangkuai02
+  rotate: false
+  xy: 2, 6
+  size: 52, 52
+  orig: 54, 54
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,111 @@
+
+gameplay_midsummer02_popup_lit.png
+size: 1024,512
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+biankuang2
+  rotate: false
+  xy: 391, 179
+  size: 230, 315
+  orig: 960, 1313
+  offset: 365, 499
+  index: -1
+biankuang_02
+  rotate: false
+  xy: 625, 193
+  size: 215, 301
+  orig: 897, 1237
+  offset: 341, 468
+  index: -1
+biankuang_a_00029_02
+  rotate: true
+  xy: 643, 4
+  size: 120, 121
+  orig: 122, 125
+  offset: 1, 2
+  index: -1
+guang
+  rotate: true
+  xy: 4, 25
+  size: 82, 284
+  orig: 93, 284
+  offset: 6, 0
+  index: -1
+guang_1
+  rotate: false
+  xy: 4, 111
+  size: 383, 383
+  orig: 383, 383
+  offset: 0, 0
+  index: -1
+guang_1x
+  rotate: true
+  xy: 643, 128
+  size: 61, 256
+  orig: 93, 284
+  offset: 17, 14
+  index: -1
+guang_2
+  rotate: false
+  xy: 844, 240
+  size: 169, 254
+  orig: 169, 254
+  offset: 0, 0
+  index: -1
+hua_1
+  rotate: false
+  xy: 844, 199
+  size: 46, 37
+  orig: 80, 80
+  offset: 17, 21
+  index: -1
+hua_2
+  rotate: false
+  xy: 934, 190
+  size: 46, 46
+  orig: 80, 80
+  offset: 17, 17
+  index: -1
+hua_3
+  rotate: false
+  xy: 768, 69
+  size: 56, 55
+  orig: 80, 80
+  offset: 12, 13
+  index: -1
+hua_5
+  rotate: false
+  xy: 828, 77
+  size: 47, 47
+  orig: 80, 80
+  offset: 16, 16
+  index: -1
+hua_6
+  rotate: false
+  xy: 894, 201
+  size: 36, 35
+  orig: 80, 80
+  offset: 22, 23
+  index: -1
+lit_fg
+  rotate: true
+  xy: 391, 10
+  size: 165, 248
+  orig: 165, 248
+  offset: 0, 0
+  index: -1
+lit_ks
+  rotate: false
+  xy: 768, 11
+  size: 55, 54
+  orig: 79, 79
+  offset: 11, 13
+  index: -1
+ye
+  rotate: false
+  xy: 292, 38
+  size: 59, 69
+  orig: 80, 80
+  offset: 11, 1
+  index: -1

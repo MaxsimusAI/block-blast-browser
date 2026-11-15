@@ -1,0 +1,90 @@
+
+gameplay_clear_unbelievable_4007.png
+size: 667,578
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Unbelievable
+  rotate: false
+  xy: 2, 478
+  size: 640, 98
+  orig: 641, 98
+  offset: 0, 0
+  index: -1
+c_tips_04
+  rotate: false
+  xy: 579, 8
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+c_tips_05
+  rotate: true
+  xy: 620, 12
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+c_tips_06
+  rotate: false
+  xy: 633, 103
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+c_tips_07
+  rotate: false
+  xy: 579, 47
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+c_tips_08
+  rotate: false
+  xy: 619, 50
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+effects_rainbow
+  rotate: true
+  xy: 478, 312
+  size: 164, 157
+  orig: 164, 164
+  offset: 0, 6
+  index: -1
+kuang2
+  rotate: false
+  xy: 2, 2
+  size: 474, 474
+  orig: 480, 480
+  offset: 3, 3
+  index: -1
+nun_300
+  rotate: true
+  xy: 478, 17
+  size: 293, 99
+  orig: 295, 101
+  offset: 1, 1
+  index: -1
+xh
+  rotate: false
+  xy: 579, 143
+  size: 75, 80
+  orig: 87, 91
+  offset: 6, 6
+  index: -1
+xq
+  rotate: false
+  xy: 579, 225
+  size: 80, 85
+  orig: 113, 113
+  offset: 16, 14
+  index: -1
+zi_5
+  rotate: false
+  xy: 579, 88
+  size: 52, 53
+  orig: 60, 60
+  offset: 4, 4
+  index: -1

@@ -1,0 +1,20 @@
+
+gameplay_boxGone.png
+size: 132,111
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+glow03
+  rotate: false
+  xy: 4, 4
+  size: 107, 103
+  orig: 118, 118
+  offset: 4, 7
+  index: -1
+par_03
+  rotate: false
+  xy: 115, 93
+  size: 13, 14
+  orig: 15, 16
+  offset: 1, 1
+  index: -1

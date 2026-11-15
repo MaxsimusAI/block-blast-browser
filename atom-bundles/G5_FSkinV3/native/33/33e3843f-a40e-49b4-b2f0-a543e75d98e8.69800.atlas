@@ -1,0 +1,132 @@
+
+gameplay_word.png
+size: 838,528
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+amazing
+  rotate: false
+  xy: 4, 294
+  size: 447, 124
+  orig: 448, 125
+  offset: 1, 0
+  index: -1
+excellent!
+  rotate: false
+  xy: 4, 188
+  size: 431, 102
+  orig: 432, 104
+  offset: 1, 1
+  index: -1
+good
+  rotate: false
+  xy: 187, 82
+  size: 288, 102
+  orig: 290, 104
+  offset: 1, 1
+  index: -1
+great
+  rotate: true
+  xy: 674, 151
+  size: 302, 102
+  orig: 304, 104
+  offset: 1, 1
+  index: -1
+tx/glow1
+  rotate: true
+  xy: 4, 4
+  size: 180, 179
+  orig: 232, 232
+  offset: 26, 26
+  index: -1
+tx/s1_2
+  rotate: false
+  xy: 455, 204
+  size: 215, 214
+  orig: 215, 216
+  offset: 0, 1
+  index: -1
+tx/s2
+  rotate: false
+  xy: 479, 7
+  size: 188, 193
+  orig: 198, 201
+  offset: 5, 2
+  index: -1
+unbelievable
+  rotate: false
+  xy: 4, 422
+  size: 626, 102
+  orig: 626, 104
+  offset: 0, 1
+  index: -1
+xx_huang
+  rotate: false
+  xy: 441, 45
+  size: 32, 33
+  orig: 36, 36
+  offset: 2, 1
+  index: -1
+xx_lan
+  rotate: false
+  xy: 772, 50
+  size: 35, 35
+  orig: 39, 39
+  offset: 2, 2
+  index: -1
+xx_lv
+  rotate: false
+  xy: 780, 231
+  size: 35, 35
+  orig: 39, 39
+  offset: 2, 2
+  index: -1
+xx_zi
+  rotate: false
+  xy: 780, 270
+  size: 37, 37
+  orig: 43, 43
+  offset: 3, 3
+  index: -1
+zi_guang1
+  rotate: false
+  xy: 671, 36
+  size: 97, 49
+  orig: 107, 59
+  offset: 5, 5
+  index: -1
+zi_guang2
+  rotate: false
+  xy: 332, 28
+  size: 105, 50
+  orig: 113, 58
+  offset: 4, 4
+  index: -1
+zi_guang3
+  rotate: false
+  xy: 187, 14
+  size: 141, 64
+  orig: 153, 77
+  offset: 6, 6
+  index: -1
+zi_guang4
+  rotate: false
+  xy: 671, 89
+  size: 144, 58
+  orig: 153, 68
+  offset: 5, 5
+  index: -1
+zi_guang5
+  rotate: true
+  xy: 780, 311
+  size: 142, 50
+  orig: 152, 60
+  offset: 5, 5
+  index: -1
+zi_guang6
+  rotate: false
+  xy: 634, 457
+  size: 200, 67
+  orig: 218, 84
+  offset: 9, 8
+  index: -1

@@ -1,0 +1,13 @@
+
+Fruit_02f.png
+size: 277,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fruit_02_body_01
+  rotate: false
+  xy: 2, 2
+  size: 273, 284
+  orig: 275, 286
+  offset: 1, 1
+  index: -1

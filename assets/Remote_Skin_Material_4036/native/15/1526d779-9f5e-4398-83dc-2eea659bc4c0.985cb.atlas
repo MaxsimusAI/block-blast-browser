@@ -1,0 +1,90 @@
+
+gameplay_comboTips_4036.png
+size: 220,973
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+xin_10b
+  rotate: false
+  xy: 4, 73
+  size: 103, 103
+  orig: 109, 109
+  offset: 3, 3
+  index: -1
+xin_10c
+  rotate: false
+  xy: 111, 4
+  size: 103, 103
+  orig: 109, 109
+  offset: 3, 3
+  index: -1
+xin_11
+  rotate: false
+  xy: 122, 111
+  size: 85, 85
+  orig: 87, 87
+  offset: 1, 1
+  index: -1
+xin_15
+  rotate: false
+  xy: 134, 304
+  size: 35, 35
+  orig: 39, 39
+  offset: 2, 2
+  index: -1
+xin_3
+  rotate: false
+  xy: 4, 790
+  size: 179, 179
+  orig: 185, 185
+  offset: 3, 3
+  index: -1
+xin_3b
+  rotate: false
+  xy: 4, 609
+  size: 177, 177
+  orig: 185, 185
+  offset: 4, 4
+  index: -1
+xin_3c
+  rotate: false
+  xy: 4, 428
+  size: 177, 177
+  orig: 185, 185
+  offset: 4, 4
+  index: -1
+xin_4
+  rotate: false
+  xy: 134, 343
+  size: 81, 81
+  orig: 83, 83
+  offset: 1, 1
+  index: -1
+xin_6
+  rotate: false
+  xy: 187, 952
+  size: 17, 17
+  orig: 19, 19
+  offset: 1, 1
+  index: -1
+xin_7
+  rotate: false
+  xy: 4, 298
+  size: 126, 126
+  orig: 130, 130
+  offset: 2, 2
+  index: -1
+xin_8
+  rotate: false
+  xy: 122, 200
+  size: 94, 94
+  orig: 100, 100
+  offset: 3, 3
+  index: -1
+xin_9
+  rotate: false
+  xy: 4, 180
+  size: 114, 114
+  orig: 130, 130
+  offset: 8, 8
+  index: -1

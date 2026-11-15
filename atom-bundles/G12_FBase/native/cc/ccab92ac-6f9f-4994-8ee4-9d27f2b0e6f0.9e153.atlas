@@ -1,0 +1,13 @@
+
+gameplay_keyOn.png
+size: 109,167
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+key_a
+  rotate: false
+  xy: 4, 4
+  size: 101, 159
+  orig: 101, 159
+  offset: 0, 0
+  index: -1

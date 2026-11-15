@@ -1,0 +1,27 @@
+
+gameplay_pointadd_sunmer_xin.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gy_1
+  rotate: false
+  xy: 2, 25
+  size: 348, 72
+  orig: 374, 78
+  offset: 13, 3
+  index: -1
+liz_1
+  rotate: false
+  xy: 449, 37
+  size: 60, 60
+  orig: 120, 120
+  offset: 30, 30
+  index: -1
+liz_2
+  rotate: false
+  xy: 352, 2
+  size: 95, 95
+  orig: 113, 113
+  offset: 9, 9
+  index: -1

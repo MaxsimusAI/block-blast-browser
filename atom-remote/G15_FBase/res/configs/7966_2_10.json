@@ -1,0 +1,325 @@
+{
+  "singles": [
+    {
+      "id": "356",
+      "name": "run_0604_1959_12_v02",
+      "url": "remote://res/configs/out/run_0604_1959_12_v02.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "357",
+      "name": "run_0605_1250_10_v03",
+      "url": "remote://res/configs/out/run_0605_1250_10_v03.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "358",
+      "name": "run_0630_1021_05_v01",
+      "url": "remote://res/configs/out/run_0630_1021_05_v01.ast2.json",
+      "isLock": true,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "359",
+      "name": "run_0630_1155_08_v02",
+      "url": "remote://res/configs/out/run_0630_1155_08_v02.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "360",
+      "name": "run_0604_1916_07_v01",
+      "url": "remote://res/configs/out/run_0604_1916_07_v01.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "361",
+      "name": "run_0604_1911_02_v02",
+      "url": "remote://res/configs/out/run_0604_1911_02_v02.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "362",
+      "name": "run_0605_1250_05_v02",
+      "url": "remote://res/configs/out/run_0605_1250_05_v02.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "363",
+      "name": "run_0604_1959_05_v01",
+      "url": "remote://res/configs/out/run_0604_1959_05_v01.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "364",
+      "name": "r2026_29_v03",
+      "url": "remote://res/configs/out/r2026_29_v03.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "365",
+      "name": "themes61_c08_tropical_humid_woman_v04",
+      "url": "remote://res/configs/out/themes61_c08_tropical_humid_woman_v04.ast2.json",
+      "isLock": true,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "366",
+      "name": "run_3_0630_2054_01_v03",
+      "url": "remote://res/configs/out/run_3_0630_2054_01_v03.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "367",
+      "name": "run_2_0630_1155_01_v03",
+      "url": "remote://res/configs/out/run_2_0630_1155_01_v03.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "368",
+      "name": "run_4_0605_1250_05_v01",
+      "url": "remote://res/configs/out/run_4_0605_1250_05_v01.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "369",
+      "name": "run_0605_1250_01_v03",
+      "url": "remote://res/configs/out/run_0605_1250_01_v03.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "370",
+      "name": "r2026_46_v01",
+      "url": "remote://res/configs/out/r2026_46_v01.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "371",
+      "name": "run_051_v01",
+      "url": "remote://res/configs/out/run_051_v01.ast2.json",
+      "isLock": true,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "372",
+      "name": "run_3_0605_1526_06_v01",
+      "url": "remote://res/configs/out/run_3_0605_1526_06_v01.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "373",
+      "name": "run_0701_1128_05_v01",
+      "url": "remote://res/configs/out/run_0701_1128_05_v01.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "374",
+      "name": "run_0630_2054_03_v01",
+      "url": "remote://res/configs/out/run_0630_2054_03_v01.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "375",
+      "name": "run_2_0630_1155_06_v01",
+      "url": "remote://res/configs/out/run_2_0630_1155_06_v01.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "376",
+      "name": "run_041_v03",
+      "url": "remote://res/configs/out/run_041_v03.ast2.json",
+      "isLock": true,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "377",
+      "name": "run_3_0604_1959_03_v01",
+      "url": "remote://res/configs/out/run_3_0604_1959_03_v01.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "378",
+      "name": "hsai_raw_image_generate_1774346516_a438377245_r1c1",
+      "url": "remote://res/configs/out/hsai_raw_image_generate_1774346516_a438377245_r1c1.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "379",
+      "name": "run_03_v02",
+      "url": "remote://res/configs/out/run_03_v02.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "380",
+      "name": "run_3_0605_1250_03_v02",
+      "url": "remote://res/configs/out/run_3_0605_1250_03_v02.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "381",
+      "name": "run_2_0701_1128_04_v01",
+      "url": "remote://res/configs/out/run_2_0701_1128_04_v01.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "382",
+      "name": "r2026_31_v03",
+      "url": "remote://res/configs/out/r2026_31_v03.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "383",
+      "name": "run_0630_1021_05_v02",
+      "url": "remote://res/configs/out/run_0630_1021_05_v02.ast2.json",
+      "isLock": true,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "384",
+      "name": "hsai_raw_image_generate_1773888905_2db3469c4e_r1c1",
+      "url": "remote://res/configs/out/hsai_raw_image_generate_1773888905_2db3469c4e_r1c1.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "385",
+      "name": "g9_001",
+      "url": "remote://res/configs/out/g9_001.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "386",
+      "name": "hsai_raw_image_generate_1773888576_2de038ce90_r0c1",
+      "url": "remote://res/configs/out/hsai_raw_image_generate_1773888576_2de038ce90_r0c1.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "387",
+      "name": "run_0604_1916_05_v03",
+      "url": "remote://res/configs/out/run_0604_1916_05_v03.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "388",
+      "name": "run_04_v01",
+      "url": "remote://res/configs/out/run_04_v01.ast2.json",
+      "isLock": true,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "389",
+      "name": "r2026_45_v03",
+      "url": "remote://res/configs/out/r2026_45_v03.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "390",
+      "name": "run_3_0605_1526_10_v03",
+      "url": "remote://res/configs/out/run_3_0605_1526_10_v03.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "391",
+      "name": "run_6_0605_1526_07_v02",
+      "url": "remote://res/configs/out/run_6_0605_1526_07_v02.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "392",
+      "name": "run_0701_1128_02_v02",
+      "url": "remote://res/configs/out/run_0701_1128_02_v02.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "393",
+      "name": "run_2_0701_1128_04_v03",
+      "url": "remote://res/configs/out/run_2_0701_1128_04_v03.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "394",
+      "name": "themes61_f01_violinist_concert_woman_v04",
+      "url": "remote://res/configs/out/themes61_f01_violinist_concert_woman_v04.ast2.json",
+      "isLock": true,
+      "updateTime": "",
+      "starType": 0
+    },
+    {
+      "id": "395",
+      "name": "generated23",
+      "url": "remote://res/configs/out/generated23.ast2.json",
+      "isLock": false,
+      "updateTime": "",
+      "starType": 0
+    }
+  ],
+  "starType": 0
+}

@@ -1,0 +1,20 @@
+
+gameplay_loading_animation.png
+size: 24,24
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box_01
+  rotate: false
+  xy: 2, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+box_02
+  rotate: false
+  xy: 2, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1

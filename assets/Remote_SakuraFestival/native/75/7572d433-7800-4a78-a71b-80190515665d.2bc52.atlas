@@ -1,0 +1,265 @@
+
+gameplay_combo_vfx.png
+size: 1853,1733
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+flower_1
+  rotate: true
+  xy: 922, 922
+  size: 33, 36
+  orig: 34, 36
+  offset: 1, 0
+  index: -1
+flower_2
+  rotate: true
+  xy: 999, 926
+  size: 29, 37
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+flower_3
+  rotate: false
+  xy: 999, 902
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+flower_4
+  rotate: false
+  xy: 876, 913
+  size: 42, 42
+  orig: 42, 43
+  offset: 0, 1
+  index: -1
+flower_5
+  rotate: false
+  xy: 962, 924
+  size: 33, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: true
+  xy: 1134, 778
+  size: 951, 199
+  orig: 1037, 240
+  offset: 55, 40
+  index: -1
+png2/gameplay_img_kuang_00000
+  rotate: false
+  xy: 876, 1475
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+png2/gameplay_img_kuang_00001
+  rotate: false
+  xy: 4, 604
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+png2/gameplay_img_kuang_00002
+  rotate: false
+  xy: 262, 604
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+png2/gameplay_img_kuang_00003
+  rotate: false
+  xy: 520, 604
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+png2/gameplay_img_kuang_00004
+  rotate: false
+  xy: 778, 604
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+png2/gameplay_img_kuang_00005
+  rotate: false
+  xy: 876, 1217
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+png2/gameplay_img_kuang_00006
+  rotate: false
+  xy: 876, 959
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+png2/gameplay_img_kuang_00007
+  rotate: false
+  xy: 1036, 520
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+png2/gameplay_img_kuang_00008
+  rotate: false
+  xy: 1294, 520
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+png2/gameplay_img_kuang_00009
+  rotate: false
+  xy: 1337, 1475
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+png2/gameplay_img_kuang_00010
+  rotate: false
+  xy: 1337, 1217
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+png2/gameplay_img_kuang_00011
+  rotate: false
+  xy: 1337, 959
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+png2/gameplay_img_kuang_00012
+  rotate: false
+  xy: 1552, 701
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+png2/gameplay_img_kuang_00013
+  rotate: false
+  xy: 1552, 443
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+png2/gameplay_img_kuang_00014
+  rotate: false
+  xy: 1595, 1475
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+png2/gameplay_img_kuang_00015
+  rotate: false
+  xy: 1595, 1217
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+png2/gameplay_img_kuang_00016
+  rotate: false
+  xy: 1595, 959
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+png2/gameplay_img_kuang_00017
+  rotate: false
+  xy: 4, 346
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+png2/gameplay_img_kuang_00018
+  rotate: false
+  xy: 262, 346
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+png2/gameplay_img_kuang_00019
+  rotate: false
+  xy: 520, 346
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+png2/gameplay_img_kuang_00020
+  rotate: false
+  xy: 778, 346
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+png2/gameplay_img_kuang_00021
+  rotate: false
+  xy: 1036, 262
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+png2/gameplay_img_kuang_00022
+  rotate: false
+  xy: 1294, 262
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+png2/gameplay_img_kuang_00023
+  rotate: false
+  xy: 1552, 185
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+png2/gameplay_img_kuang_00024
+  rotate: false
+  xy: 4, 88
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+png2/gameplay_img_kuang_00025
+  rotate: false
+  xy: 262, 88
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+png2/gameplay_img_kuang_00026
+  rotate: false
+  xy: 520, 88
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+png2/gameplay_img_kuang_00027
+  rotate: false
+  xy: 778, 88
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+png2/gameplay_img_kuang_00028
+  rotate: false
+  xy: 1036, 4
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+png2/gameplay_img_kuang_00029
+  rotate: false
+  xy: 1294, 4
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+result_img_baikuang
+  rotate: true
+  xy: 4, 862
+  size: 867, 868
+  orig: 869, 870
+  offset: 1, 1
+  index: -1

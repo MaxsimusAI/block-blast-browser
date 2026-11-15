@@ -1,0 +1,62 @@
+
+gameplay_border_1.png
+size: 1024,1024
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+png2/gameplay_img_kuang_00000
+  rotate: false
+  xy: 4, 742
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+png2/gameplay_img_kuang_00002
+  rotate: false
+  xy: 4, 484
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+png2/gameplay_img_kuang_00004
+  rotate: false
+  xy: 262, 742
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+png2/gameplay_img_kuang_00006
+  rotate: false
+  xy: 4, 226
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+png2/gameplay_img_kuang_00008
+  rotate: false
+  xy: 262, 484
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+png2/gameplay_img_kuang_00010
+  rotate: false
+  xy: 520, 742
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+png2/gameplay_img_kuang_00012
+  rotate: false
+  xy: 262, 226
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+result_img_baikuang
+  rotate: false
+  xy: 4, 4
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1

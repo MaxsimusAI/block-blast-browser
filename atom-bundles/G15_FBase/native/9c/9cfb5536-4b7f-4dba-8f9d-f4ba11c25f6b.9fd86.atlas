@@ -1,0 +1,41 @@
+
+gameplay_novice_guide.png
+size: 397,251
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+XSYD_02
+  rotate: false
+  xy: 2, 53
+  size: 237, 196
+  orig: 237, 196
+  offset: 0, 0
+  index: -1
+XSYD_04
+  rotate: false
+  xy: 240, 21
+  size: 154, 77
+  orig: 157, 77
+  offset: 0, 0
+  index: -1
+XSYD_06
+  rotate: true
+  xy: 99, 3
+  size: 52, 73
+  orig: 52, 73
+  offset: 0, 0
+  index: -1
+XSYD_07a
+  rotate: false
+  xy: 2, 23
+  size: 95, 40
+  orig: 95, 40
+  offset: 0, 0
+  index: -1
+XSYD_10a
+  rotate: false
+  xy: 241, 100
+  size: 149, 149
+  orig: 153, 153
+  offset: 2, 2
+  index: -1

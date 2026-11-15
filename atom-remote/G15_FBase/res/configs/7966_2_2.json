@@ -1,0 +1,325 @@
+{
+    "singles": [
+        {
+            "id": "41",
+            "name": "themes61_g03_woman_birthday_candles_v05",
+            "url": "remote://res/configs/out/themes61_g03_woman_birthday_candles_v05.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 1
+        },
+        {
+            "id": "42",
+            "name": "theme_28_v04",
+            "url": "remote://res/configs/out/theme_28_v04.ast2.json",
+            "isLock": true,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "43",
+            "name": "top10_c03_panda_eating_bamboo_v03",
+            "url": "remote://res/configs/out/top10_c03_panda_eating_bamboo_v03.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "44",
+            "name": "hsai_raw_image_1776307206_702eb6a237_r3c3",
+            "url": "remote://res/configs/out/hsai_raw_image_1776307206_702eb6a237_r3c3.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 1
+        },
+        {
+            "id": "45",
+            "name": "theme_15_v04",
+            "url": "remote://res/configs/out/theme_15_v04.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "46",
+            "name": "top10_h01_vintage_red_convertible_v03",
+            "url": "remote://res/configs/out/top10_h01_vintage_red_convertible_v03.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "47",
+            "name": "111",
+            "url": "remote://res/configs/out/111.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "48",
+            "name": "hsai_raw_image_1776319333_7dab06b6c6_r1c0",
+            "url": "remote://res/configs/out/hsai_raw_image_1776319333_7dab06b6c6_r1c0.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "49",
+            "name": "themes61_a03_art_deco_woman_v04",
+            "url": "remote://res/configs/out/themes61_a03_art_deco_woman_v04.ast2.json",
+            "isLock": true,
+            "updateTime": "2026-06-25",
+            "starType": 1
+        },
+        {
+            "id": "50",
+            "name": "theme_27_v04",
+            "url": "remote://res/configs/out/theme_27_v04.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "51",
+            "name": "top10_c07_tabby_cat_curled_v03",
+            "url": "remote://res/configs/out/top10_c07_tabby_cat_curled_v03.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "52",
+            "name": "hsai_raw_image_1776324039_30b27f0414_r1c1",
+            "url": "remote://res/configs/out/hsai_raw_image_1776324039_30b27f0414_r1c1.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "53",
+            "name": "hsai_raw_image_1776170839_42e15140ac_r0c1",
+            "url": "remote://res/configs/out/hsai_raw_image_1776170839_42e15140ac_r0c1.ast2.json",
+            "isLock": true,
+            "updateTime": "2026-06-25",
+            "starType": 1
+        },
+        {
+            "id": "54",
+            "name": "hsai_raw_image_1776082400_438e5da3d2_r1c3",
+            "url": "remote://res/configs/out/hsai_raw_image_1776082400_438e5da3d2_r1c3.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "55",
+            "name": "hsai_raw_image_1776152494_d9503c3cf3_r0c0",
+            "url": "remote://res/configs/out/hsai_raw_image_1776152494_d9503c3cf3_r0c0.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "56",
+            "name": "generated35",
+            "url": "remote://res/configs/out/generated35.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "57",
+            "name": "hsai_raw_image_1775620722_c4c7232336_r3c2",
+            "url": "remote://res/configs/out/hsai_raw_image_1775620722_c4c7232336_r3c2.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 1
+        },
+        {
+            "id": "58",
+            "name": "hsai_raw_image_1776324039_69f8109d69_r2c0",
+            "url": "remote://res/configs/out/hsai_raw_image_1776324039_69f8109d69_r2c0.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "59",
+            "name": "hsai_raw_image_1776307206_702eb6a237_r0c3",
+            "url": "remote://res/configs/out/hsai_raw_image_1776307206_702eb6a237_r0c3.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "60",
+            "name": "hsai_raw_image_1776318650_af9b2ba5e5_r0c3",
+            "url": "remote://res/configs/out/hsai_raw_image_1776318650_af9b2ba5e5_r0c3.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "61",
+            "name": "top10_b10_french_cheese_wine_board_v01",
+            "url": "remote://res/configs/out/top10_b10_french_cheese_wine_board_v01.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "62",
+            "name": "hsai_raw_image_1776161284_7ad25605ed_r1c2",
+            "url": "remote://res/configs/out/hsai_raw_image_1776161284_7ad25605ed_r1c2.ast2.json",
+            "isLock": true,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "63",
+            "name": "hsai_raw_image_1776307206_932d22d9ca_r0c2",
+            "url": "remote://res/configs/out/hsai_raw_image_1776307206_932d22d9ca_r0c2.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "64",
+            "name": "hsai_raw_image_1776307206_932d22d9ca_r2c1",
+            "url": "remote://res/configs/out/hsai_raw_image_1776307206_932d22d9ca_r2c1.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 1
+        },
+        {
+            "id": "65",
+            "name": "hsai_raw_image_1776170839_6ad38c3004_r0c0",
+            "url": "remote://res/configs/out/hsai_raw_image_1776170839_6ad38c3004_r0c0.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 1
+        },
+        {
+            "id": "66",
+            "name": "hsai_raw_image_generate_1774951401_4b99a200a7_r2c0",
+            "url": "remote://res/configs/out/hsai_raw_image_generate_1774951401_4b99a200a7_r2c0.ast2.json",
+            "isLock": true,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "67",
+            "name": "hsai_raw_image_1776324039_61fe9c06c3_r2c1",
+            "url": "remote://res/configs/out/hsai_raw_image_1776324039_61fe9c06c3_r2c1.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "68",
+            "name": "hsai_raw_image_1776318650_af9b2ba5e5_r3c0",
+            "url": "remote://res/configs/out/hsai_raw_image_1776318650_af9b2ba5e5_r3c0.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "69",
+            "name": "hsai_raw_image_generate_1774337538_3723d38010_r0c1",
+            "url": "remote://res/configs/out/hsai_raw_image_generate_1774337538_3723d38010_r0c1.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 1
+        },
+        {
+            "id": "70",
+            "name": "top10_c04_red_squirrel_acorn_v01",
+            "url": "remote://res/configs/out/top10_c04_red_squirrel_acorn_v01.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "71",
+            "name": "hsai_raw_image_1776152494_d9503c3cf3_r0c3",
+            "url": "remote://res/configs/out/hsai_raw_image_1776152494_d9503c3cf3_r0c3.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 1
+        },
+        {
+            "id": "72",
+            "name": "hsai_raw_image_1776307206_fdbe9a450a_r3c2",
+            "url": "remote://res/configs/out/hsai_raw_image_1776307206_fdbe9a450a_r3c2.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "73",
+            "name": "hsai_raw_image_1776167354_0c5e992aab_r1c1",
+            "url": "remote://res/configs/out/hsai_raw_image_1776167354_0c5e992aab_r1c1.ast2.json",
+            "isLock": true,
+            "updateTime": "2026-06-25",
+            "starType": 1
+        },
+        {
+            "id": "74",
+            "name": "hsai_raw_image_1776164941_b35c49f12b_r2c0",
+            "url": "remote://res/configs/out/hsai_raw_image_1776164941_b35c49f12b_r2c0.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "75",
+            "name": "hsai_raw_image_1776238045_ab6bd68aa7_r0c0",
+            "url": "remote://res/configs/out/hsai_raw_image_1776238045_ab6bd68aa7_r0c0.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "76",
+            "name": "hsai_raw_image_1776324039_61fe9c06c3_r0c2",
+            "url": "remote://res/configs/out/hsai_raw_image_1776324039_61fe9c06c3_r0c2.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "77",
+            "name": "hsai_raw_image_generate_1773890087_68600316ea_r3c3",
+            "url": "remote://res/configs/out/hsai_raw_image_generate_1773890087_68600316ea_r3c3.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 1
+        },
+        {
+            "id": "78",
+            "name": "hsai_raw_image_1776319333_7dab06b6c6_r1c3",
+            "url": "remote://res/configs/out/hsai_raw_image_1776319333_7dab06b6c6_r1c3.ast2.json",
+            "isLock": true,
+            "updateTime": "2026-06-25",
+            "starType": 1
+        },
+        {
+            "id": "79",
+            "name": "hsai_raw_image_1776307206_702eb6a237_r1c2",
+            "url": "remote://res/configs/out/hsai_raw_image_1776307206_702eb6a237_r1c2.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        },
+        {
+            "id": "80",
+            "name": "hsai_raw_image_1776324039_d95a1642d4_r2c0",
+            "url": "remote://res/configs/out/hsai_raw_image_1776324039_d95a1642d4_r2c0.ast2.json",
+            "isLock": false,
+            "updateTime": "2026-06-25",
+            "starType": 0
+        }
+    ],
+    "starType": 0
+}

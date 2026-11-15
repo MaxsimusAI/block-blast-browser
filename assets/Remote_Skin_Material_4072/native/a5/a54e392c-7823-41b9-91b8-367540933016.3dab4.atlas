@@ -1,0 +1,174 @@
+
+gameplay_clear_unbelievable_072.png
+size: 840,216
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
++300
+  rotate: false
+  xy: 524, 136
+  size: 215, 76
+  orig: 217, 78
+  offset: 1, 1
+  index: -1
+Unbelievable_2
+  rotate: false
+  xy: 206, 67
+  size: 324, 58
+  orig: 325, 60
+  offset: 0, 1
+  index: -1
+p_12
+  rotate: false
+  xy: 475, 4
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+p_15
+  rotate: false
+  xy: 802, 94
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+p_16
+  rotate: false
+  xy: 392, 26
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+p_9
+  rotate: false
+  xy: 434, 4
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+word_1
+  rotate: false
+  xy: 743, 132
+  size: 65, 80
+  orig: 66, 81
+  offset: 1, 0
+  index: -1
+word_10
+  rotate: false
+  xy: 598, 21
+  size: 55, 82
+  orig: 56, 83
+  offset: 1, 0
+  index: -1
+word_11
+  rotate: true
+  xy: 434, 44
+  size: 19, 80
+  orig: 20, 81
+  offset: 1, 0
+  index: -1
+word_12
+  rotate: true
+  xy: 330, 10
+  size: 53, 58
+  orig: 54, 58
+  offset: 1, 0
+  index: -1
+word_13
+  rotate: true
+  xy: 598, 107
+  size: 25, 86
+  orig: 26, 87
+  offset: 1, 0
+  index: -1
+word_2
+  rotate: false
+  xy: 688, 77
+  size: 51, 55
+  orig: 52, 56
+  offset: 1, 0
+  index: -1
+word_3
+  rotate: true
+  xy: 742, 13
+  size: 54, 81
+  orig: 55, 82
+  offset: 1, 0
+  index: -1
+word_4
+  rotate: true
+  xy: 206, 10
+  size: 53, 58
+  orig: 54, 58
+  offset: 1, 0
+  index: -1
+word_5
+  rotate: false
+  xy: 812, 132
+  size: 19, 80
+  orig: 20, 81
+  offset: 1, 0
+  index: -1
+word_6
+  rotate: false
+  xy: 657, 23
+  size: 22, 80
+  orig: 23, 80
+  offset: 1, 0
+  index: -1
+word_7
+  rotate: true
+  xy: 268, 10
+  size: 53, 58
+  orig: 53, 58
+  offset: 0, 0
+  index: -1
+word_8
+  rotate: false
+  xy: 683, 18
+  size: 55, 55
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+word_9
+  rotate: false
+  xy: 743, 71
+  size: 55, 57
+  orig: 56, 58
+  offset: 1, 0
+  index: -1
+xc_20
+  rotate: false
+  xy: 4, 14
+  size: 198, 198
+  orig: 202, 202
+  offset: 2, 2
+  index: -1
+xc_23
+  rotate: false
+  xy: 534, 72
+  size: 60, 60
+  orig: 66, 66
+  offset: 3, 3
+  index: -1
+xc_24
+  rotate: false
+  xy: 206, 129
+  size: 314, 83
+  orig: 314, 83
+  offset: 0, 0
+  index: -1
+xc_27
+  rotate: false
+  xy: 534, 8
+  size: 60, 60
+  orig: 66, 66
+  offset: 3, 3
+  index: -1
+xc_28
+  rotate: false
+  xy: 657, 4
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1

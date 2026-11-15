@@ -1,0 +1,27 @@
+
+gameplay_advertising_stimulate_click.png
+size: 155,330
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CPJL_33
+  rotate: false
+  xy: 2, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+CPJL_37a
+  rotate: false
+  xy: 2, 177
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+CPJL_37a1
+  rotate: false
+  xy: 2, 24
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1

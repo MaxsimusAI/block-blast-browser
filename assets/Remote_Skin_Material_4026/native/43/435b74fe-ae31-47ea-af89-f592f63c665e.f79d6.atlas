@@ -1,0 +1,90 @@
+
+gameplay_ready_eliminate_026.png
+size: 236,101
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+BJLQ_keji_01
+  rotate: false
+  xy: 199, 52
+  size: 33, 17
+  orig: 33, 17
+  offset: 0, 0
+  index: -1
+BJLQ_keji_02
+  rotate: false
+  xy: 199, 73
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+BJLQ_keji_03
+  rotate: false
+  xy: 203, 9
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+BJLQ_keji_04
+  rotate: false
+  xy: 203, 28
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+BJLQ_lizi_04_cheng
+  rotate: false
+  xy: 35, 45
+  size: 37, 52
+  orig: 37, 54
+  offset: 0, 0
+  index: -1
+BJLQ_lizi_04_hong
+  rotate: true
+  xy: 35, 4
+  size: 37, 52
+  orig: 37, 54
+  offset: 0, 0
+  index: -1
+BJLQ_lizi_04_huang
+  rotate: false
+  xy: 117, 45
+  size: 37, 52
+  orig: 37, 54
+  offset: 0, 0
+  index: -1
+BJLQ_lizi_04_lan
+  rotate: false
+  xy: 76, 45
+  size: 37, 52
+  orig: 37, 54
+  offset: 0, 0
+  index: -1
+BJLQ_lizi_04_lv
+  rotate: true
+  xy: 91, 4
+  size: 37, 52
+  orig: 37, 54
+  offset: 0, 0
+  index: -1
+BJLQ_lizi_04_qing
+  rotate: true
+  xy: 147, 4
+  size: 37, 52
+  orig: 37, 54
+  offset: 0, 0
+  index: -1
+BJLQ_lizi_04_zi
+  rotate: false
+  xy: 158, 45
+  size: 37, 52
+  orig: 37, 54
+  offset: 0, 0
+  index: -1
+BJLQ_lizi_04a
+  rotate: false
+  xy: 4, 17
+  size: 27, 80
+  orig: 27, 85
+  offset: 0, 1
+  index: -1

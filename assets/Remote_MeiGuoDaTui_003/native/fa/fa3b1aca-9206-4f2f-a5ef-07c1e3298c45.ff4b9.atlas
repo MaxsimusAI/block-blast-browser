@@ -1,0 +1,104 @@
+
+gameplay_volcan_2.png
+size: 1024,128
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: none
+bk_c1
+  rotate: false
+  xy: 554, 26
+  size: 84, 84
+  orig: 96, 95
+  offset: 6, 8
+  index: -1
+bk_c6
+  rotate: false
+  xy: 554, 26
+  size: 84, 84
+  orig: 96, 95
+  offset: 6, 8
+  index: -1
+bk_c2
+  rotate: false
+  xy: 642, 26
+  size: 84, 84
+  orig: 96, 95
+  offset: 6, 8
+  index: -1
+bk_c7
+  rotate: false
+  xy: 642, 26
+  size: 84, 84
+  orig: 96, 95
+  offset: 6, 8
+  index: -1
+bk_c3
+  rotate: false
+  xy: 730, 26
+  size: 84, 84
+  orig: 96, 95
+  offset: 6, 8
+  index: -1
+bk_c4
+  rotate: false
+  xy: 818, 26
+  size: 84, 84
+  orig: 96, 95
+  offset: 6, 8
+  index: -1
+bk_c5
+  rotate: false
+  xy: 906, 26
+  size: 84, 84
+  orig: 96, 95
+  offset: 6, 8
+  index: -1
+bk_z_1
+  rotate: false
+  xy: 4, 4
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+bk_z_6
+  rotate: false
+  xy: 4, 4
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+bk_z_2
+  rotate: false
+  xy: 114, 4
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+bk_z_7
+  rotate: false
+  xy: 114, 4
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+bk_z_3
+  rotate: false
+  xy: 224, 4
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+bk_z_4
+  rotate: false
+  xy: 334, 4
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+bk_z_5
+  rotate: false
+  xy: 444, 4
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1

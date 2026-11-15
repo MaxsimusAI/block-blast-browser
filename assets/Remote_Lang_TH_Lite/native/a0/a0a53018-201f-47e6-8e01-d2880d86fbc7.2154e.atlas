@@ -1,0 +1,41 @@
+
+main_word_c2.png
+size: 330,111
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+main_img_001
+  rotate: false
+  xy: 2, 2
+  size: 162, 107
+  orig: 162, 107
+  offset: 0, 0
+  index: -1
+main_img_002
+  rotate: true
+  xy: 262, 29
+  size: 80, 30
+  orig: 80, 30
+  offset: 0, 0
+  index: -1
+tx/0006
+  rotate: false
+  xy: 294, 42
+  size: 30, 67
+  orig: 30, 67
+  offset: 0, 0
+  index: -1
+tx/baidian_002
+  rotate: false
+  xy: 294, 6
+  size: 34, 34
+  orig: 57, 55
+  offset: 11, 10
+  index: -1
+tx/guangyun2
+  rotate: false
+  xy: 166, 17
+  size: 94, 92
+  orig: 100, 99
+  offset: 2, 4
+  index: -1

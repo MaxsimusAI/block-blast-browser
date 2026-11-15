@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "Block Blast!",
+  "short_name": "Block Blast",
+  "description": "Block Blast — браузерная игра для телефона и компьютера.",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1662c5",
+  "theme_color": "#1d294b",
+  "icons": [
+    {
+      "src": "shell/icon.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
