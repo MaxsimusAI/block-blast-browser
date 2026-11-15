@@ -69,6 +69,9 @@
       let config;
       try { config = JSON.parse(files[configKey]); }
       catch { return fallback(originalBundle, receiver, [nameOrUrl, options, complete]); }
+      if (!config || typeof config !== 'object' || Array.isArray(config)) {
+        return fallback(originalBundle, receiver, [nameOrUrl, options, complete]);
+      }
       config.base = url + '/';
       const scriptUrl = new URL(scriptKey, base).href;
       let execution = scripts.get(scriptUrl);
